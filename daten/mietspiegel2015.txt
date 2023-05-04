@@ -1,0 +1,3066 @@
+"nm" "nmqm" "wfl" "rooms" "bj" "bez" "wohngut" "wohnbest" "ww0" "zh0" "badkach0" "badextra" "kueche"
+608.4 12.67 48 2 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+780 13 60 2 1983 "Bogenhausen" 1 0 0 0 1 0 1
+822.6 7.48 110 5 1957.5 "Obergiesing" 0 0 0 1 1 1 0
+500 8.62 58 2 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+595 8.5 70 3 1972 "Aubing..." 0 0 0 0 0 0 0
+960 11.85 81 3 2006.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1120 11.55 97 3 2000.5 "Hadern" 1 0 0 0 1 1 1
+685 13.7 50 2 1972 "Maxvorstadt" 1 0 0 0 0 0 1
+767.5 10.81 71 3 1983 "Untergiesing" 0 0 0 0 1 0 0
+565.68 7.44 76 3 1957.5 "Untergiesing" 0 0 0 1 1 1 0
+963.88 11.9 81 3 1972 "Untergiesing" 0 0 0 0 1 0 0
+1100 12.09 91 4 2000.5 "Schwanthalerhöhe" 0 0 0 0 1 1 0
+342.8 11.43 30 1 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+675 9.64 70 3 2000.5 "Trudering-Riem" 0 0 0 0 1 0 1
+942.8 8.81 107 5 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+800 8.6 93 3 1983 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+628.83 6.76 93 4 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+1430 17.02 84 4 1918 "Au-Haidhausen" 1 0 0 0 1 0 1
+675 13.24 51 2 2000.5 "Schwanthalerhöhe" 1 0 0 0 1 0 1
+325 7.22 45 2 1939 "Schwanthalerhöhe" 0 0 0 0 0 0 0
+693.36 10.83 64 3 1957.5 "Sendling" 0 0 0 0 1 0 0
+803.05 5.95 135 5 2010 "Schwanthalerhöhe" 0 0 0 0 1 1 0
+580 13.49 43 2 1939 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 1
+412.58 7.93 52 2 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+700 12.5 56 2 1992.5 "Obergiesing" 0 0 0 0 1 1 1
+360 6.92 52 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+426.35 5.33 80 3 1918 "Untergiesing" 0 1 0 1 1 1 0
+686 12.47 55 2 2000.5 "Thalkirchen..." 0 0 0 0 1 0 1
+974 7.16 136 4 1918 "Au-Haidhausen" 0 0 0 0 0 0 0
+847 13.03 65 2 1918 "Au-Haidhausen" 0 0 0 0 1 0 0
+567 12.6 45 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1141.21 11.19 102 4 1957.5 "Obergiesing" 0 0 0 0 0 0 0
+290.4 6.75 43 2 1957.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1022.08 12.62 81 3 2000.5 "Untergiesing" 0 1 0 0 1 0 1
+790 9.88 80 3 1918 "Obergiesing" 0 0 0 0 1 0 0
+400 14.29 28 1 1957.5 "Untergiesing" 0 0 0 0 1 0 1
+460 12.11 38 1 1972 "Sendling-Westpark" 1 0 0 0 1 0 1
+526.49 11.2 47 2 1918 "Sendling" 0 0 0 1 0 0 0
+781.19 11.66 67 2 1924 "Sendling" 0 0 0 0 1 1 0
+728.34 11.38 64 2 1957.5 "Sendling" 0 0 0 0 1 1 0
+311.59 11.13 28 1 1983 "Sendling-Westpark" 0 0 0 0 1 0 0
+1540 12.83 120 4 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+1300 15.12 86 4 2006.5 "Maxvorstadt" 1 0 0 0 1 0 1
+660 10.31 64 2 2000.5 "Trudering-Riem" 1 0 0 0 1 1 0
+571.83 8.05 71 3 1939 "Untergiesing" 0 0 0 0 1 0 0
+362.79 3.56 102 4 1957.5 "Sendling" 0 0 0 0 1 0 0
+1090 9.08 120 4 1957.5 "Sendling" 1 0 0 0 1 1 0
+505.2 10.1 50 2 1957.5 "Sendling" 0 0 0 0 1 0 0
+710 13.15 54 2 1992.5 "Thalkirchen..." 1 0 0 0 1 0 1
+425 14.66 29 1 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1100 15.71 70 2 1983 "Sendling" 0 0 0 0 1 1 0
+430 12.29 35 2 1983 "Untergiesing" 0 0 0 0 0 0 0
+540 10.19 53 2 1957.5 "Obergiesing" 0 0 0 0 0 0 0
+780 12 65 2 1972 "Sendling-Westpark" 0 0 0 0 1 0 1
+805 11.84 68 2 1983 "Thalkirchen..." 0 0 0 0 1 0 1
+711 12.05 59 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+565 10.27 55 2 1972 "Obergiesing" 0 0 0 0 1 0 1
+600 12.24 49 2 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+695 14.79 47 2 1939 "Obergiesing" 0 0 0 1 1 0 0
+429 13.84 31 1 1957.5 "Obergiesing" 0 0 0 0 1 0 1
+900 11.11 81 3 1992.5 "Sendling" 0 0 0 0 1 1 1
+605.51 7.97 76 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+368.85 6.83 54 2 1972 "Moosach" 0 0 0 0 1 0 0
+505 10.98 46 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+380 12.67 30 1 1972 "Untergiesing" 0 0 0 0 1 0 1
+795 9.24 86 4 1957.5 "Thalkirchen..." 1 0 0 0 1 0 0
+549 10.56 52 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+745 12.84 58 2 1992.5 "Hadern" 1 0 0 0 0 0 1
+635 6.9 92 4 1957.5 "Thalkirchen..." 0 0 0 0 0 0 0
+609 6.77 90 4 1983 "Untergiesing" 1 0 0 0 1 1 0
+313.3 4.54 69 3 1957.5 "Obergiesing" 0 0 0 1 0 0 0
+660.6 7.96 83 3 1972 "Thalkirchen..." 1 0 0 0 1 0 0
+826.06 8.43 98 4 1972 "Thalkirchen..." 1 0 0 0 1 0 0
+600 10.91 55 2 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+720 12.86 56 2 1918 "Au-Haidhausen" 1 0 0 0 1 0 1
+733.25 9.78 75 3 1957.5 "Sendling" 0 0 0 0 1 1 0
+530 13.59 39 2 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+512 9.85 52 2 1939 "Obergiesing" 0 0 0 0 1 0 0
+434.36 6.12 71 3 1972 "Hadern" 0 0 0 0 1 0 0
+360 9.47 38 1 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+1313.4 9.52 138 4 1918 "Sendling" 0 0 0 1 1 1 0
+910 10.46 87 3 1957.5 "Moosach" 1 0 0 0 1 0 0
+588 12 49 2 1992.5 "Thalkirchen..." 1 0 0 0 1 1 0
+915 14.3 64 3 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+520 8.81 59 2 1983 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+640 11.03 58 2 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+1155 10.5 110 5 1918 "Au-Haidhausen" 1 0 0 1 1 0 0
+500 8.93 56 2 1972 "Schwabing-Freimann" 1 0 0 0 1 0 0
+1043.1 11.34 92 5 1992.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+800 10.13 79 2 1918 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 1
+1290 11.22 115 4 1983 "Laim" 0 0 0 0 1 0 1
+315.85 4.94 64 3 1972 "Laim" 0 0 0 0 1 0 0
+274 2.88 95 4 1924 "Sendling" 0 0 0 1 0 0 0
+490 9.07 54 2 1972 "Milbersthofen-Am Hart" 0 0 0 1 1 0 0
+520 18.57 28 1 1992.5 "Maxvorstadt" 1 0 0 0 1 0 0
+700 14 50 2 1939 "Maxvorstadt" 0 0 0 0 1 1 1
+930 12.24 76 3 1939 "Maxvorstadt" 1 0 0 0 1 0 0
+987 10.97 90 4 1957.5 "Neuhausen-Nymphenburg" 0 0 0 1 1 1 0
+710 12.91 55 2 1924 "Ramersdorf-Perlach" 1 0 0 0 1 1 1
+500 6.67 75 2 1957.5 "Maxvorstadt" 1 0 0 1 0 0 0
+522 11.86 44 2 1972 "Maxvorstadt" 1 0 0 0 0 0 0
+1050.74 10.95 96 3 1972 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+503.85 6.38 79 4 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+562.1 7.12 79 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 0
+1136.83 10.33 110 4 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 1 1 1 0
+675 14.36 47 2 1972 "Untergiesing" 0 0 0 0 1 0 1
+660 11 60 2 1957.5 "Untergiesing" 0 0 0 0 1 1 0
+816.38 7.93 103 5 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 1 1 1 0 0
+1226 12.91 95 4 1924 "Maxvorstadt" 1 0 0 0 1 0 0
+408.11 7.85 52 2 1957.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+308.35 6.56 47 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 1 1 0 0
+742.7 13.75 54 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+681.97 9.47 72 3 1957.5 "Schwabing West" 1 0 0 0 0 0 0
+488.34 5.68 86 4 1983 "Obergiesing" 0 0 0 0 1 1 0
+660 11 60 2 1957.5 "Obergiesing" 0 0 0 0 1 1 1
+1075 13.27 81 3 1957.5 "Thalkirchen..." 1 0 0 0 1 0 1
+817 13.39 61 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+664.22 7.14 93 4 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+1120 13.18 85 3 1939 "Laim" 1 0 0 0 1 0 0
+1095 12.73 86 3 1983 "Milbersthofen-Am Hart" 0 0 0 0 1 1 0
+510 8.23 62 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 1 0 0 0
+984 12 82 4 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+461 5.12 90 3 1924 "Ramersdorf-Perlach" 0 0 1 1 1 0 0
+422 8.12 52 2 1939 "Untergiesing" 0 0 0 0 1 0 0
+825 8.97 92 3 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+579.2 9.34 62 3 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+795 9.94 80 3 1983 "Bogenhausen" 0 0 0 0 1 0 0
+1020 8.5 120 5 1957.5 "Aubing..." 0 0 0 0 1 0 0
+649.5 11.81 55 2 1983 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1000 11.9 84 2 1918 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 1
+807.46 7.76 104 3 1924 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+708 7.96 89 3 1924 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+271 3.61 75 3 1924 "Neuhausen-Nymphenburg" 0 1 1 1 1 0 0
+281.25 9.07 31 1 1957.5 "Altstadt-Lehel" 0 1 0 0 0 0 0
+850.33 8.95 95 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 0
+412.44 5.29 78 4 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+264.67 4.73 56 3 1957.5 "Schwabing West" 0 0 0 0 0 0 0
+600 12.5 48 2 2000.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+760 11.01 69 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+520.18 11.31 46 2 1939 "Thalkirchen..." 0 0 0 1 0 0 0
+680 12.14 56 2 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+595 10.82 55 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 1
+349.88 8.75 40 1 1983 "Aubing..." 0 0 0 0 0 0 0
+954 12.08 79 3 1939 "Schwabing-Freimann" 1 0 0 0 1 0 0
+1150 14.38 80 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+358.67 6.64 54 2 1972 "Sendling-Westpark" 0 0 0 0 1 1 0
+1431.44 7.27 197 8 1918 "Altstadt-Lehel" 0 1 0 0 0 0 0
+1090 9.73 112 5 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+872.67 8.56 102 4 1918 "Schwabing-Freimann" 0 1 0 0 1 0 0
+244 6.78 36 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+830 11.69 71 3 1924 "Schwabing West" 0 0 0 0 1 0 0
+595 12.14 49 2 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+1100 14.1 78 2 1992.5 "Schwabing West" 1 0 0 0 1 1 1
+550 11.7 47 2 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1250 8.93 140 5 1918 "Altstadt-Lehel" 0 1 0 0 1 0 0
+555.85 6.18 90 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+1320 12.22 108 3 1918 "Obergiesing" 0 0 0 0 1 0 0
+690 11.5 60 2 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+332.54 5.45 61 3 1957.5 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+839 9.76 86 4 1924 "Maxvorstadt" 1 0 0 0 1 1 0
+1250 13.59 92 3 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 1 0
+675 11.07 61 2 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+432.29 6.18 70 2 1924 "Maxvorstadt" 1 0 0 1 1 0 0
+1045.6 11.01 95 4 1957.5 "Untergiesing" 0 0 0 0 1 1 0
+709 11.62 61 3 1939 "Sendling-Westpark" 1 0 0 0 0 0 0
+674.4 8.43 80 3 1957.5 "Thalkirchen..." 1 0 0 0 1 0 0
+449 11.22 40 2 1939 "Thalkirchen..." 1 0 0 0 0 0 0
+970 11.69 83 3 1983 "Sendling-Westpark" 1 0 0 0 1 1 1
+540 11.25 48 1 1957.5 "Thalkirchen..." 1 0 0 0 1 0 1
+347.18 6.09 57 2 1924 "Thalkirchen..." 0 0 0 0 1 0 0
+393.8 6.15 64 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+303 4.81 63 2 1918 "Sendling" 0 0 0 0 1 0 0
+827 10.21 81 4 1972 "Sendling" 0 0 0 0 1 0 0
+1150 10.95 105 5 1972 "Pasing-Obermenzing" 0 1 0 0 1 1 0
+650 10.16 64 2 1972 "Laim" 0 0 0 0 1 0 1
+640 8.1 79 2 2010 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+980 13.61 72 2 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 1
+895 12.61 71 3 1972 "Untergiesing" 1 0 0 0 1 0 1
+444.38 11.11 40 1 1972 "Aubing..." 0 0 0 0 1 0 0
+960 9.6 100 4 1957.5 "Aubing..." 0 0 0 0 1 0 0
+461.09 8.54 54 2 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+670 10.31 65 2 1924 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+661.37 7.35 90 3 1957.5 "Maxvorstadt" 1 0 0 0 1 1 0
+987.55 11.9 83 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+826.03 11.8 70 2 1939 "Neuhausen-Nymphenburg" 1 0 0 0 1 1 0
+595 11.9 50 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+322.98 7.02 46 2 1957.5 "Au-Haidhausen" 0 0 0 1 1 0 0
+274 4.49 61 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+1350 12.98 104 4 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+680.54 8.3 82 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+426.67 6.56 65 3 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+923.99 13.39 69 3 1918 "Sendling" 0 0 0 0 1 0 0
+695 13.37 52 2 1939 "Sendling-Westpark" 0 0 0 0 1 0 0
+674.9 8.44 80 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 1 0 0
+1950 10.83 180 5 1918 "Altstadt-Lehel" 1 0 0 0 1 0 0
+1142 8.16 140 5 1918 "Altstadt-Lehel" 0 1 0 0 1 0 0
+720 12.63 57 2 1992.5 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+432 12 36 1 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+805 14.38 56 2 1957.5 "Schwabing West" 1 0 0 0 1 0 1
+436.3 8.08 54 2 1957.5 "Schwabing West" 0 0 0 0 1 0 0
+320 12.31 26 1 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+375.1 6.36 59 3 1957.5 "Sendling-Westpark" 0 0 0 1 0 0 0
+590 9.83 60 2 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+255.98 7.76 33 1 1918 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+413.12 7.25 57 2 1924 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+484.88 7.35 66 4 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+841.72 8.25 102 4 1918 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+609.34 7.43 82 3 1918 "Schwanthalerhöhe" 0 0 0 0 0 0 0
+772 8.21 94 4 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+934.75 15.58 60 2 1972 "Bogenhausen" 0 1 0 0 1 0 0
+635 10.76 59 2 1983 "Bogenhausen" 1 0 0 0 1 0 0
+730 13.04 56 2 1924 "Ludwigvorstadt-Isarvorstadt" 0 0 0 1 1 0 0
+820 13.02 63 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+589.1 5.89 100 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 0 0 0
+850 9.34 91 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+515.75 8.6 60 2 1939 "Schwabing West" 0 0 0 0 1 0 0
+800 13.33 60 3 1939 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+870 10.88 80 3 1972 "Untergiesing" 0 0 0 0 1 0 0
+840 10.24 82 2 1957.5 "Altstadt-Lehel" 1 0 0 0 1 1 1
+513 7.43 69 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+1250 14.71 85 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+621.53 10.9 57 2 2000.5 "Schwabing-Freimann" 0 0 0 0 1 0 1
+827 10.34 80 4 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+353 5.27 67 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+608.67 8.45 72 3 1972 "Schwabing-Freimann" 0 0 0 0 1 0 0
+1010.08 10.31 98 4 1918 "Schwabing West" 1 0 0 0 0 0 0
+832.74 10.68 78 3 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+880 13.54 65 2 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+294.35 7.75 38 1 1957.5 "Hadern" 0 0 0 0 1 0 0
+340 10 34 1 1957.5 "Hadern" 0 0 0 0 1 0 1
+1166.51 5.07 230 8 1918 "Laim" 0 0 0 1 1 0 0
+415.31 4.15 100 4 1924 "Schwabing West" 0 0 1 1 1 0 0
+715.63 5.11 140 5 1918 "Schwabing West" 1 0 0 0 1 1 0
+185 2.47 75 3 1924 "Schwabing West" 1 0 0 0 0 0 0
+610.8 9.7 63 3 1957.5 "Sendling" 0 0 0 0 1 0 0
+287.45 5.23 55 2 1918 "Sendling" 0 0 0 1 1 0 0
+540 14.59 37 1 1918 "Au-Haidhausen" 1 0 0 1 1 0 1
+621.05 9.13 68 3 1972 "Berg am Laim" 0 0 0 0 1 0 0
+675 10.38 65 2 1983 "Berg am Laim" 0 0 0 0 1 0 1
+680 10.46 65 2 1983 "Berg am Laim" 0 0 0 0 1 0 0
+590 12.04 49 2 1918 "Au-Haidhausen" 1 0 0 1 0 0 0
+708.48 10.12 70 3 1924 "Au-Haidhausen" 0 0 0 0 0 0 0
+1116.39 12 93 3 1918 "Sendling" 0 0 0 0 0 0 0
+702 11.7 60 2 1918 "Sendling" 0 0 0 1 1 0 0
+600 11.11 54 2 1983 "Laim" 0 0 0 0 1 0 1
+320 8.89 36 1 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+616 7.51 82 3 1983 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+339.72 6.07 56 3 1939 "Milbersthofen-Am Hart" 0 0 0 1 1 0 0
+437.72 9.31 47 2 1918 "Au-Haidhausen" 0 0 0 1 1 0 0
+785 10.61 74 3 1983 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+265.29 6.32 42 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+780 9.51 82 3 1939 "Berg am Laim" 0 0 0 0 1 0 0
+681 6.61 103 5 1939 "Berg am Laim" 0 0 0 0 1 0 0
+884.36 8.11 109 5 1924 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+657 7.55 87 4 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+577.82 8.62 67 3 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+900 13.43 67 3 1992.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+1000 14.71 68 2 1983 "Sendling" 0 0 0 0 1 0 0
+1887 16.7 113 5 1918 "Au-Haidhausen" 0 0 0 0 1 0 0
+1090 11.35 96 3 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+1012.5 6.75 150 4 1918 "Sendling" 0 0 0 1 1 1 0
+332 9.49 35 1 1957.5 "Sendling" 0 0 0 0 0 0 0
+472.52 7.5 63 3 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+659.77 12.69 52 2 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+639.5 12.79 50 3 1957.5 "Thalkirchen..." 1 0 0 0 1 0 0
+1089 11.97 91 3 2012.5 "Thalkirchen..." 0 0 0 0 1 0 0
+287.76 6.69 43 2 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+690 10.45 66 3 1992.5 "Bogenhausen" 0 0 0 0 1 0 1
+1015 9.4 108 5 1972 "Hadern" 1 0 0 0 1 0 1
+685 12.69 54 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+909.77 8.42 108 4 1918 "Altstadt-Lehel" 0 1 0 1 1 0 0
+1000 11.76 85 4 1972 "Bogenhausen" 1 0 0 0 1 0 0
+770 9.75 79 3 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+880 11 80 3 1924 "Au-Haidhausen" 0 0 0 0 1 0 0
+529.8 13.58 39 2 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+707 11.05 64 3 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+460 9.58 48 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+1030 12.56 82 3 1939 "Schwabing West" 1 0 0 0 1 0 1
+583 6.55 89 4 1983 "Pasing-Obermenzing" 1 0 0 0 1 1 0
+316.4 10.21 31 1 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 0
+727.8 8.09 90 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 1 0 0
+647.43 7.19 90 4 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 0 0 0
+312.66 5.13 61 2 1957.5 "Sendling" 0 0 1 1 0 0 0
+345 11.5 30 1 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 0
+1078 12.68 85 3 1983 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+1112 11.12 100 4 1918 "Altstadt-Lehel" 0 1 0 0 1 1 0
+595.71 10.64 56 3 1918 "Maxvorstadt" 0 0 0 0 1 0 1
+490 10.65 46 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+870 12.79 68 2 1972 "Bogenhausen" 1 0 0 0 1 0 0
+579.88 8.4 69 3 1972 "Untergiesing" 0 0 0 0 1 0 0
+517.08 8.92 58 2 1957.5 "Untergiesing" 0 0 0 1 1 0 0
+1655 12.93 128 5 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+391.15 6.74 58 2 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1550 14.9 104 3 1939 "Au-Haidhausen" 1 0 0 0 1 1 1
+650 10.32 63 3 1957.5 "Untergiesing" 0 0 0 0 1 1 0
+1400 13.08 107 4 1992.5 "Pasing-Obermenzing" 0 0 0 0 1 1 1
+1100.5 10.58 104 3 1918 "Pasing-Obermenzing" 1 0 0 0 1 1 1
+660 12.22 54 3 2000.5 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+452.25 9.04 50 2 1939 "Obergiesing" 0 0 0 1 1 0 0
+850 11.18 76 3 1983 "Untergiesing" 0 0 0 0 1 0 0
+589.96 8.43 70 2 1939 "Schwabing West" 0 0 0 0 1 0 0
+610 12.98 47 2 1957.5 "Maxvorstadt" 1 0 0 1 1 0 0
+1031.54 13.22 78 3 1992.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+550 8.87 62 3 1957.5 "Schwabing-Freimann" 0 0 0 0 0 0 0
+716.03 9.81 73 3 1924 "Bogenhausen" 0 0 0 0 1 0 0
+771.77 9.19 84 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 1 0 0
+1115 8.92 125 4 1924 "Laim" 0 0 0 0 1 1 0
+746.69 9.22 81 3 1918 "Au-Haidhausen" 0 0 0 0 1 0 0
+731.56 8.71 84 3 1924 "Untergiesing" 1 0 1 0 1 0 0
+638 11.81 54 2 1957.5 "Obergiesing" 0 0 1 1 1 0 1
+745 9.09 82 4 1957.5 "Untergiesing" 1 0 0 0 0 0 0
+1115.08 11.38 98 4 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+792.06 11.32 70 2 1983 "Maxvorstadt" 1 0 0 0 1 0 0
+782.1 9.42 83 3 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+458.19 13.48 34 1 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+785 11.54 68 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+795 12.42 64 3 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+511 4.78 107 5 1918 "Sendling" 0 0 0 0 1 0 0
+808.99 8.26 98 4 1983 "Sendling" 0 0 0 0 1 1 0
+780 9.4 83 3 1957.5 "Hadern" 1 0 0 0 1 0 0
+1030 11.44 90 4 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+957 14.07 68 3 2000.5 "Bogenhausen" 0 0 0 0 1 1 0
+645 12.4 52 2 1957.5 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+428.07 9.51 45 2 1983 "Aubing..." 0 0 0 0 0 0 0
+276.63 5.22 53 2 1924 "Au-Haidhausen" 0 0 0 1 1 0 0
+1495 11.87 126 5 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+598 9.97 60 3 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+456 6 76 3 1924 "Au-Haidhausen" 1 0 0 0 1 0 0
+1253.45 12.41 101 4 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+1503.96 9.06 166 6 1918 "Maxvorstadt" 1 0 0 0 1 1 0
+642.9 8.57 75 3 1918 "Schwabing West" 1 0 0 1 1 0 0
+259 6.47 40 2 1918 "Maxvorstadt" 1 0 0 0 0 0 0
+568.9 6.32 90 3 1918 "Maxvorstadt" 1 0 0 1 1 0 0
+688 8 86 3 1918 "Maxvorstadt" 0 0 0 0 1 0 0
+900 8.65 104 4 1983 "Schwabing West" 0 0 0 0 0 0 0
+760 13.33 57 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+1840 12.69 145 4 1939 "Schwabing West" 1 0 0 0 1 1 0
+700 16.28 43 2 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+540 12 45 2 1918 "Maxvorstadt" 1 0 0 0 0 0 0
+940 12.7 74 3 2006.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+570 9.83 58 2 1957.5 "Untergiesing" 0 0 0 1 1 0 0
+695 10.86 64 3 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+590 9.67 61 2 1972 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+900 14.29 63 3 1957.5 "Sendling-Westpark" 0 0 0 0 0 0 1
+388 4.26 91 4 1918 "Obergiesing" 0 0 0 1 1 0 0
+390 12.58 31 1 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+1020 14.57 70 3 1983 "Schwabing West" 1 0 0 0 1 0 1
+700 9.33 75 3 1957.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+708.92 5.45 130 5 1918 "Sendling" 0 0 0 0 1 0 0
+307 5.2 59 2 1957.5 "Sendling" 0 0 0 0 1 0 0
+1150 11.5 100 4 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+555 11.33 49 2 1918 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+374.37 4.93 76 3 1924 "Neuhausen-Nymphenburg" 1 0 0 1 1 0 0
+424.33 6.43 66 3 1924 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+433.65 7.88 55 2 1939 "Untergiesing" 0 0 0 0 1 0 0
+474 6.58 72 2 1918 "Untergiesing" 0 0 0 1 0 0 0
+659.69 7.95 83 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+770 9.63 80 3 2000.5 "Ramersdorf-Perlach" 1 0 0 0 1 1 1
+520 8.52 61 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+1080 12.86 84 3 1983 "Berg am Laim" 0 0 0 0 1 0 1
+800 12.31 65 3 1957.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+690 11.13 62 3 1983 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+705 10.68 66 3 1957.5 "Moosach" 0 0 0 0 0 0 0
+1250 11.9 105 3 1992.5 "Moosach" 0 0 0 0 1 1 0
+968.03 10.76 90 4 1924 "Au-Haidhausen" 1 0 0 0 1 0 0
+735.5 9.81 75 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+782 9.78 80 4 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+637 12.74 50 2 1939 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+792 9 88 2 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 1 0 0
+995 10.26 97 4 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+687.33 9.16 75 3 1924 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+744 6.2 120 4 1924 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 1 0
+650 10.48 62 2 1918 "Sendling" 0 0 0 0 1 0 1
+416.48 10.68 39 1 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+610 11.09 55 2 1983 "Moosach" 0 0 0 0 1 0 0
+650 7.93 82 3 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+781.1 11.16 70 2 1918 "Au-Haidhausen" 1 0 0 0 1 1 1
+607.01 9.95 61 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+1032 12.14 85 3 1972 "Sendling-Westpark" 1 0 0 0 1 0 1
+750 12.1 62 2 1957.5 "Bogenhausen" 0 1 0 0 1 0 0
+821.8 7.61 108 5 1939 "Milbersthofen-Am Hart" 0 0 0 0 1 1 0
+997 10.17 98 4 1918 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+492 6 82 3 1924 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+372.98 5.49 68 2 1924 "Neuhausen-Nymphenburg" 0 0 0 1 0 0 0
+476.23 7 68 3 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+760 11.18 68 2 1939 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+447.39 9.32 48 2 1957.5 "Schwabing-Freimann" 1 0 0 0 0 0 0
+411.16 5.96 69 3 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+657.8 8.77 75 2 1918 "Neuhausen-Nymphenburg" 1 0 0 1 1 0 0
+522.03 10.88 48 2 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1047.39 9.11 115 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+818.88 13.65 60 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 0 0 0
+455.01 7.22 63 2 1924 "Au-Haidhausen" 0 0 0 1 1 0 0
+848 9.86 86 3 2010 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+890 12.54 71 3 2006.5 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+727.74 9.33 78 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+440 5.3 83 3 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+525 9.72 54 2 1983 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+750 10 75 3 1918 "Pasing-Obermenzing" 1 0 0 0 1 1 0
+445 13.91 32 1 1972 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+1095 12.3 89 3 1939 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+399.83 5.13 78 3 1918 "Au-Haidhausen" 1 0 1 1 1 0 0
+697.37 7.66 91 4 1918 "Au-Haidhausen" 1 0 0 0 1 1 0
+943 12.92 73 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+243.14 5.93 41 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1100 11.96 92 4 1924 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+820 10.51 78 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+610.08 11.73 52 2 1957.5 "Au-Haidhausen" 0 0 0 0 0 0 0
+538 6.9 78 2 1972 "Obergiesing" 0 0 0 0 1 0 0
+447.42 9.94 45 2 1939 "Untergiesing" 0 0 0 0 1 0 0
+833 10.41 80 3 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+1045 11 95 3 1992.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+755 8.99 84 3 1918 "Au-Haidhausen" 1 0 0 1 1 1 0
+391.37 8.15 48 2 1957.5 "Ramersdorf-Perlach" 0 0 0 1 0 0 0
+736 11.32 65 2 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+450 8.33 54 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+616 12.32 50 2 1939 "Sendling" 0 0 0 0 0 0 0
+769.39 12.02 64 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+658.36 8.78 75 3 1924 "Au-Haidhausen" 0 0 0 0 0 0 0
+504.31 10.51 48 2 1924 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+765 12.97 59 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+620.6 9.55 65 2 1983 "Maxvorstadt" 1 0 0 0 1 0 0
+353.19 5.61 63 3 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+509.77 6.62 77 4 1957.5 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+631 10.88 58 2 1972 "Laim" 0 0 0 0 1 0 0
+606 10.45 58 2 1972 "Moosach" 0 0 0 0 1 0 1
+700 8.05 87 3 1983 "Pasing-Obermenzing" 0 0 0 0 1 1 0
+550 10 55 2 2006.5 "Allach-Untermenzing" 0 0 0 0 1 0 1
+259 6.02 43 2 1924 "Thalkirchen..." 0 0 0 0 1 0 0
+550 11.22 49 3 1918 "Thalkirchen..." 1 0 0 0 0 0 0
+445.32 6.55 68 3 1972 "Sendling-Westpark" 0 0 0 1 0 0 0
+247 5.74 43 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+1080 11.49 94 2 1918 "Au-Haidhausen" 0 1 0 0 1 0 0
+1533.59 10.22 150 5 1918 "Au-Haidhausen" 1 0 0 0 1 1 0
+945 9.45 100 4 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+445.91 5.87 76 3 1939 "Au-Haidhausen" 1 0 0 0 0 0 0
+720.05 10.29 70 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+769 8.27 93 4 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+1250 13.16 95 3 1972 "Untergiesing" 0 1 0 0 1 1 0
+572 7.73 74 2 1924 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+600 11.76 51 2 1957.5 "Laim" 0 0 0 0 0 0 0
+610 9.24 66 2 1983 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+502 6.88 73 3 1939 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 0
+487.57 7.99 61 2 1972 "Untergiesing" 0 0 0 0 1 0 0
+408.1 6 68 3 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+660 11 60 2 1957.5 "Schwabing-Freimann" 1 0 0 0 0 0 1
+1750 16.06 109 3 1918 "Schwabing-Freimann" 1 0 0 0 1 0 0
+333 10.74 31 1 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+415.26 11.54 36 1 1972 "Sendling" 0 0 0 0 1 0 0
+1298 11.59 112 4 1924 "Schwabing West" 1 0 0 0 1 0 0
+570 14.25 40 2 1972 "Schwabing-Freimann" 1 0 0 0 1 0 1
+211.93 4.93 43 2 1939 "Milbersthofen-Am Hart" 0 0 0 1 0 0 0
+990 13.2 75 3 1957.5 "Schwabing West" 0 0 0 0 1 0 1
+1050 12.5 84 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+216.36 3.61 60 2 1918 "Neuhausen-Nymphenburg" 0 0 0 1 1 0 0
+770 9.28 83 4 1957.5 "Laim" 1 0 0 0 1 0 1
+370 7.55 49 2 1939 "Untergiesing" 0 0 0 1 0 0 0
+353.14 5.89 60 3 1972 "Laim" 0 0 0 0 1 0 0
+618.17 8.83 70 3 1918 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+1050 14.38 73 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+390 14.44 27 1 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+726.61 7.57 96 4 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+382.04 5.7 67 2 1918 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+315.69 5.85 54 2 1924 "Schwabing West" 0 0 1 1 1 0 0
+555 7.5 74 3 1957.5 "Sendling-Westpark" 0 0 0 0 0 0 0
+1040 11.82 88 4 1918 "Au-Haidhausen" 0 0 0 0 1 0 0
+410 6.83 60 2 1957.5 "Allach-Untermenzing" 0 0 0 0 1 0 0
+624.55 7.91 79 3 1972 "Sendling-Westpark" 0 0 0 0 0 0 0
+730 14.6 50 2 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+634.63 9.92 64 2 1939 "Thalkirchen..." 1 0 0 0 0 0 0
+640 11.85 54 2 1957.5 "Sendling" 0 0 0 0 1 0 1
+303.05 6.31 48 2 1939 "Obergiesing" 0 0 0 0 0 0 0
+329 7.15 46 2 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+763 20.62 37 1 1983 "Berg am Laim" 0 0 0 0 1 0 0
+760 12.06 63 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+1200 13.04 92 4 1992.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+685 9.38 73 3 1972 "Obergiesing" 0 0 0 0 1 0 0
+1242.4 8.57 145 5 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+850 11.33 75 3 1983 "Thalkirchen..." 1 0 0 0 1 1 1
+920 11.22 82 3 1957.5 "Sendling" 1 0 0 0 1 0 1
+428 8.56 50 2 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1590 16.74 95 3 1939 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+415 10.38 40 2 1972 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+946 11 86 2 1957.5 "Maxvorstadt" 1 0 0 1 1 0 0
+990 7.86 126 4 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+872 12.46 70 2 1957.5 "Sendling" 0 0 0 1 1 0 0
+1706.24 12.64 135 5 1939 "Sendling" 0 0 0 1 1 0 0
+1245.07 13.39 93 3 1918 "Sendling" 0 0 0 0 1 0 1
+975 15.73 62 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+581.43 6.92 84 3 1957.5 "Au-Haidhausen" 1 0 1 1 1 0 0
+400 6.67 60 3 1972 "Berg am Laim" 0 0 0 0 1 0 0
+621.09 6.09 102 4 1924 "Pasing-Obermenzing" 1 0 0 0 1 1 0
+850 8.33 102 3 1972 "Berg am Laim" 0 0 0 0 1 1 0
+590 10.17 58 2 1957.5 "Untergiesing" 0 0 0 0 1 0 1
+523.35 6.16 85 3 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+666.8 9.53 70 3 1992.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+849 12.49 68 3 1939 "Bogenhausen" 1 0 0 0 1 0 0
+1735 18.46 94 3 1957.5 "Bogenhausen" 0 0 0 0 1 1 0
+613 8.28 74 3 1939 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 0
+700 10 70 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+384 7.68 50 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+657.29 7.82 84 4 1957.5 "Laim" 0 0 0 0 1 0 0
+480 12.63 38 1 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1060 10 106 5 1983 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 0
+589 9.06 65 3 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+528.76 9.28 57 2 1939 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+900 15 60 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+650.25 8.56 76 3 1939 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+653.38 12.56 52 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+849 9.76 87 4 1957.5 "Schwabing West" 1 0 0 0 0 0 0
+875 14.34 61 2 2010 "Maxvorstadt" 1 0 0 0 1 0 0
+680 10.79 63 2 1992.5 "Schwabing-Freimann" 0 0 0 0 1 0 1
+780 11.47 68 3 1992.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+343 7 49 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 1 0 0 0
+950 11.05 86 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+900 10 90 3 1957.5 "Bogenhausen" 1 0 0 0 1 1 0
+657.34 8.12 81 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+310.18 3.2 97 4 1924 "Au-Haidhausen" 1 0 0 0 1 0 0
+1040 8.67 120 4 1918 "Untergiesing" 0 0 0 1 1 0 0
+1124 11.96 94 4 1992.5 "Sendling" 0 0 0 0 1 0 0
+790 12.95 61 2 1957.5 "Au-Haidhausen" 0 0 0 1 1 0 0
+1020 11.72 87 3 1992.5 "Allach-Untermenzing" 0 0 0 0 1 0 1
+398 8.12 49 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+780 12.38 63 3 2012.5 "Schwabing-Freimann" 0 0 0 0 1 0 1
+750 9.74 77 3 1992.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 1
+640 7.27 88 3 1972 "Sendling" 0 0 0 1 1 0 0
+995 14.63 68 2 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+840 11.05 76 3 1957.5 "Sendling" 0 0 0 0 1 0 0
+798.95 8.41 95 3 1918 "Sendling" 0 0 0 1 0 0 0
+518.35 7.41 70 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+368 5.58 66 2 1983 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+650 10.83 60 2 1972 "Trudering-Riem" 1 0 0 0 1 0 0
+1500 18.07 83 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+490 12.25 40 1 1957.5 "Maxvorstadt" 0 0 0 0 1 0 0
+499 7.8 64 3 1957.5 "Obergiesing" 0 0 0 0 0 0 0
+386 7.15 54 2 1957.5 "Obergiesing" 0 0 0 0 0 0 0
+468.28 6 78 2 1939 "Sendling" 0 0 0 0 1 0 0
+448 6.22 72 2 1924 "Sendling" 0 0 0 0 1 0 0
+1000 12.35 81 4 1957.5 "Schwabing-Freimann" 1 0 0 0 1 1 0
+514 10.49 49 2 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+698.1 9.97 70 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+1100 12.22 90 3 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+800 8.51 94 3 1918 "Au-Haidhausen" 0 0 0 0 1 1 0
+715 11.17 64 2 1983 "Thalkirchen..." 0 0 0 0 1 0 0
+854.49 12.38 69 3 1957.5 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+443.63 7.52 59 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 1 1 0 0
+738.4 6.21 119 4 1918 "Schwanthalerhöhe" 0 0 0 0 0 0 0
+440 11 40 2 1957.5 "Laim" 1 0 0 0 0 0 0
+784 14 56 2 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+1070 12.74 84 3 1924 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+453 8.39 54 2 1939 "Schwabing-Freimann" 0 0 0 0 0 0 0
+645 8.06 80 4 1957.5 "Schwabing-Freimann" 1 0 0 0 0 0 0
+500 17.24 29 1 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+695.07 9.52 73 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+237 4.74 50 2 1939 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+1300 9.42 138 4 1918 "Maxvorstadt" 1 0 0 0 0 0 0
+670 11.96 56 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+721 10.3 70 3 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+798.87 9.18 87 3 1939 "Schwabing West" 1 0 0 0 1 0 0
+630 10 63 3 1957.5 "Maxvorstadt" 1 0 0 0 0 0 1
+479.38 6.23 77 3 1924 "Moosach" 0 0 0 0 1 0 0
+738.8 5.68 130 4 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1360 12.48 109 4 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1343.3 8.34 161 5 1918 "Schwabing-Freimann" 1 0 0 0 1 1 0
+515.25 7.93 65 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+740 9.87 75 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+725 11.15 65 2 1957.5 "Sendling" 0 0 0 0 1 0 0
+371 5.8 64 3 1939 "Sendling-Westpark" 0 0 0 0 1 0 0
+901.4 11.27 80 3 1918 "Au-Haidhausen" 1 0 0 0 1 0 1
+483.21 6.44 75 3 1939 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+540 11.02 49 2 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+1375 13.1 105 4 1918 "Altstadt-Lehel" 1 0 0 0 1 0 0
+510 10 51 2 1972 "Obergiesing" 0 0 0 0 1 0 0
+416.64 5.02 83 2 1924 "Obergiesing" 0 0 0 0 1 0 0
+212.93 3.94 54 2 1939 "Schwabing West" 1 0 0 1 1 0 0
+1057 13.38 79 3 1972 "Schwabing West" 1 0 0 0 1 0 0
+392 15.68 25 1 1957.5 "Maxvorstadt" 0 0 0 0 1 0 0
+822 9.67 85 3 1983 "Au-Haidhausen" 1 0 0 1 1 0 0
+851 10.51 81 4 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+327.77 4.68 70 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+590 7.56 78 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+623 11.98 52 2 1957.5 "Altstadt-Lehel" 1 0 0 0 1 0 0
+800 11.76 68 3 1939 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+690.46 8.42 82 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+448 7.72 58 2 1939 "Untergiesing" 0 0 0 0 1 0 0
+616 8.44 73 4 1992.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+785 9.69 81 3 1939 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+848 9.75 87 4 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+600 8.96 67 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+1011 14.04 72 2 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+1361 10.98 124 4 1957.5 "Untergiesing" 0 1 0 0 1 0 0
+374.39 7.2 52 2 1957.5 "Moosach" 0 0 0 0 0 0 0
+720 10.43 69 3 1972 "Moosach" 0 0 0 0 1 0 0
+563 7.93 71 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+283 6.74 42 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+282.36 7.24 39 1 1972 "Aubing..." 0 0 0 1 1 0 1
+474.82 6.33 75 3 1957.5 "Au-Haidhausen" 1 0 1 1 0 0 0
+314 5.61 56 2 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+1635 15.42 106 4 1957.5 "Bogenhausen" 0 1 0 0 1 1 1
+840 9.88 85 4 1918 "Au-Haidhausen" 0 0 0 0 1 0 0
+795 13.25 60 2 1957.5 "Trudering-Riem" 1 0 0 0 0 0 0
+603.65 12.07 50 2 2000.5 "Sendling" 1 0 0 0 1 0 1
+741 10.01 74 2 2000.5 "Aubing..." 0 0 0 0 1 0 1
+566 10.29 55 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+420 7.12 59 2 1957.5 "Sendling" 0 0 0 0 1 0 0
+996 10.48 95 5 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+887 11.83 75 3 1924 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 1
+551 9.5 58 3 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 1 0 0
+515 10.96 47 2 1939 "Thalkirchen..." 0 0 0 0 1 0 1
+548 13.05 42 2 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 0
+485 13.11 37 1 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+649.87 8.66 75 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+600 8.7 69 3 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+990 11.79 84 4 1939 "Schwabing-Freimann" 0 0 0 0 1 1 0
+460.37 6.48 71 3 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1219 11.18 109 5 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+771.42 9.76 79 3 1918 "Au-Haidhausen" 0 0 0 1 1 0 0
+503.03 10.27 49 2 1957.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+614.65 6.03 102 6 1939 "Berg am Laim" 0 0 0 0 0 0 0
+790 12.54 63 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+500 10.2 49 2 1957.5 "Schwabing-Freimann" 0 0 0 0 0 0 0
+575 9.43 61 3 2012.5 "Bogenhausen" 1 0 0 0 1 0 1
+593.94 10.42 57 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+544.48 9.39 58 2 1924 "Obergiesing" 0 0 0 0 0 0 0
+850 8.85 96 4 1939 "Bogenhausen" 1 0 0 0 1 1 0
+920 12.27 75 3 1983 "Schwabing-Freimann" 1 0 0 0 1 0 0
+580 11.84 49 2 1992.5 "Moosach" 0 0 0 0 1 0 1
+343.99 6.37 54 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+422 6.39 66 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+379.28 4.41 86 4 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+533.9 8.9 60 2 1939 "Laim" 1 0 0 0 1 0 1
+400 16.67 24 1 1957.5 "Schwabing-Freimann" 1 0 0 0 0 0 1
+1052.8 10.32 102 4 1972 "Untergiesing" 0 1 0 0 1 1 0
+333 5.46 61 3 1924 "Untergiesing" 0 0 0 1 0 0 0
+825 10.86 76 3 1972 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+580 9.21 63 2 1918 "Berg am Laim" 0 0 0 0 1 0 0
+1783 8.83 202 4 1918 "Altstadt-Lehel" 0 0 0 0 1 0 0
+1341.7 12.9 104 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+680 10.46 65 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+590 9.83 60 2 1957.5 "Untergiesing" 0 0 0 0 0 0 0
+1810 12.07 150 5 1918 "Maxvorstadt" 1 0 0 0 1 1 0
+1000 9.71 103 4 1992.5 "Aubing..." 0 0 0 0 1 1 0
+550 7.86 70 3 1939 "Milbersthofen-Am Hart" 0 0 0 0 1 1 0
+646.8 8.51 76 3 1939 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+648.47 6.69 97 5 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+440 10.23 43 2 1918 "Schwabing-Freimann" 1 0 0 1 1 0 0
+588 7.74 76 3 1924 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+420 12 35 1 1924 "Au-Haidhausen" 1 0 0 0 1 0 1
+735 11.48 64 1 2000.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+900 12.16 74 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+702.3 12.32 57 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+852 6.17 138 4 1918 "Altstadt-Lehel" 0 1 0 0 1 0 0
+541.99 10.84 50 2 1957.5 "Altstadt-Lehel" 0 1 0 0 1 0 0
+1320 11 120 4 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 1
+648.57 10.13 64 2 1939 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+1005 11.96 84 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+980 14.85 66 4 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1804.09 10.61 170 4 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 1
+764 7.88 97 4 1918 "Altstadt-Lehel" 0 1 0 0 1 0 0
+980 11.14 88 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+1220 15.06 81 3 1939 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+700 12.5 56 2 1957.5 "Sendling" 0 0 0 0 1 1 0
+399.64 5.47 73 3 1924 "Sendling-Westpark" 0 0 0 0 1 0 0
+770 10 77 3 1918 "Maxvorstadt" 0 0 0 0 1 0 0
+1240 16.1 77 3 1957.5 "Schwabing West" 1 0 0 0 1 0 1
+745 12.42 60 2 1918 "Obergiesing" 0 0 0 1 0 0 0
+800 8.51 94 4 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+810 7.36 110 4 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 0
+271.9 5.04 54 2 1983 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+629 13.1 48 2 1957.5 "Aubing..." 0 0 0 0 1 0 1
+517.75 11.51 45 1 1918 "Moosach" 0 0 0 0 1 0 0
+555.5 11.82 47 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+850 8.5 100 4 1957.5 "Thalkirchen..." 1 0 0 0 1 0 0
+731.5 9.89 74 4 1957.5 "Thalkirchen..." 1 0 0 0 0 0 0
+502.76 6.62 76 3 1918 "Bogenhausen" 1 0 0 1 1 0 1
+738 8.79 84 3 1983 "Berg am Laim" 0 0 0 0 1 1 0
+743.1 11.43 65 3 1983 "Maxvorstadt" 1 0 0 0 1 0 0
+266.82 10.26 26 1 1939 "Berg am Laim" 0 0 0 1 0 0 0
+1071.73 9.4 114 4 1972 "Ramersdorf-Perlach" 1 0 0 0 1 1 0
+1395 13.04 107 4 1918 "Sendling-Westpark" 1 0 0 0 1 0 0
+928.9 12.39 75 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+770 10.69 72 3 1918 "Schwabing West" 1 0 0 0 1 0 1
+745 12.42 60 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+294.95 8.43 35 1 1957.5 "Sendling-Westpark" 1 0 0 1 0 0 0
+693 11 63 2 2000.5 "Untergiesing" 0 0 0 0 1 0 0
+760 9.27 82 4 1939 "Sendling-Westpark" 0 0 0 0 1 0 0
+1100 11.58 95 4 1939 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+600 11.54 52 2 1957.5 "Laim" 0 0 0 0 1 0 0
+579 12.32 47 3 1939 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+350.89 5.66 62 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 1 1 0 0
+424.5 6.34 67 2 1957.5 "Laim" 0 0 0 0 1 0 0
+993 10.91 91 4 1957.5 "Sendling" 0 0 0 0 1 0 0
+520 9.81 53 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+709.69 9.34 76 3 1924 "Thalkirchen..." 0 0 0 0 1 0 0
+959 9.99 96 4 1957.5 "Sendling" 0 0 0 0 1 0 0
+296 5.19 57 2 1939 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1104.6 9.21 120 6 1972 "Laim" 1 0 0 0 1 0 1
+373.5 7.18 52 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+840 11.51 73 4 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+2492.14 13.26 188 5 1918 "Schwabing-Freimann" 0 1 0 0 1 0 0
+840 10.12 83 3 1972 "Ramersdorf-Perlach" 1 0 0 0 1 1 0
+808.05 9.74 83 3 1983 "Obergiesing" 0 0 0 0 1 0 0
+740 10.88 68 3 1972 "Obergiesing" 0 0 0 0 1 0 0
+579.76 9.83 59 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+562.24 7.7 73 2 1983 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+488 16.27 30 1 1918 "Maxvorstadt" 1 0 0 0 0 0 1
+909 11.09 82 3 1983 "Maxvorstadt" 1 0 0 0 1 0 0
+440 9.17 48 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+1100 14.67 75 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+1049 9.99 105 4 1918 "Au-Haidhausen" 0 0 0 0 0 0 0
+545.6 8.8 62 2 1939 "Untergiesing" 0 0 0 0 1 0 0
+740 12.33 60 3 1939 "Sendling" 0 0 0 0 0 0 0
+880 13.54 65 3 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+350 6.25 56 2 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+536.88 7.67 70 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+333.59 9.53 35 1 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+670 9.85 68 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+760 13.82 55 2 2006.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+723 7.53 96 3 1924 "Laim" 0 0 0 0 1 0 0
+403.2 6.3 64 3 1939 "Laim" 0 0 0 1 0 0 0
+630 12.35 51 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+175 3.98 44 2 1939 "Sendling-Westpark" 0 0 0 1 1 0 0
+710 7.89 90 3 1992.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+347 8.68 40 2 1983 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+770 9.63 80 4 1957.5 "Moosach" 0 0 0 0 1 0 0
+318 6.77 47 2 1924 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+345.72 5.08 68 2 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+1100 11 100 4 1992.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+950 14.18 67 3 1957.5 "Hadern" 1 0 0 0 1 0 0
+278.15 5.56 50 2 1924 "Thalkirchen..." 0 0 1 1 0 0 0
+1620 13.5 120 5 1924 "Altstadt-Lehel" 1 0 0 0 1 1 0
+445.36 9.28 48 3 1957.5 "Schwabing-Freimann" 0 0 0 0 0 0 0
+443 6.24 71 3 1918 "Sendling" 0 0 0 0 0 0 0
+1075 8.46 127 4 1939 "Sendling" 0 0 0 0 1 1 0
+286.75 5.03 57 2 1939 "Untergiesing" 0 0 0 0 1 0 0
+739.5 9.6 77 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+528.6 8.81 60 2 1939 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1110 12.2 91 3 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+404.54 6.97 58 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+973 13.9 70 2 1918 "Au-Haidhausen" 0 0 0 0 1 0 1
+720 11.43 63 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 1
+880 8.98 98 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+598.9 10.51 57 2 1983 "Ramersdorf-Perlach" 1 0 0 0 1 1 0
+395.06 8.41 47 2 1939 "Sendling-Westpark" 0 0 0 1 1 0 0
+670 11.17 60 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+898 7.48 120 5 1972 "Maxvorstadt" 1 0 0 0 1 0 0
+321 4.94 65 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+1170 13 90 4 1957.5 "Bogenhausen" 0 0 0 0 1 0 1
+580 9.06 64 3 1972 "Laim" 0 0 0 0 1 0 0
+920 12.96 71 2 2012.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+915 14.76 62 3 2010 "Trudering-Riem" 0 0 0 0 1 1 0
+276.3 5.53 50 2 1924 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+689 8.95 77 4 1957.5 "Schwabing West" 0 0 0 0 0 0 0
+284.1 5.46 52 2 1924 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+722.68 7.02 103 4 1972 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+503.6 6.71 75 3 1924 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+968.55 6.82 142 6 1972 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+317 5.03 63 3 1972 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+625.78 7.36 85 3 1924 "Schwabing West" 1 0 0 0 1 0 0
+430.2 6.83 63 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+675 11.84 57 3 2010 "Hadern" 0 0 0 0 1 0 0
+1024.8 12.2 84 3 1957.5 "Schwabing West" 1 0 0 0 1 0 1
+1423 12.59 113 4 1924 "Schwanthalerhöhe" 0 0 0 0 1 1 0
+1182.36 13.91 85 3 2012.5 "Schwanthalerhöhe" 0 0 0 0 1 1 0
+580.3 8.53 68 3 2010 "Aubing..." 0 0 0 0 1 0 0
+441.08 5.58 79 4 2010 "Thalkirchen..." 0 0 0 0 1 0 0
+705 10.22 69 3 2006.5 "Trudering-Riem" 0 0 0 0 1 0 0
+1373 14.3 96 4 2010 "Neuhausen-Nymphenburg" 1 0 0 0 1 1 0
+660 10 66 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+590 10 59 2 1957.5 "Moosach" 0 0 0 0 1 0 0
+679 10.61 64 3 1957.5 "Moosach" 0 0 0 0 1 1 0
+970 12.76 76 3 1924 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+341 5.5 62 3 1957.5 "Thalkirchen..." 0 0 0 0 0 0 0
+283.05 4.57 62 3 1957.5 "Thalkirchen..." 0 0 0 0 0 0 0
+449 8.47 53 2 1939 "Schwabing-Freimann" 0 0 0 0 1 0 0
+404.71 4.01 101 3 1924 "Bogenhausen" 1 0 0 0 0 0 0
+600 10.91 55 3 1918 "Thalkirchen..." 1 0 0 0 1 0 0
+211 4.49 47 2 1939 "Obergiesing" 0 0 0 1 1 0 0
+365 4.62 79 3 1972 "Berg am Laim" 0 0 0 0 1 0 1
+214.11 3.24 66 3 1957.5 "Obergiesing" 0 0 0 1 1 0 1
+338.5 7.36 46 2 1939 "Obergiesing" 0 0 0 1 1 0 0
+1015 11.94 85 3 1957.5 "Maxvorstadt" 1 0 0 0 1 1 0
+496.6 7.09 70 2 1924 "Au-Haidhausen" 0 0 0 0 1 0 0
+700 10.61 66 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+301.9 3.51 86 3 1924 "Au-Haidhausen" 0 0 0 1 1 0 0
+570 10.75 53 2 1957.5 "Maxvorstadt" 1 0 0 1 0 0 0
+775 9.69 80 3 1924 "Untergiesing" 0 0 0 0 1 0 0
+322 7.16 45 2 1939 "Berg am Laim" 0 0 0 1 1 0 0
+582.09 5.88 99 4 1924 "Au-Haidhausen" 0 0 0 0 0 0 0
+925 9.84 94 3 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+380 6.13 62 2 1924 "Laim" 0 0 0 0 1 0 0
+451.6 10.04 45 2 1957.5 "Schwabing-Freimann" 0 0 0 1 1 0 0
+195.35 2.79 70 3 1924 "Au-Haidhausen" 0 0 1 1 1 0 0
+379.56 9.26 41 2 1939 "Berg am Laim" 0 0 0 1 0 0 0
+318 9.94 32 1 1957.5 "Maxvorstadt" 1 0 0 1 1 0 0
+574.01 6.92 83 4 1924 "Berg am Laim" 0 0 0 0 1 0 0
+470.03 8.7 54 3 1957.5 "Schwabing-Freimann" 0 0 0 1 0 0 0
+719 8.99 80 3 1918 "Laim" 0 0 0 0 1 1 0
+467 4.77 98 5 1918 "Moosach" 0 0 0 0 1 0 0
+382 7.35 52 2 1939 "Berg am Laim" 0 0 0 0 1 0 0
+303.46 4.97 61 3 1924 "Berg am Laim" 0 0 0 1 1 0 0
+491.24 8.05 61 3 1924 "Berg am Laim" 0 0 0 0 1 0 0
+616 14 44 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+290 4.83 60 3 1957.5 "Berg am Laim" 0 0 0 1 1 0 0
+1116 13.13 85 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+580 10 58 2 1972 "Thalkirchen..." 0 0 0 0 1 0 1
+599.96 7.79 77 3 1918 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+800 14.55 55 2 1957.5 "Altstadt-Lehel" 1 0 0 0 1 0 0
+515 11.7 44 2 1939 "Bogenhausen" 0 0 0 1 1 0 0
+981 11.54 85 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+705 9.04 78 3 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+620 9.12 68 3 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+679 10.78 63 2 1972 "Berg am Laim" 0 0 0 0 1 0 1
+299.5 6.97 43 2 1939 "Bogenhausen" 0 0 0 1 0 0 0
+660 12.94 51 2 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+825.03 9.27 89 3 1957.5 "Trudering-Riem" 1 0 0 0 1 1 0
+739.2 12.74 58 2 1992.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 1 1
+545 9.56 57 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+650 9.85 66 3 1957.5 "Bogenhausen" 1 0 0 0 0 0 0
+1690 14.2 119 4 1924 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+655 8.4 78 3 1957.5 "Sendling" 0 0 0 0 1 0 0
+830 12.39 67 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+530 13.25 40 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+813 13.55 60 2 2006.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+680 12.36 55 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+934 15.06 62 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+610 10.52 58 3 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+656.51 10.59 62 3 1957.5 "Hadern" 0 0 0 0 1 0 0
+1426 8.7 164 6 1918 "Schwabing West" 0 0 0 0 0 0 0
+641.21 10.51 61 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+739.08 11.55 64 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+889.13 8.98 99 5 1924 "Moosach" 0 0 0 0 1 0 0
+867.32 8.67 100 5 1924 "Moosach" 0 0 0 0 1 1 0
+684.5 10.07 68 3 1983 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+777.43 8.01 97 5 1924 "Moosach" 0 0 0 0 1 0 0
+564.92 7.24 78 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+692.73 6.47 107 5 1924 "Moosach" 0 0 0 0 0 0 0
+752 11.75 64 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+785.96 7.94 99 4 1924 "Moosach" 0 0 0 0 0 0 0
+990 12.69 78 3 1957.5 "Sendling" 0 0 0 0 1 1 0
+1591.63 9.71 164 4 1918 "Schwabing West" 1 0 0 0 1 0 0
+785 11.21 70 3 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+857 7.79 110 4 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+398.89 10.5 38 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+483.8 9.3 52 2 1957.5 "Obergiesing" 0 0 0 0 0 0 0
+477 7.01 68 3 1939 "Schwabing-Freimann" 1 0 0 0 1 0 0
+783 9 87 3 1957.5 "Berg am Laim" 1 0 0 0 1 0 0
+388.8 6.48 60 3 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+609.3 8.7 70 3 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+410 11.71 35 1 1918 "Untergiesing" 0 0 0 0 1 0 0
+430 6.52 66 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+609.69 9.53 64 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+680 10.79 63 3 1957.5 "Berg am Laim" 0 0 0 0 1 1 0
+497.36 10.36 48 2 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+990 10.42 95 3 1992.5 "Thalkirchen..." 0 0 0 0 1 1 0
+643 9.06 71 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+506 10.12 50 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+1180 12.04 98 4 1918 "Neuhausen-Nymphenburg" 0 0 0 1 1 0 0
+396 11.65 34 1 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+550 8.73 63 3 1939 "Allach-Untermenzing" 0 0 0 0 0 0 0
+485.27 7.35 66 3 1957.5 "Laim" 1 0 0 0 1 0 0
+1134.82 8.16 139 4 1924 "Schwabing West" 1 0 0 0 0 0 0
+578 12.57 46 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+782 11.33 69 4 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+730 16.98 43 1 1983 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+626 6.96 90 3 1957.5 "Trudering-Riem" 0 0 0 0 0 0 0
+443.4 8.37 53 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+800.77 10.27 78 3 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+504 10.5 48 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+954.34 8.45 113 6 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+428.21 12.23 35 1 1957.5 "Schwabing West" 1 0 0 0 0 0 0
+390.75 7.51 52 2 1983 "Schwabing-Freimann" 0 0 0 0 0 0 0
+572.51 8.06 71 3 1918 "Neuhausen-Nymphenburg" 1 0 0 1 1 0 0
+445.41 6.65 67 2 1924 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+573.49 10.06 57 2 1918 "Schwanthalerhöhe" 0 0 0 1 1 0 0
+393.89 6.56 60 2 1939 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+340.46 6.42 53 2 1924 "Laim" 0 0 0 0 0 0 0
+664.77 7.91 84 4 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+616 9.94 62 3 1957.5 "Sendling" 0 0 0 0 1 0 0
+288 5.65 51 2 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+844 8.19 103 4 1957.5 "Sendling" 0 0 0 0 1 0 0
+592.06 6.1 97 4 1957.5 "Bogenhausen" 1 0 0 0 0 0 0
+413.92 6.37 65 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 0
+719 12.61 57 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+607 10.47 58 3 1957.5 "Laim" 0 0 0 0 1 0 0
+820 10.51 78 3 1983 "Untergiesing" 1 0 0 0 1 0 1
+484.54 6.46 75 4 1939 "Berg am Laim" 0 0 0 0 1 0 0
+680 7.64 89 4 1939 "Berg am Laim" 0 0 0 0 1 0 0
+373 7.17 52 2 1924 "Berg am Laim" 0 0 0 0 1 0 0
+721.37 11.27 64 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+663 5.43 122 4 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+1010 11.22 90 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+705 8.6 82 3 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+518.69 13.65 38 1 1972 "Au-Haidhausen" 1 0 0 0 0 0 1
+335.88 11.58 29 1 1939 "Bogenhausen" 0 0 0 0 1 0 0
+720 9.86 73 3 1972 "Hadern" 1 0 0 0 1 0 0
+2198 11.39 193 5 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+594 10.24 58 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+450 8.18 55 2 1924 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+672 14.3 47 2 1972 "Untergiesing" 0 0 0 0 0 0 0
+475 9.13 52 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+440.62 9.58 46 2 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+450 12.5 36 2 1957.5 "Trudering-Riem" 1 0 0 0 1 0 0
+334.6 5.58 60 3 1957.5 "Sendling-Westpark" 1 0 0 0 1 1 0
+230.08 4.11 56 2 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+609 12.69 48 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+909 10.95 83 3 1972 "Trudering-Riem" 1 0 0 0 1 1 0
+720 13.33 54 2 1983 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+1367 13.02 105 3 1924 "Schwabing-Freimann" 1 0 0 0 1 1 0
+770 9.87 78 3 1992.5 "Pasing-Obermenzing" 1 0 0 0 1 1 1
+700 12.28 57 2 1957.5 "Au-Haidhausen" 1 0 0 1 1 0 0
+436.45 8.23 53 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+542.95 9.2 59 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+625 9.62 65 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+814 11 74 3 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+680 10.15 67 2 1957.5 "Sendling" 0 0 0 0 1 0 0
+938.86 12.19 77 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1911 9.55 200 4 1983 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+950 9.79 97 5 1957.5 "Laim" 0 0 0 0 1 0 0
+541 8.2 66 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+663 11.63 57 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+650 11.82 55 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+900 10.34 87 3 1957.5 "Au-Haidhausen" 0 0 0 0 1 0 0
+498.6 10.61 47 2 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+720 9 80 3 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+770 11.16 69 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+650 10.16 64 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+560.19 8.24 68 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+958 9.04 106 4 1939 "Bogenhausen" 1 0 0 0 1 1 0
+446.55 8.27 54 3 1918 "Schwabing West" 1 0 0 1 1 1 0
+745 10.64 70 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+1284 12 107 4 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+950 12.34 77 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+860 13.03 66 2 1918 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+632.7 9.3 68 2 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+470 10.93 43 2 1957.5 "Laim" 1 0 0 0 1 0 0
+457.67 8.32 55 1 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+1020 11.86 86 4 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+499.64 14.7 34 1 1992.5 "Maxvorstadt" 1 0 0 0 1 0 0
+480.8 8.74 55 2 1957.5 "Maxvorstadt" 1 0 0 1 0 0 0
+945 11.96 79 3 1924 "Laim" 0 0 0 0 1 0 0
+603 11.17 54 2 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+599.15 11.1 54 2 1957.5 "Sendling" 0 0 0 0 1 1 1
+262.4 13.81 19 1 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+637.6 8.39 76 3 1918 "Schwabing West" 0 0 0 0 1 0 0
+468.14 7.31 64 3 1957.5 "Laim" 0 0 0 0 1 0 0
+679.39 7.81 87 3 1918 "Altstadt-Lehel" 0 1 0 1 0 0 0
+1052.85 7.26 145 5 1918 "Schwabing West" 1 0 0 0 1 0 0
+620 10.33 60 2 1983 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+825 11 75 2 1924 "Schwabing West" 1 0 0 0 1 1 0
+1175.35 10.31 114 5 1939 "Schwabing West" 1 0 0 0 1 0 0
+600.72 10.18 59 3 1918 "Neuhausen-Nymphenburg" 0 0 0 1 1 0 0
+449 4.58 98 4 1918 "Laim" 0 0 0 0 1 0 0
+956.67 9.29 103 4 1918 "Altstadt-Lehel" 1 0 0 0 1 0 0
+400 10.26 39 1 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+935.77 7.37 127 4 1918 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+560.33 9.34 60 2 1924 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+321 6.17 52 2 1924 "Au-Haidhausen" 1 0 0 0 1 0 0
+1150 9.58 120 5 1939 "Sendling-Westpark" 1 0 0 1 1 1 0
+665.42 8.32 80 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+2200 12.94 170 6 1918 "Schwabing West" 1 0 0 0 1 0 0
+1080 8.18 132 4 1918 "Schwabing West" 1 0 0 0 1 0 0
+650 13.54 48 2 1939 "Obergiesing" 0 0 0 0 1 0 0
+425 16.35 26 1 1939 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+823 12.28 67 3 1983 "Sendling" 0 0 0 0 0 0 1
+974 8.54 114 3 1918 "Sendling" 0 0 0 1 0 0 0
+470 11.46 41 1 1957.5 "Untergiesing" 0 0 0 0 0 0 0
+1326 11.43 116 4 1983 "Thalkirchen..." 1 0 0 0 1 0 0
+624.79 9.33 67 3 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+500 11.11 45 2 1939 "Schwabing West" 1 0 0 1 1 0 0
+649 10.47 62 2 1918 "Laim" 0 0 0 0 1 0 1
+174.75 4.26 41 2 1918 "Neuhausen-Nymphenburg" 0 0 0 1 0 0 1
+605.45 8.07 75 2 1918 "Schwabing-Freimann" 0 1 0 1 1 0 0
+850 12.14 70 2 2000.5 "Untergiesing" 0 1 0 0 1 0 1
+985 12.96 76 3 1939 "Schwabing West" 1 0 0 0 1 0 0
+620.88 7.22 86 4 1939 "Sendling-Westpark" 1 0 0 0 1 0 0
+803 8.63 93 4 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+889.21 7.94 112 5 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+550 7.86 70 2 1957.5 "Trudering-Riem" 1 0 0 0 1 0 1
+677.36 9.03 75 3 1957.5 "Au-Haidhausen" 0 0 0 0 1 0 0
+865 13.11 66 2 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+580 11.84 49 1 1918 "Schwabing-Freimann" 0 1 0 0 1 0 1
+740 13.7 54 2 1918 "Maxvorstadt" 0 0 0 0 1 0 1
+1950 11.89 164 5 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1090 8.38 130 4 1918 "Schwabing West" 1 0 0 0 1 0 0
+356 10.47 34 1 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+765 12.75 60 2 1983 "Moosach" 0 0 0 0 1 0 1
+369.67 12.32 30 1 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+768.98 8.74 88 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+600 13.95 43 2 1972 "Thalkirchen..." 0 0 0 0 1 0 1
+294.61 5.78 51 1 1939 "Laim" 0 0 0 0 0 0 0
+860 11.94 72 3 1918 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+1100 11.96 92 4 2000.5 "Thalkirchen..." 1 0 0 0 1 0 1
+575 12.23 47 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+476.41 7.68 62 3 1957.5 "Moosach" 0 0 0 0 0 0 0
+1260 12.12 104 3 1918 "Pasing-Obermenzing" 0 1 0 0 1 0 1
+347.84 6 58 3 1957.5 "Laim" 0 0 0 0 1 0 0
+850 10.76 79 4 1957.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+1602 12.92 124 4 1918 "Altstadt-Lehel" 0 1 0 0 1 1 0
+713.46 5.8 123 5 1918 "Altstadt-Lehel" 0 1 0 0 1 0 0
+1335 15.17 88 3 2012.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+950 13.01 73 3 1924 "Maxvorstadt" 1 0 0 0 1 0 0
+768 8.17 94 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 0
+940 12.21 77 3 1939 "Schwabing West" 1 0 0 0 1 0 0
+745 14.33 52 2 1918 "Aubing..." 0 0 0 0 1 0 0
+650 10.16 64 3 1918 "Maxvorstadt" 1 0 0 0 0 0 0
+590 12.04 49 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+680 10 68 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 1
+905.6 13.93 65 2 1924 "Maxvorstadt" 1 0 0 0 1 0 0
+1485.15 11.88 125 4 1918 "Schwabing-Freimann" 1 0 0 0 1 1 0
+484 11 44 2 1957.5 "Laim" 1 0 0 0 1 0 1
+1003.35 14.33 70 3 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+835 8.43 99 4 1939 "Bogenhausen" 1 0 0 0 1 1 0
+670 11.96 56 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+750 12.93 58 2 1992.5 "Moosach" 0 0 0 0 0 0 1
+904.67 11.75 77 4 1939 "Obergiesing" 0 0 0 0 1 1 0
+1000 12.05 83 3 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+520 13.68 38 1 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+758.6 10.99 69 3 1983 "Pasing-Obermenzing" 0 0 0 0 1 1 0
+597.03 8.18 73 3 1918 "Sendling" 0 0 0 0 0 0 0
+664.78 10.07 66 3 1957.5 "Laim" 0 0 0 0 1 0 0
+1835 12.23 150 5 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 0
+351.75 5.5 64 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+579 8.64 67 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+456 12.67 36 1 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+1250 13.44 93 3 1924 "Schwabing West" 0 0 0 0 1 0 0
+644.05 5.75 112 4 1918 "Schwabing-Freimann" 0 1 1 0 1 0 0
+227 3.98 57 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+781.6 11.01 71 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+1144.49 10.13 113 5 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+440 9.78 45 1 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+1179.67 10.08 117 4 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+681 9.59 71 2 2000.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+484 6.72 72 3 1983 "Schwabing-Freimann" 0 0 0 0 0 0 0
+429.04 6.31 68 3 1939 "Milbersthofen-Am Hart" 0 0 0 1 0 0 0
+469.35 13.41 35 1 1957.5 "Thalkirchen..." 1 0 0 0 1 0 1
+900 10.84 83 3 2000.5 "Thalkirchen..." 0 0 0 0 1 0 1
+519 6.92 75 3 1939 "Laim" 0 0 0 1 1 0 0
+720 10.75 67 3 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+750 11.9 63 2 1972 "Maxvorstadt" 1 0 0 0 1 0 0
+245 6.62 37 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 1 1 0 0
+785 10.61 74 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+672.18 7.23 93 4 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1120 14 80 4 1918 "Maxvorstadt" 0 0 0 0 1 0 1
+415 11.53 36 1 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+380.2 6.44 59 2 1957.5 "Sendling" 0 0 0 0 1 0 0
+1308.7 15.58 84 3 2010 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+920 10.95 84 3 1972 "Trudering-Riem" 0 0 0 0 1 0 0
+2425 15.35 158 4 2006.5 "Maxvorstadt" 1 0 0 0 1 0 0
+460 7.93 58 3 1924 "Bogenhausen" 0 1 0 0 1 0 0
+797.35 8.86 90 3 1972 "Berg am Laim" 0 0 0 0 1 0 0
+900 12.86 70 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+606.43 9.05 67 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1195 9.19 130 4 1918 "Sendling" 0 0 0 0 1 0 0
+640 12.8 50 2 1983 "Thalkirchen..." 1 0 0 0 1 0 0
+993 12.73 78 3 1918 "Au-Haidhausen" 1 0 0 1 0 0 0
+257.24 6.27 41 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 1 0 0 0
+800 10 80 3 1972 "Au-Haidhausen" 1 0 0 0 1 1 0
+723.54 6.7 108 5 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 1 0
+690.37 10.79 64 2 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 1 0
+1290 12.9 100 3 1957.5 "Altstadt-Lehel" 0 1 0 0 1 1 0
+615 6.68 92 4 1939 "Obergiesing" 0 0 0 0 1 0 0
+301 5.79 52 2 1918 "Sendling" 0 0 0 0 0 0 0
+750 8.33 90 4 1957.5 "Moosach" 0 0 0 1 1 0 0
+467.05 8.05 58 2 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+790 10.53 75 3 1939 "Laim" 1 0 0 0 1 0 0
+618.6 10.31 60 2 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+670 11.96 56 2 1992.5 "Hadern" 0 0 0 0 1 0 1
+875 11.99 73 3 2000.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+800 13.33 60 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+640 10 64 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+1220 10.17 120 4 1957.5 "Moosach" 0 0 0 0 1 1 0
+1900 15.83 120 4 2000.5 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+887.75 10.44 85 4 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+650 12.5 52 2 1992.5 "Obergiesing" 0 0 0 0 1 0 0
+657.53 7.65 86 3 1918 "Neuhausen-Nymphenburg" 0 0 1 1 0 0 0
+652.82 9.89 66 3 1939 "Allach-Untermenzing" 0 0 0 0 1 0 0
+879.85 10.11 87 4 1983 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+570 7.13 80 1 1992.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+790 9.88 80 3 1924 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+1184.5 15.38 77 4 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+624 10.76 58 2 1972 "Moosach" 0 0 0 0 1 0 0
+461.2 11.53 40 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+399 10.78 37 1 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+930 13.29 70 2 1957.5 "Schwabing West" 1 0 0 0 1 0 1
+630 12.86 49 2 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+825 10.71 77 3 1972 "Untergiesing" 1 0 0 0 1 0 0
+758 9.36 81 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+730.71 10.01 73 3 1983 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 0
+716 8.52 84 4 1957.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+560.35 7.47 75 3 1939 "Obergiesing" 0 0 0 0 1 0 0
+1450 13.3 109 4 1992.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+2101 15.68 134 5 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+587.83 5.6 105 4 1983 "Allach-Untermenzing" 0 0 0 0 1 1 0
+550 13.75 40 1 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+590 11.8 50 2 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+640.33 10.67 60 2 1939 "Laim" 1 0 0 0 1 0 0
+547 5.58 98 4 1924 "Schwabing-Freimann" 0 0 0 1 1 0 0
+636.28 8.96 71 3 1972 "Sendling" 0 0 0 0 0 0 0
+1021 13.61 75 2 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+2440 9.76 250 6 1918 "Schwabing West" 1 0 0 0 1 0 0
+1035 12.32 84 4 1972 "Untergiesing" 1 0 0 0 1 1 0
+1072.32 7.77 138 5 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+750 16.3 46 2 1972 "Schwabing West" 1 0 0 0 1 0 0
+780 10 78 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+845 13.2 64 2 2012.5 "Moosach" 0 0 0 0 1 1 1
+975 10.05 97 4 1983 "Obergiesing" 0 0 0 0 1 1 0
+602.5 9.72 62 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+870 13.81 63 2 1992.5 "Untergiesing" 1 0 0 0 1 0 0
+750 10.14 74 2 1983 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+1460 15.37 95 3 1957.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+560 8.75 64 2 1957.5 "Schwanthalerhöhe" 0 0 0 1 1 0 1
+1274 14.81 86 3 1972 "Schwabing-Freimann" 1 0 0 0 1 0 0
+938 12.85 73 3 1924 "Schwabing West" 1 0 0 0 1 0 0
+1423.14 16.74 85 2 1972 "Schwabing-Freimann" 0 1 0 0 0 0 1
+760 10.13 75 2 1918 "Sendling" 0 0 0 0 1 0 0
+780 12.38 63 3 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1000 8 125 6 1957.5 "Fledmoching-Hasenbergel" 0 0 0 1 1 0 0
+681.46 11.96 57 2 1983 "Schwabing West" 1 0 0 0 1 0 0
+1300 13 100 3 1918 "Altstadt-Lehel" 1 0 0 0 1 0 0
+1050 17.5 60 2 2000.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+946.25 7.89 120 4 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+1378 13.12 105 4 1957.5 "Obergiesing" 0 0 0 1 1 0 0
+591 6.95 85 4 1957.5 "Au-Haidhausen" 1 0 0 0 0 0 0
+598.46 12.47 48 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+720 9.23 78 2 1918 "Altstadt-Lehel" 0 1 0 0 1 0 1
+987.08 10.07 98 4 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+505.9 10.12 50 2 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+506.32 10.13 50 2 1939 "Schwabing-Freimann" 0 0 0 0 1 0 0
+1000 13.33 75 3 1957.5 "Maxvorstadt" 0 1 0 0 1 0 0
+627 11 57 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+510 9.27 55 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 1 1 0 1
+611.67 11.33 54 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+990 11.79 84 3 2000.5 "Trudering-Riem" 1 0 0 0 1 1 1
+950 16.1 59 2 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+930 11.63 80 3 1972 "Hadern" 1 0 0 0 1 0 0
+1180 9.83 120 2 1939 "Hadern" 0 0 0 0 1 1 1
+950 11.88 80 3 1992.5 "Thalkirchen..." 0 0 0 0 1 0 1
+710 8.77 81 3 1972 "Berg am Laim" 0 0 0 0 1 0 0
+1087.68 9.06 120 4 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+1134.93 9.87 115 4 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+590 10.93 54 2 1972 "Thalkirchen..." 1 0 0 0 1 0 1
+900 14.29 63 2 1983 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 1 1
+926.9 12.53 74 3 1939 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+276 9.86 28 1 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1578.32 12.63 125 3 1983 "Schwanthalerhöhe" 0 0 0 0 0 0 0
+1300 15.85 82 3 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 1 1
+727.77 8.88 82 4 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+800 10 80 3 1972 "Moosach" 0 0 0 1 1 0 1
+945 11.67 81 4 2006.5 "Moosach" 0 0 0 0 1 0 0
+660 10.31 64 2 1939 "Aubing..." 0 0 0 0 0 0 1
+440 12.22 36 2 1939 "Neuhausen-Nymphenburg" 0 0 0 1 1 0 0
+392 8 49 2 1939 "Allach-Untermenzing" 0 0 0 0 1 0 0
+1087.6 14.31 76 3 1983 "Au-Haidhausen" 1 0 0 0 1 1 1
+692.96 7.29 95 4 1918 "Au-Haidhausen" 0 0 0 0 1 0 0
+1050 8.33 126 4 1918 "Bogenhausen" 1 0 0 1 1 0 0
+1235 11.44 108 4 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+850 10.37 82 3 1918 "Schwabing-Freimann" 1 0 0 0 1 0 0
+746.33 8.29 90 3 1918 "Au-Haidhausen" 1 0 0 0 1 1 0
+530 10.19 52 2 1957.5 "Moosach" 0 0 0 0 1 0 0
+770 8.95 86 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+1450 15.1 96 4 1924 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+1064 7.09 150 5 1918 "Altstadt-Lehel" 1 0 0 0 0 0 0
+786 12.89 61 3 1939 "Laim" 0 0 0 0 1 0 0
+716.34 11.55 62 2 2000.5 "Trudering-Riem" 0 0 0 0 1 0 1
+835 10.18 82 3 1983 "Schwabing West" 1 0 0 0 1 1 0
+654 10.72 61 3 1983 "Sendling-Westpark" 0 0 0 0 1 0 0
+1050 12.35 85 3 2012.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+1090 11.12 98 3 1983 "Pasing-Obermenzing" 1 0 0 0 1 1 1
+2820 14.1 200 4 1992.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+475 14.84 32 1 1972 "Schwabing-Freimann" 1 0 0 0 1 0 0
+700 12.73 55 2 1918 "Untergiesing" 0 0 0 1 1 0 1
+523.75 7.82 67 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+521.64 9.66 54 2 1918 "Neuhausen-Nymphenburg" 0 0 0 1 1 0 0
+525 7.5 70 2 1924 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+897 16.92 53 2 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+750 11.72 64 2 1992.5 "Trudering-Riem" 1 0 0 0 1 0 1
+655 12.6 52 2 2000.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+450 15.52 29 1 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+469.25 5.1 92 4 1972 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+980 12.25 80 3 2006.5 "Aubing..." 0 0 0 0 1 0 0
+735 8.86 83 3 1983 "Obergiesing" 0 0 0 0 1 0 1
+640 9.7 66 2 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1650 15 110 3 2000.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+1196 11.07 108 3 1983 "Untergiesing" 0 1 0 0 1 1 1
+970 10.21 95 4 1983 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+735.1 9.19 80 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+869.69 9.15 95 4 1972 "Aubing..." 0 0 0 0 1 1 1
+780 11.82 66 2 1983 "Schwabing-Freimann" 1 0 0 0 1 0 0
+350 14.58 24 1 1924 "Schwabing-Freimann" 0 0 0 0 1 0 0
+1040 10.95 95 3 1983 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+1205 10.86 111 5 1918 "Schwabing West" 1 0 0 0 0 0 0
+630 15 42 1 1992.5 "Schwabing West" 1 0 0 0 1 0 0
+755 13.73 55 3 1924 "Schwabing West" 1 0 0 0 1 0 0
+850 12.5 68 3 1939 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+750 12.5 60 2 1992.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+1808.63 12.56 144 5 1957.5 "Hadern" 1 0 0 0 1 1 1
+821.88 13.05 63 2 1957.5 "Neuhausen-Nymphenburg" 0 0 0 1 1 0 0
+540 10.19 53 2 1957.5 "Hadern" 1 0 0 0 1 0 0
+690 9.2 75 3 1957.5 "Sendling-Westpark" 1 0 0 0 1 0 0
+336.03 7.3 46 2 1957.5 "Sendling-Westpark" 0 0 0 1 0 0 0
+895 11.62 77 2 2012.5 "Obergiesing" 0 0 0 0 1 1 0
+904.4 9.23 98 4 2000.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+972.57 11.86 82 3 1924 "Au-Haidhausen" 1 0 0 0 1 0 0
+415 8.83 47 2 1957.5 "Laim" 0 0 0 0 1 0 0
+494 11.49 43 2 2006.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1025 16.27 63 2 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+1100 13.75 80 3 1918 "Au-Haidhausen" 1 0 0 0 0 0 0
+900 9.18 98 4 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+1000 12.5 80 4 2006.5 "Trudering-Riem" 1 0 0 0 1 1 1
+870 12.61 69 3 1992.5 "Trudering-Riem" 1 0 0 0 1 0 1
+1120 11.2 100 4 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 1 1
+1170 12.06 97 4 1957.5 "Ramersdorf-Perlach" 1 0 0 0 1 1 0
+900 10.98 82 3 2000.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+800 10 80 3 1983 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+800 15.38 52 2 1939 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+770 14.26 54 2 1918 "Schwabing-Freimann" 0 0 0 0 1 0 1
+920 10.7 86 3 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1036 14.19 73 2 2006.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+700 11.67 60 2 1972 "Sendling" 0 0 0 0 1 0 0
+720 10.43 69 3 1939 "Hadern" 1 0 0 0 1 0 0
+800 9.52 84 4 1983 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1192 11.57 103 4 1983 "Thalkirchen..." 0 1 0 0 1 0 0
+270 11.25 24 1 1972 "Thalkirchen..." 0 0 0 0 0 0 0
+655.41 9.64 68 3 1957.5 "Sendling" 0 0 0 0 1 0 0
+264.74 5.29 50 3 1939 "Thalkirchen..." 0 0 1 0 0 0 0
+1374.85 13.48 102 4 1983 "Thalkirchen..." 0 1 0 0 1 0 0
+990 13.2 75 3 1992.5 "Untergiesing" 0 1 0 0 1 0 1
+655 9.1 72 3 1972 "Obergiesing" 0 0 0 0 1 0 0
+970 10.9 89 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+850 10 85 3 1983 "Moosach" 0 0 0 0 1 1 0
+580 11.84 49 2 1972 "Trudering-Riem" 0 0 0 0 1 0 0
+768 10.24 75 3 1957.5 "Trudering-Riem" 0 0 0 0 0 0 1
+775 10.06 77 3 1983 "Bogenhausen" 1 0 0 0 1 0 1
+832 15.7 53 2 1972 "Bogenhausen" 1 0 0 0 1 0 1
+980 10.43 94 3 1972 "Bogenhausen" 1 0 0 0 1 0 0
+660.7 11.39 58 2 1992.5 "Allach-Untermenzing" 0 0 0 0 1 0 0
+1200 12.77 94 4 1957.5 "Allach-Untermenzing" 1 0 0 0 1 1 1
+1060 10.1 105 4 1972 "Allach-Untermenzing" 1 0 0 0 1 1 0
+353.2 4.77 74 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+2000 10 200 5 2000.5 "Sendling-Westpark" 1 0 0 0 1 0 1
+980 10.65 92 4 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+551.3 15.75 35 1 1972 "Schwabing West" 1 0 0 0 1 0 1
+590 10.73 55 2 1957.5 "Aubing..." 0 0 0 0 1 0 0
+1350 11.64 116 4 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1250 12.89 97 3 1957.5 "Neuhausen-Nymphenburg" 0 1 0 0 1 1 0
+920 12.78 72 3 1957.5 "Altstadt-Lehel" 0 1 0 0 1 0 0
+2075 14.82 140 4 2006.5 "Altstadt-Lehel" 0 0 0 0 1 1 0
+530 11.04 48 2 1957.5 "Bogenhausen" 1 0 0 0 0 0 1
+762 10.89 70 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+671.67 9.73 69 2 1918 "Untergiesing" 0 0 0 0 1 0 0
+2004.09 16.03 125 4 1924 "Schwabing West" 1 0 0 0 1 0 1
+875 11.67 75 3 1939 "Maxvorstadt" 1 0 0 0 1 0 0
+985 13.13 75 3 2010 "Laim" 1 0 0 0 1 1 0
+1061.17 14.15 75 3 2006.5 "Hadern" 1 0 0 0 1 0 0
+1600 18.18 88 3 1918 "Obergiesing" 0 0 0 0 1 1 1
+765.65 15.95 48 2 1918 "Au-Haidhausen" 0 1 0 0 1 0 1
+530 10.6 50 2 1983 "Untergiesing" 0 0 0 0 1 0 0
+1004.98 9.22 109 4 1924 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1360 14.02 97 3 1918 "Schwanthalerhöhe" 0 0 0 0 1 1 0
+779.5 12.37 63 2 1972 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+382.95 14.18 27 1 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+3200 16.75 191 6 1918 "Schwabing West" 1 0 0 0 1 0 0
+430 14.33 30 1 1983 "Schwabing-Freimann" 0 1 0 0 1 0 1
+460 11.5 40 1 1939 "Maxvorstadt" 0 0 0 0 1 0 1
+630 11.89 53 2 1957.5 "Maxvorstadt" 0 0 0 0 1 0 1
+421.82 11.4 37 1 1924 "Schwanthalerhöhe" 0 0 0 1 1 0 0
+990 12.07 82 3 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+756 12 63 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 1 0
+1050 12.07 87 3 1939 "Au-Haidhausen" 1 0 0 0 0 0 1
+456 6 76 3 1939 "Au-Haidhausen" 1 0 0 0 1 0 0
+900 12.33 73 3 1957.5 "Bogenhausen" 1 0 0 0 0 0 0
+306.86 7.31 42 2 1972 "Schwabing West" 1 0 0 0 1 0 1
+930 14.31 65 2 1992.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+1500 15 100 3 1918 "Sendling" 0 0 0 0 1 0 0
+474.85 12.83 37 1 1992.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+660 7.25 91 3 1983 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+881 9.08 97 4 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+675 10.89 62 2 1992.5 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+879.81 9.46 93 4 1918 "Maxvorstadt" 1 0 0 1 1 0 0
+928.35 13.26 70 3 1918 "Maxvorstadt" 1 0 0 1 1 0 0
+700 10.45 67 3 1957.5 "Schwabing West" 0 0 0 0 1 0 0
+606 10.27 59 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+576.28 9.29 62 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+1300 11.82 110 5 1957.5 "Obergiesing" 0 0 0 0 1 1 1
+1500 11.54 130 3 1992.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+760 12.67 60 2 2000.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+675 13.24 51 2 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+650 12.26 53 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+657.22 11.95 55 1 2006.5 "Bogenhausen" 0 0 0 0 1 0 0
+982 12.75 77 3 1972 "Bogenhausen" 1 0 0 0 1 0 1
+702 8.56 82 4 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+750 9.38 80 3 1957.5 "Aubing..." 0 0 0 0 1 0 0
+1735 16.21 107 4 2010 "Pasing-Obermenzing" 0 1 0 0 1 0 0
+670 11.75 57 2 2000.5 "Trudering-Riem" 1 0 0 0 1 0 1
+1190 11.55 103 4 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+540 12.56 43 2 1957.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+1200 12.24 98 4 1957.5 "Hadern" 1 0 0 0 1 1 1
+669.2 13.94 48 2 1939 "Obergiesing" 0 0 0 0 1 1 1
+690 11.9 58 2 2006.5 "Obergiesing" 0 0 0 0 1 1 1
+252 12.6 20 1 1957.5 "Sendling-Westpark" 1 0 0 0 1 0 0
+1000 13.16 76 3 1957.5 "Hadern" 1 0 0 0 1 1 1
+956 13.86 69 3 1957.5 "Sendling-Westpark" 1 0 0 0 1 1 0
+740.7 8.42 88 3 1972 "Trudering-Riem" 1 0 0 0 1 0 1
+950 15.57 61 2 2000.5 "Trudering-Riem" 1 0 0 0 1 1 1
+615 10.25 60 3 1957.5 "Schwabing West" 0 0 0 0 0 0 0
+1200 13.79 87 3 1972 "Maxvorstadt" 1 0 0 0 1 0 0
+637 12.02 53 2 1918 "Maxvorstadt" 1 0 0 0 0 0 0
+582.19 6.77 86 3 1992.5 "Thalkirchen..." 0 0 0 0 1 0 0
+739 9.99 74 3 2000.5 "Thalkirchen..." 0 0 0 0 1 0 0
+780 11.82 66 3 1992.5 "Thalkirchen..." 1 0 0 0 1 0 0
+1050 14 75 3 1992.5 "Thalkirchen..." 0 1 0 0 1 0 1
+890 12.36 72 2 1992.5 "Thalkirchen..." 0 1 0 0 1 1 1
+823.45 7.49 110 5 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+454.29 7.97 57 2 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+758.52 10.54 72 3 1972 "Schwabing West" 1 0 0 0 1 0 0
+580 16.57 35 1 1972 "Schwabing West" 0 0 0 0 1 0 1
+765 15.61 49 2 1972 "Schwabing West" 1 0 0 0 1 0 0
+870 11.6 75 3 1983 "Trudering-Riem" 1 0 0 0 1 0 1
+1125 10.51 107 5 1972 "Sendling-Westpark" 0 0 0 0 1 1 0
+1200 12.37 97 3 1918 "Obergiesing" 0 0 0 0 1 0 0
+850 10.9 78 2 1918 "Au-Haidhausen" 0 0 0 1 1 0 0
+538 10.35 52 2 1972 "Thalkirchen..." 1 0 0 0 1 0 0
+716.19 12.79 56 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+830 11.37 73 3 1983 "Berg am Laim" 0 0 0 0 1 0 0
+720 13.09 55 2 1957.5 "Berg am Laim" 0 0 0 0 1 0 1
+773.59 6.34 122 5 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+610 11.73 52 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 1 1 0 1
+700 12.73 55 2 1918 "Schwanthalerhöhe" 0 0 0 0 0 0 1
+909 11.96 76 2 2006.5 "Laim" 0 0 0 0 1 0 0
+630 11.67 54 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+310.4 4.19 74 3 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+760 9.5 80 3 1918 "Schwanthalerhöhe" 0 0 0 1 1 0 0
+445 12.03 37 1 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+1324.74 17.2 77 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+911.91 11.12 82 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+463.58 12.2 38 2 2000.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+660 12.94 51 2 1957.5 "Maxvorstadt" 1 0 0 1 1 1 1
+450 8.04 56 2 1972 "Berg am Laim" 0 0 0 0 0 0 0
+632.77 11.3 56 2 2000.5 "Trudering-Riem" 0 0 0 0 1 0 0
+1120 8.96 125 4 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1230.82 11.09 111 5 1983 "Thalkirchen..." 0 1 0 0 1 0 0
+659.2 14.65 45 2 1972 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+795.48 12.63 63 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+834.96 12.65 66 2 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 1 0
+715 12.33 58 2 1992.5 "Sendling-Westpark" 1 0 0 0 1 0 1
+450 12.86 35 1 1992.5 "Moosach" 0 0 0 0 1 0 0
+850 8.67 98 5 1972 "Moosach" 0 0 0 0 0 0 0
+655 11.49 57 2 1992.5 "Trudering-Riem" 1 0 0 0 1 0 0
+995 11.57 86 3 2000.5 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+725 12.08 60 2 2012.5 "Pasing-Obermenzing" 1 0 0 0 1 1 0
+875 12.5 70 2 1957.5 "Altstadt-Lehel" 0 1 0 0 1 0 1
+854.93 13.57 63 3 1939 "Au-Haidhausen" 1 0 0 0 1 0 1
+725 12.08 60 2 1957.5 "Trudering-Riem" 0 0 0 0 1 0 1
+472.36 8.75 54 2 1939 "Laim" 0 0 0 1 1 0 0
+1280 14.22 90 3 2000.5 "Laim" 0 0 0 1 1 0 1
+1190 11.9 100 4 1972 "Thalkirchen..." 0 0 0 0 1 0 1
+950 11.45 83 3 2010 "Thalkirchen..." 1 0 0 0 1 1 1
+515 10.96 47 2 1992.5 "Bogenhausen" 0 0 0 1 1 0 1
+830 10.38 80 4 2000.5 "Trudering-Riem" 0 0 0 0 1 1 0
+1205 11.16 108 4 1918 "Bogenhausen" 0 0 0 0 1 0 0
+640 12.8 50 2 1983 "Bogenhausen" 1 0 0 0 1 0 0
+978.75 10.41 94 4 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+2293 13.1 175 5 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+620 11.07 56 2 1918 "Schwabing-Freimann" 0 0 0 0 1 0 0
+895 12.09 74 3 1992.5 "Moosach" 0 0 0 0 1 0 1
+707 13.34 53 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+556 9.93 56 3 1957.5 "Schwabing-Freimann" 0 0 0 1 1 0 0
+1050 16.41 64 3 1918 "Schwabing West" 1 0 0 1 1 0 1
+612 12.49 49 2 1918 "Schwabing-Freimann" 0 0 0 0 1 0 0
+1225.86 11.35 108 4 1939 "Schwabing West" 1 0 0 0 1 0 0
+1090 11.6 94 4 1918 "Schwabing-Freimann" 0 0 0 0 1 1 0
+1057 12.29 86 4 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1350 16.27 83 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+660 11.79 56 2 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+820 11.08 74 3 1939 "Au-Haidhausen" 0 0 0 0 1 0 1
+540 11.74 46 1 1972 "Laim" 1 0 0 0 0 0 1
+577.2 11.54 50 2 1983 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+779 11.13 70 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+1495 15.41 97 4 1992.5 "Maxvorstadt" 1 0 0 0 1 0 1
+610 16.94 36 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+580 14.15 41 1 1972 "Schwabing-Freimann" 1 0 0 0 1 0 0
+1683.45 14.51 116 5 1939 "Schwabing West" 1 0 0 0 1 0 0
+650 9.29 70 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+565 7.85 72 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+444.65 9.46 47 2 2006.5 "Untergiesing" 0 0 0 0 1 0 0
+440.74 7.6 58 2 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+820 12.62 65 2 1972 "Schwabing West" 1 0 0 0 1 0 1
+788 10.51 75 3 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+800 10.53 76 3 1957.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+775 10.47 74 2 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+730 11.41 64 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 1 1 1
+547.31 11.4 48 2 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+483.4 10.99 44 2 2006.5 "Obergiesing" 0 0 0 0 1 0 0
+886 7.91 112 5 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+660 12 55 3 1972 "Au-Haidhausen" 1 0 0 0 1 0 0
+480 14.12 34 1 1972 "Au-Haidhausen" 0 0 0 0 1 0 1
+400 11.76 34 1 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+564.79 10.46 54 2 1957.5 "Allach-Untermenzing" 0 0 0 0 1 0 0
+520 9.29 56 2 1918 "Sendling" 0 0 0 0 1 0 0
+730 11.59 63 2 2000.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+611.65 6.87 89 3 1972 "Sendling-Westpark" 0 0 0 0 0 0 0
+985 11.59 85 3 1972 "Berg am Laim" 0 0 0 0 1 0 1
+681.66 10.82 63 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+1080 12 90 3 2000.5 "Sendling-Westpark" 0 0 0 0 1 1 1
+860 11.47 75 3 1939 "Sendling" 0 0 0 0 1 0 0
+615 11.6 53 2 1972 "Sendling-Westpark" 0 0 0 0 1 0 1
+330 11 30 1 1918 "Schwanthalerhöhe" 0 0 0 1 1 0 1
+1035 11.5 90 3 1924 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+649.75 10.83 60 2 1924 "Laim" 0 0 0 0 1 0 0
+889.94 9.47 94 3 1918 "Au-Haidhausen" 1 0 0 1 1 0 0
+1660 13.83 120 4 1957.5 "Altstadt-Lehel" 1 0 0 0 1 0 1
+765.11 6.6 116 4 1918 "Altstadt-Lehel" 1 0 0 0 1 1 0
+630 10.5 60 2 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+778.83 10.38 75 3 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+590 9.52 62 2 2010 "Moosach" 0 0 0 0 1 0 0
+790 10.97 72 2 1957.5 "Moosach" 0 0 0 0 1 0 1
+959 11.7 82 3 2000.5 "Thalkirchen..." 1 0 0 0 1 0 1
+930 13.68 68 3 1972 "Bogenhausen" 1 0 0 0 1 0 1
+624 16 39 1 1972 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+710 11.45 62 3 2000.5 "Schwabing-Freimann" 0 0 0 0 1 1 0
+617 11.22 55 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+415.55 15.98 26 1 1957.5 "Schwanthalerhöhe" 0 0 0 1 0 0 1
+407.2 14.54 28 1 1918 "Untergiesing" 0 0 0 0 1 0 0
+375 15 25 1 1972 "Schwabing-Freimann" 1 0 0 0 1 0 1
+1690 10 169 6 1924 "Maxvorstadt" 1 0 0 0 1 0 0
+513 11.4 45 2 1924 "Au-Haidhausen" 0 0 0 1 0 0 0
+1160 13.03 89 3 2012.5 "Trudering-Riem" 1 0 0 0 1 1 0
+1390.4 11.59 120 4 1918 "Altstadt-Lehel" 1 0 0 0 1 1 0
+1270.03 11.65 109 3 1918 "Altstadt-Lehel" 0 1 0 0 1 1 0
+1000.7 11.12 90 4 1918 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+461.95 8.4 55 2 1924 "Au-Haidhausen" 0 0 0 1 0 0 0
+1497.95 7.93 189 6 2000.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+590 11.8 50 2 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+810 12.09 67 2 2000.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+556.86 7.33 76 2 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 1 1 1 0 0
+800 10.13 79 3 1972 "Trudering-Riem" 1 0 0 0 1 0 0
+650 9.42 69 2 1957.5 "Au-Haidhausen" 1 0 1 1 0 0 0
+921.17 8.94 103 4 1924 "Bogenhausen" 0 0 0 0 1 0 0
+869.14 8.28 105 3 1957.5 "Bogenhausen" 0 1 0 0 0 0 0
+668.68 9.98 67 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+375.15 6.25 60 2 1972 "Trudering-Riem" 0 0 0 0 1 0 1
+790 10.97 72 3 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+670 10.81 62 2 1992.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+919.43 8.21 112 5 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+1041.41 11.08 94 2 1918 "Au-Haidhausen" 1 0 0 0 1 0 0
+769.37 12.82 60 3 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+1280 12.55 102 3 2000.5 "Trudering-Riem" 0 0 0 0 1 0 0
+417.58 7.88 53 2 1957.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+450 14.06 32 1 1918 "Bogenhausen" 1 0 0 0 1 0 1
+610 9.38 65 2 1992.5 "Trudering-Riem" 1 0 0 0 1 0 1
+1100 10.38 106 5 2000.5 "Allach-Untermenzing" 0 0 0 0 1 0 0
+1450 14.65 99 5 2000.5 "Moosach" 0 0 0 0 1 0 0
+1099 14.46 76 3 2010 "Moosach" 0 0 0 0 1 0 1
+815 10.72 76 3 1992.5 "Moosach" 0 0 0 0 1 0 0
+760 11.52 66 2 1992.5 "Moosach" 0 0 0 0 1 0 0
+1000 11.9 84 3 2010 "Ramersdorf-Perlach" 1 0 0 0 1 1 1
+764.92 9.44 81 4 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+1020 10.2 100 3 2000.5 "Trudering-Riem" 1 0 0 0 1 1 0
+790 9.88 80 3 1972 "Trudering-Riem" 1 0 0 0 1 0 0
+390 10 39 2 2012.5 "Aubing..." 0 0 0 0 1 0 0
+640 9.41 68 2 1992.5 "Laim" 1 0 0 0 1 0 1
+1380 15.86 87 3 1957.5 "Sendling" 0 0 0 0 1 1 0
+560 9.66 58 2 1972 "Sendling" 0 0 0 0 1 0 0
+603 8.49 71 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+400 12.9 31 1 2000.5 "Thalkirchen..." 1 0 0 0 1 0 1
+960 12.47 77 3 1983 "Berg am Laim" 0 1 0 0 1 0 0
+770 12.42 62 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+520 8.25 63 2 1939 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+650 12.5 52 2 1924 "Sendling" 0 0 0 0 1 0 1
+820 12.06 68 2 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+875 9.83 89 4 1983 "Aubing..." 0 0 0 0 1 0 0
+632 11.29 56 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+1064.4 14.19 75 3 1939 "Schwabing-Freimann" 1 0 0 0 1 0 0
+750 10.56 71 2 1972 "Schwabing West" 0 0 0 0 1 0 1
+840 11.67 72 3 1918 "Schwabing-Freimann" 0 0 0 0 1 0 0
+1040 10.61 98 4 1918 "Untergiesing" 0 0 0 0 1 0 0
+1120 14 80 3 2000.5 "Sendling" 0 0 0 0 1 0 0
+1350 13.5 100 3 1918 "Au-Haidhausen" 0 0 0 0 1 0 0
+720 7.91 91 3 1972 "Bogenhausen" 0 1 0 0 1 0 0
+910.46 12.14 75 3 1918 "Bogenhausen" 0 1 0 0 1 0 0
+1495 12.46 120 4 1918 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+589.33 10.91 54 2 1918 "Schwanthalerhöhe" 0 0 0 0 0 0 0
+636 12 53 2 1957.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+450.29 11.85 38 2 2010 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+630 14 45 2 1972 "Schwabing West" 0 0 0 1 1 0 0
+583.78 7.78 75 3 1957.5 "Schwabing-Freimann" 0 0 0 0 0 0 0
+762 11.21 68 2 1992.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+1140 11.4 100 3 2000.5 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+880 11.58 76 3 2000.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+864.85 12.53 69 3 2006.5 "Sendling" 0 0 0 0 1 0 1
+430 11.32 38 2 1957.5 "Thalkirchen..." 1 0 0 0 1 0 1
+1020 10.1 101 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+600 10 60 2 1957.5 "Maxvorstadt" 0 0 0 0 1 1 0
+490 6.62 74 3 1983 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+800 11.76 68 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1023 11 93 3 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+865 12.36 70 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+820.43 7.6 108 3 1918 "Schwanthalerhöhe" 0 0 0 1 0 0 0
+1345 12.57 107 3 1918 "Schwanthalerhöhe" 0 0 0 0 1 1 0
+641 12.82 50 2 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+570 13.57 42 2 2000.5 "Obergiesing" 0 0 0 0 1 0 1
+433 18.04 24 1 1992.5 "Sendling" 0 0 0 0 1 0 1
+840 14.74 57 2 2000.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+1060 10.5 101 4 1992.5 "Allach-Untermenzing" 0 0 0 0 1 1 0
+882 12.78 69 3 2006.5 "Hadern" 1 0 0 0 1 1 1
+1274 13.27 96 3 1918 "Schwabing West" 1 0 0 0 1 0 0
+2398 12.96 185 5 1918 "Altstadt-Lehel" 0 0 0 0 1 0 1
+1185 14.81 80 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+309.74 4.24 73 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+1100 11.11 99 4 1918 "Obergiesing" 0 0 0 0 1 0 0
+900 11.69 77 3 1992.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+400 14.29 28 1 1972 "Moosach" 0 0 0 0 1 0 0
+520 10.83 48 2 1957.5 "Allach-Untermenzing" 0 0 0 0 1 0 0
+830 11.53 72 3 1983 "Obergiesing" 0 0 0 0 1 0 1
+600 10 60 2 1957.5 "Obergiesing" 0 0 0 1 1 0 1
+650 8.67 75 2 2006.5 "Trudering-Riem" 1 0 0 0 1 1 1
+784 9.56 82 3 2000.5 "Berg am Laim" 0 0 0 0 1 0 1
+920 12.43 74 2 1983 "Maxvorstadt" 1 0 0 0 1 1 1
+906 11.32 80 3 1918 "Maxvorstadt" 1 0 0 0 1 0 0
+510 10.41 49 2 1957.5 "Obergiesing" 0 0 0 0 0 0 0
+680 13.6 50 2 1972 "Obergiesing" 0 0 0 0 1 0 1
+1280 14.22 90 3 1983 "Au-Haidhausen" 0 0 0 0 1 1 0
+538.27 9.28 58 2 1992.5 "Trudering-Riem" 0 0 0 0 0 0 0
+780 7.96 98 4 2000.5 "Obergiesing" 0 0 0 0 1 0 0
+306 10.93 28 1 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+643 12.37 52 2 1972 "Maxvorstadt" 1 0 0 0 1 0 1
+1135 12.61 90 2 1939 "Schwabing West" 1 0 0 0 0 0 0
+275 9.82 28 1 1957.5 "Untergiesing" 0 0 0 0 0 0 0
+540 15 36 1 1957.5 "Altstadt-Lehel" 0 0 0 0 1 0 0
+1580 18.37 86 3 2010 "Au-Haidhausen" 1 0 0 0 1 1 0
+835 17.04 49 2 2006.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+760 15.83 48 1 1924 "Maxvorstadt" 1 0 0 0 1 0 0
+631.92 13.74 46 2 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 1 0
+720 12 60 2 1972 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 1
+1600 16 100 3 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 1
+495 11.25 44 2 1983 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+468.86 5.79 81 4 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+800 13.79 58 2 1939 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+740 10.72 69 2 1992.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1070 15.51 69 2 2000.5 "Schwanthalerhöhe" 1 0 0 0 1 0 1
+550 16.67 33 1 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+469.07 9.77 48 2 1924 "Schwabing-Freimann" 0 0 0 0 0 0 0
+900 12.5 72 3 1957.5 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+678 11.69 58 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+560 11.2 50 2 1992.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+1490 16.56 90 3 1939 "Bogenhausen" 1 0 0 0 1 0 0
+870 14.5 60 2 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+780 11.14 70 3 1918 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1200 16.22 74 3 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+810 12.46 65 2 1983 "Au-Haidhausen" 0 0 0 0 1 0 1
+1640 11.8 139 4 1918 "Neuhausen-Nymphenburg" 1 0 0 1 1 0 1
+1950 11.02 177 6 1939 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+2521 21.01 120 4 1992.5 "Neuhausen-Nymphenburg" 0 1 0 0 1 1 1
+1402 18.45 76 2 2012.5 "Maxvorstadt" 1 0 0 0 1 0 0
+1197.67 9.9 121 4 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 0
+816.25 13.83 59 2 1992.5 "Schwabing West" 1 0 0 0 0 0 1
+350 12.5 28 1 1983 "Maxvorstadt" 1 0 0 0 0 0 0
+612.74 17.51 35 1 2000.5 "Maxvorstadt" 1 0 0 0 1 0 1
+530 12.05 44 2 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+393 8.93 44 2 1957.5 "Untergiesing" 0 0 0 0 0 0 0
+920 10.45 88 3 1972 "Thalkirchen..." 1 0 0 0 1 0 1
+690 13.27 52 2 1957.5 "Sendling" 0 0 0 0 1 0 1
+800 10.26 78 2 1972 "Schwabing-Freimann" 0 0 0 0 1 0 0
+859 9.99 86 3 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+730 12.17 60 2 1918 "Maxvorstadt" 1 0 0 0 0 0 0
+426.72 12.93 33 1 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+698 10.74 65 2 1992.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+438 13.69 32 1 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+620 14.76 42 1 1972 "Maxvorstadt" 1 0 0 0 1 0 1
+1105 12.56 88 4 1918 "Schwabing West" 1 0 0 1 1 0 0
+785 14.02 56 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+371.35 3.71 100 4 1918 "Untergiesing" 0 0 1 1 1 0 0
+879 10.59 83 3 1918 "Au-Haidhausen" 0 0 0 0 1 0 1
+390 6 65 2 1939 "Au-Haidhausen" 0 0 0 0 1 0 0
+604 9.29 65 2 2000.5 "Trudering-Riem" 1 0 0 0 1 0 1
+468.65 9.37 50 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+1570 16.53 95 4 1918 "Au-Haidhausen" 0 0 0 0 1 0 0
+1293 12.68 102 5 2000.5 "Au-Haidhausen" 1 0 0 0 1 1 0
+433 13.53 32 1 1972 "Au-Haidhausen" 1 0 0 0 1 0 1
+800 10.96 73 3 1983 "Bogenhausen" 0 0 0 0 1 0 1
+840 11.35 74 3 1957.5 "Laim" 0 0 0 0 1 0 0
+1120 16 70 3 2012.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+757.08 11.65 65 3 1924 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+1163 13.37 87 3 2010 "Au-Haidhausen" 0 0 0 0 1 0 0
+777.87 11.97 65 3 1918 "Altstadt-Lehel" 0 1 0 0 1 0 0
+662 11.82 56 2 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1449.83 12.39 117 3 2006.5 "Altstadt-Lehel" 0 1 0 0 1 0 0
+950 12.67 75 3 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 1
+990 12.22 81 3 1924 "Schwanthalerhöhe" 0 0 0 0 1 1 0
+529.76 7.06 75 3 1939 "Sendling" 0 0 0 0 1 0 0
+327.11 12.58 26 1 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+670 13.96 48 2 1972 "Sendling" 0 0 0 0 1 0 1
+940 14.03 67 2 2000.5 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+518.01 10.36 50 2 1939 "Schwabing-Freimann" 0 0 0 1 1 0 0
+1337 13.24 101 3 1939 "Au-Haidhausen" 0 0 0 0 1 0 0
+500 9.09 55 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+737.45 14.46 51 2 2000.5 "Trudering-Riem" 1 0 0 0 1 0 1
+1890 19.89 95 3 2012.5 "Maxvorstadt" 1 0 0 0 1 1 0
+950 12.34 77 4 1992.5 "Trudering-Riem" 1 0 0 0 1 0 1
+580 11.84 49 2 1983 "Trudering-Riem" 0 0 0 0 1 0 0
+880 11.73 75 2 1972 "Bogenhausen" 1 0 0 0 1 0 1
+844.04 8.61 98 3 1957.5 "Laim" 0 0 0 0 1 0 0
+629.92 8.18 77 3 1939 "Moosach" 0 0 0 0 1 0 0
+653 9.75 67 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+1261.4 14.84 85 4 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+806 13 62 2 2000.5 "Trudering-Riem" 1 0 0 0 1 0 0
+900 10 90 4 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+890 10.72 83 3 1972 "Berg am Laim" 0 0 0 0 1 0 1
+510 15 34 1 1957.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+950 10.8 88 3 1992.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+787 12.3 64 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+860 10 86 3 1992.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1144.8 15.9 72 3 2012.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+700 12.73 55 2 1924 "Schwabing-Freimann" 0 0 0 0 1 0 0
+625 13.02 48 2 1972 "Laim" 0 0 0 0 1 0 1
+840 10.77 78 3 1957.5 "Altstadt-Lehel" 0 1 0 0 1 0 0
+532.9 10.66 50 2 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+1150 9.91 116 4 1972 "Allach-Untermenzing" 0 0 0 0 1 0 1
+600 14.63 41 2 1939 "Maxvorstadt" 1 0 0 0 1 0 0
+1048.5 12.79 82 2 1939 "Altstadt-Lehel" 1 0 0 0 1 1 0
+570 8.77 65 2 1957.5 "Laim" 0 0 0 0 0 0 0
+726.91 15.47 47 2 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 1 0 0
+680 10.79 63 2 1957.5 "Schwabing West" 1 0 0 0 1 0 1
+750 14.42 52 2 1972 "Schwabing West" 1 0 0 0 1 0 1
+1890 17.18 110 4 1918 "Bogenhausen" 1 0 0 0 1 1 0
+631.88 12.64 50 2 1924 "Schwabing-Freimann" 0 0 0 0 1 0 0
+829 11.84 70 3 1957.5 "Untergiesing" 0 0 0 0 0 0 0
+1550 15.82 98 3 2012.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 1 0
+473.84 9.67 49 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+540 11.49 47 2 1983 "Schwabing-Freimann" 0 0 0 0 0 0 0
+930 10.94 85 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 1 1 0 0
+520 13.68 38 2 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+606.65 12.13 50 2 1924 "Schwabing West" 1 0 0 0 1 0 0
+1686 17.75 95 3 1924 "Schwabing-Freimann" 1 0 0 0 1 0 1
+640 12.08 53 2 1992.5 "Trudering-Riem" 1 0 0 0 1 0 1
+448 11.2 40 2 1957.5 "Trudering-Riem" 1 0 0 0 1 0 1
+705 9.66 73 3 1939 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+675 13.5 50 2 1939 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+447 7.84 57 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+639 12.78 50 2 1924 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 0
+1030 16.35 63 2 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+580 9.67 60 3 1957.5 "Moosach" 0 0 0 0 0 0 1
+1050 14 75 3 1918 "Altstadt-Lehel" 0 0 0 0 1 0 0
+707.49 7.15 99 4 1939 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+541 8.87 61 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+750 12.5 60 2 1992.5 "Hadern" 1 0 0 0 1 0 1
+490 15.31 32 2 1972 "Hadern" 1 0 0 0 1 0 0
+740 12.13 61 2 1992.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+684 12 57 2 2000.5 "Moosach" 0 0 0 0 1 1 0
+341 8.74 39 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+970 12.6 77 3 2006.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 1 0
+1092.5 7.8 140 4 1918 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 0
+810 15.58 52 2 1939 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+1207 14.54 83 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 0
+644.57 9.62 67 3 1918 "Sendling" 0 0 0 0 0 0 0
+718 9.84 73 3 1939 "Schwabing West" 1 0 0 0 1 0 0
+330 11 30 1 1983 "Thalkirchen..." 1 0 0 0 1 0 1
+950 7.92 120 3 2000.5 "Moosach" 0 0 0 0 1 0 1
+715 17.88 40 2 1972 "Maxvorstadt" 1 0 0 0 1 0 1
+900 12.86 70 3 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+410 10 41 2 1957.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+783 10.17 77 3 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+905 10.9 83 3 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+1170 16.96 69 3 2006.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+740 16.44 45 2 2000.5 "Maxvorstadt" 0 0 0 0 1 0 1
+252.66 9.02 28 1 1972 "Obergiesing" 0 0 0 0 0 0 0
+683.85 8.34 82 3 1918 "Au-Haidhausen" 0 0 0 0 1 0 0
+1110 12.2 91 3 1972 "Schwabing West" 1 0 0 0 1 0 0
+1090 13.97 78 4 1972 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+967 9.67 100 5 1957.5 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+695 8.91 78 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+1032.18 14.34 72 3 2006.5 "Thalkirchen..." 0 0 0 0 1 0 1
+1312.55 12.04 109 4 2000.5 "Sendling" 0 0 0 0 1 0 0
+520 11.56 45 2 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+774.37 10.46 74 3 2000.5 "Obergiesing" 0 0 0 0 1 0 0
+980 12.89 76 3 2006.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+1210 12.6 96 4 2012.5 "Laim" 1 0 0 0 1 0 0
+740 12.98 57 2 2010 "Thalkirchen..." 1 0 0 0 1 1 0
+750 7.5 100 2 1957.5 "Schwabing West" 0 0 0 0 1 0 0
+1426 14.7 97 3 1924 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+1200.29 10.81 111 3 1939 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+948 18.23 52 2 1957.5 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+1595 11.73 136 5 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 0
+980 10.54 93 3 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 0
+1079.24 11.99 90 4 2010 "Berg am Laim" 0 0 0 0 1 1 1
+1278 15.4 83 3 2010 "Sendling" 0 0 0 0 1 0 0
+1049 10.49 100 4 1957.5 "Moosach" 0 0 0 0 1 0 0
+510 10.2 50 2 1972 "Moosach" 0 0 0 0 1 0 0
+730 10.43 70 3 1992.5 "Laim" 0 0 0 0 1 0 0
+700 13.21 53 2 2010 "Sendling" 0 0 0 0 1 0 0
+585.5 13.94 42 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+1400 9.52 147 4 1992.5 "Ramersdorf-Perlach" 1 0 0 0 1 1 0
+727.7 9.45 77 3 1918 "Au-Haidhausen" 1 0 0 1 1 0 0
+535 7.64 70 2 1939 "Altstadt-Lehel" 1 0 0 0 1 0 0
+890 9.67 92 4 1924 "Sendling" 0 0 0 0 1 0 0
+543.44 11.32 48 2 1972 "Moosach" 0 0 0 0 1 0 1
+527.11 6.28 84 4 2000.5 "Berg am Laim" 0 0 0 0 1 0 0
+697.88 10.9 64 2 1939 "Berg am Laim" 0 0 0 0 1 0 1
+441 12.97 34 1 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+290 14.5 20 1 1983 "Au-Haidhausen" 0 0 0 0 1 0 1
+600 9.23 65 2 1983 "Moosach" 0 0 0 0 0 0 1
+550 7.97 69 2 1918 "Laim" 0 0 0 0 0 0 0
+911.43 11.25 81 3 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+751 9.63 78 3 1992.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+1250 12.25 102 4 1992.5 "Schwabing-Freimann" 0 0 0 0 1 0 1
+1405 14.64 96 3 1992.5 "Thalkirchen..." 0 1 0 0 1 0 0
+738 10.25 72 2 1972 "Untergiesing" 1 0 0 0 0 0 0
+1080 15 72 3 2010 "Maxvorstadt" 1 0 0 0 1 1 0
+665 13.57 49 2 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+999 9.7 103 2 2000.5 "Laim" 1 0 0 0 1 1 0
+900 9.18 98 3 1972 "Trudering-Riem" 1 0 0 0 1 0 1
+1000 15.63 64 3 1918 "Maxvorstadt" 0 0 0 0 1 0 1
+800 8.99 89 2 1924 "Maxvorstadt" 1 0 0 0 0 0 1
+835.41 8.52 98 4 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+1870 11.69 160 4 1939 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+495 11.51 43 2 1972 "Laim" 1 0 0 0 1 0 0
+1000 10 100 6 1972 "Laim" 0 0 0 0 1 0 0
+837 13.95 60 2 1983 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+854 13.77 62 2 2000.5 "Sendling" 0 0 0 0 1 0 1
+374.48 12.08 31 1 1972 "Sendling-Westpark" 0 0 0 0 1 0 1
+920 11.22 82 3 1972 "Sendling-Westpark" 0 0 0 0 1 0 1
+257.5 5.26 49 2 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+716 6.02 119 6 1992.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+436 6.23 70 3 1972 "Schwanthalerhöhe" 0 0 0 0 0 0 0
+406 6.34 64 3 1992.5 "Schwanthalerhöhe" 0 0 0 0 0 0 0
+899.65 14.06 64 2 2000.5 "Thalkirchen..." 0 0 0 0 1 1 0
+260.13 7.43 35 1 1918 "Untergiesing" 0 0 0 0 0 0 0
+1411.6 14.26 99 4 2010 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+580 11.6 50 1 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+909 11.51 79 3 2010 "Hadern" 1 0 0 0 1 0 0
+653 14.51 45 2 2012.5 "Obergiesing" 0 0 0 0 1 0 1
+779 10.82 72 3 1957.5 "Hadern" 0 0 0 0 1 0 0
+865.5 11.39 76 4 2010 "Thalkirchen..." 0 0 0 0 1 0 0
+742 12.37 60 2 2010 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+669.6 7.61 88 3 2000.5 "Schwanthalerhöhe" 1 0 0 0 1 0 0
+1100 12.09 91 3 2010 "Thalkirchen..." 0 0 0 0 1 1 0
+1340 13.67 98 3 2012.5 "Au-Haidhausen" 0 0 0 0 1 0 1
+617.4 9.08 68 2 2010 "Schwabing West" 1 0 0 0 1 0 0
+405.1 7.23 56 2 2010 "Schwabing West" 1 0 0 0 1 0 0
+790 10.53 75 3 1972 "Hadern" 0 0 0 0 1 0 0
+1226 11.57 106 5 1939 "Schwabing West" 1 0 0 0 1 0 0
+1095 13.35 82 3 2006.5 "Berg am Laim" 0 0 0 0 1 0 0
+643.61 10.73 60 2 2006.5 "Thalkirchen..." 1 0 0 0 1 0 0
+855 11.4 75 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+570 10.56 54 3 2010 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+520 13.68 38 1 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+783.24 9 87 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+414 6.09 68 3 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1200 11.88 101 3 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+788 10.79 73 3 1957.5 "Untergiesing" 0 0 0 0 1 1 0
+886 10.55 84 4 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+687 12.96 53 2 1957.5 "Schwabing West" 1 0 0 0 1 0 1
+950 12.03 79 5 1957.5 "Thalkirchen..." 1 0 0 0 0 0 0
+729 13.5 54 2 1939 "Maxvorstadt" 1 0 0 0 1 0 0
+1300 13 100 3 1918 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+500 11.63 43 2 1918 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+380 12.26 31 1 1957.5 "Maxvorstadt" 1 0 0 1 1 0 0
+550 14.1 39 2 2000.5 "Maxvorstadt" 1 0 0 0 1 0 1
+307.62 4 77 3 1939 "Schwabing West" 1 0 0 1 1 0 0
+664.42 12.3 54 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+800 12.12 66 3 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+819 9.1 90 4 1918 "Pasing-Obermenzing" 1 0 0 1 0 0 0
+865 10.42 83 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+640 11.85 54 2 1924 "Schwabing West" 1 0 0 0 1 0 0
+831.95 12.42 67 3 1972 "Sendling" 0 0 0 0 1 0 1
+850 12.5 68 2 1957.5 "Maxvorstadt" 1 0 0 0 1 1 0
+670 12.64 53 2 1957.5 "Laim" 0 0 0 0 1 0 0
+801 13.35 60 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+378 10.8 35 1 1957.5 "Moosach" 0 0 0 0 1 0 1
+814 11 74 2 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+947 12.14 78 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+825 9.94 83 3 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+822 10.28 80 3 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+2510 13.57 185 5 1918 "Bogenhausen" 1 0 0 0 1 1 0
+865 11.53 75 3 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+460 10.22 45 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+630 11.89 53 1 1983 "Pasing-Obermenzing" 1 0 0 0 0 0 0
+1189.21 12.52 95 4 1957.5 "Trudering-Riem" 1 0 0 0 1 1 0
+341.27 8.32 41 2 1939 "Laim" 0 0 0 0 1 0 0
+506.5 9.04 56 1 1972 "Hadern" 1 0 0 0 1 0 1
+616.52 7.61 81 4 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+577 6.79 85 3 1992.5 "Sendling-Westpark" 1 0 0 0 1 0 0
+713 10.49 68 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+552 10.22 54 2 1957.5 "Laim" 1 0 0 0 1 0 0
+454.41 6.22 73 3 2006.5 "Laim" 0 0 0 0 1 0 0
+1550 14.76 105 3 1939 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+375.11 10.42 36 1 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+421.5 12.04 35 1 1992.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 1
+1020.45 9.03 113 3 1918 "Schwabing West" 1 0 0 0 0 0 0
+635 10.95 58 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+880 12.57 70 3 1957.5 "Untergiesing" 0 0 0 0 1 0 1
+707.23 10.56 67 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1300 12.62 103 3 1992.5 "Bogenhausen" 1 0 0 0 1 0 1
+950 15.57 61 2 2006.5 "Thalkirchen..." 0 0 0 0 1 0 1
+650 12.26 53 2 2006.5 "Thalkirchen..." 0 0 0 0 1 0 1
+770 11.32 68 2 2000.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+465 15.5 30 1 1972 "Sendling" 0 0 0 0 1 0 1
+749 14.13 53 2 1972 "Sendling" 0 0 0 0 1 0 1
+330 10 33 1 2000.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+1180 10.73 110 4 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+1053 14.42 73 3 2006.5 "Sendling" 1 0 0 0 1 0 0
+1090 13.8 79 3 2000.5 "Sendling" 0 0 0 0 1 0 1
+741.73 8.94 83 4 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+1015 11.67 87 4 1939 "Bogenhausen" 1 0 0 0 1 0 0
+880 9.78 90 3 2000.5 "Thalkirchen..." 0 0 0 0 1 1 1
+720.6 10.6 68 3 1957.5 "Thalkirchen..." 1 0 0 0 1 0 0
+1296.5 12 108 3 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+634 13.21 48 3 1939 "Laim" 0 0 0 0 1 0 0
+820 9.11 90 4 1939 "Laim" 0 0 0 0 1 0 0
+1148 10.83 106 4 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+837.37 8.05 104 4 1924 "Moosach" 0 0 0 0 0 0 0
+615 8.91 69 2 2000.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+1190 13.37 89 2 1939 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1425 13.57 105 4 1924 "Schwabing-Freimann" 1 0 0 0 1 0 0
+709 12.22 58 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+1020 12 85 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+397.9 13.26 30 1 1992.5 "Berg am Laim" 0 0 0 0 1 0 1
+794 12.22 65 3 1924 "Maxvorstadt" 0 0 0 0 1 0 0
+400 16 25 1 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+441.49 10.03 44 2 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+330 4.13 80 4 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+765 12.34 62 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+536 13.07 41 2 2000.5 "Berg am Laim" 0 0 0 0 1 0 0
+690 15 46 2 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+441.4 9.6 46 2 1957.5 "Obergiesing" 0 0 0 0 0 0 0
+926.9 11.3 82 3 1918 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1869 13.35 140 4 1972 "Maxvorstadt" 1 0 0 0 0 0 0
+795 10.06 79 3 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+810 11.74 69 4 1957.5 "Schwabing West" 0 0 0 0 0 0 0
+844.5 12.24 69 3 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+1020 11.86 86 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+540.3 8.86 61 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+945 10.99 86 3 1957.5 "Obergiesing" 0 0 0 0 0 0 0
+985 13.13 75 3 1918 "Thalkirchen..." 1 0 0 0 1 0 1
+780 12 65 3 1918 "Schwanthalerhöhe" 0 0 0 0 0 0 0
+975 11.47 85 4 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+691 10.01 69 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+1015 12.53 81 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+1309.68 11.39 115 4 1992.5 "Thalkirchen..." 1 0 0 0 1 0 0
+1439 11.7 123 5 1918 "Sendling" 0 0 0 0 1 0 1
+600 15.79 38 1 1972 "Maxvorstadt" 1 0 0 0 1 0 1
+747 12.66 59 2 1957.5 "Schwabing West" 1 0 0 0 0 0 0
+440 14.67 30 1 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+970.33 10.66 91 4 1957.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 1 0
+630 11.05 57 2 1983 "Berg am Laim" 0 0 0 0 1 0 0
+1000.5 11.91 84 4 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+900 14.06 64 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+779.75 11.47 68 2 1939 "Maxvorstadt" 1 0 0 0 1 0 0
+750 11.36 66 2 1939 "Schwabing-Freimann" 0 0 0 1 1 0 0
+970 13.11 74 3 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+1227 17.78 69 2 2000.5 "Untergiesing" 0 0 0 0 1 1 0
+690.4 13.81 50 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 1 1
+905 13.71 66 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+730 11.97 61 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+687 13.21 52 2 1957.5 "Untergiesing" 0 0 0 0 0 0 0
+918.2 7.98 115 5 1939 "Bogenhausen" 1 0 0 0 1 0 0
+547 6.01 91 4 1972 "Schwabing-Freimann" 0 0 0 0 1 0 0
+840 10.91 77 3 2000.5 "Hadern" 1 0 0 0 1 0 1
+531.68 7.82 68 3 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1151.71 8.47 136 5 1918 "Au-Haidhausen" 1 0 0 0 0 0 0
+456.62 6.01 76 3 1939 "Bogenhausen" 1 0 0 0 1 0 0
+1089.73 12.11 90 3 2000.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+1598.22 14.27 112 5 1939 "Bogenhausen" 1 0 0 0 1 1 0
+688.23 8.71 79 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+934.5 13.35 70 3 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+650 18.06 36 1 1983 "Altstadt-Lehel" 0 1 0 0 1 0 1
+700 12.28 57 2 1972 "Allach-Untermenzing" 0 0 0 0 1 1 0
+453.54 15.12 30 1 1972 "Au-Haidhausen" 1 0 0 0 1 1 0
+1250 11.36 110 4 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+649 11.8 55 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+810.4 12.28 66 2 1992.5 "Obergiesing" 0 0 0 0 1 1 0
+806 12.59 64 2 1957.5 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+835 12.1 69 2 1983 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+814 11.97 68 3 1992.5 "Trudering-Riem" 1 0 0 0 1 0 1
+1200 12.9 93 3 1992.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+610 11.3 54 2 1983 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+1135 12.61 90 3 1992.5 "Trudering-Riem" 1 0 0 0 1 0 1
+695 13.11 53 2 1939 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 0
+630 12.6 50 2 1924 "Schwabing-Freimann" 0 0 0 0 1 0 0
+925 10.39 89 4 1924 "Schwabing-Freimann" 0 0 0 0 1 0 0
+674 10.53 64 2 1972 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+810 10.13 80 3 1972 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+877.4 8.2 107 5 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+533.84 7.85 68 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+400 17.39 23 1 2012.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+965 12.87 75 3 2006.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+961 11.05 87 3 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+550 10 55 2 1957.5 "Neuhausen-Nymphenburg" 0 0 0 1 1 0 1
+873 10.78 81 3 1992.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+633.3 7.04 90 4 1972 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+600 16.22 37 1 1957.5 "Maxvorstadt" 0 0 0 0 1 0 0
+580 10 58 2 1972 "Laim" 0 0 0 0 1 0 0
+600 15 40 1 2000.5 "Sendling" 0 0 0 0 1 0 1
+1241 12.79 97 4 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+1238 13.91 89 4 1957.5 "Maxvorstadt" 0 0 0 0 0 0 0
+707.34 10.56 67 2 1957.5 "Hadern" 0 0 0 0 0 0 1
+399.26 11.74 34 1 1957.5 "Bogenhausen" 1 0 0 0 1 0 1
+604.73 8.4 72 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+765 12.54 61 2 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+610 11.09 55 2 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+555 8.54 65 2 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+871.61 10.13 86 3 1972 "Sendling-Westpark" 0 0 0 0 0 0 0
+620.2 11.93 52 2 2006.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+724.62 6.97 104 3 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+434 11.13 39 1 2000.5 "Sendling" 0 0 0 0 1 0 1
+525 15 35 1 1972 "Schwabing West" 1 0 0 0 1 0 0
+700.36 10.77 65 2 1972 "Bogenhausen" 1 0 0 0 1 0 0
+432.5 7.59 57 2 1972 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+248 9.92 25 1 1918 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+528.53 7.44 71 2 1918 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+595.75 9.17 65 2 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+1180 12.83 92 3 1992.5 "Sendling" 0 0 0 0 1 1 1
+925 9.64 96 4 1972 "Sendling-Westpark" 0 0 0 0 1 1 1
+573.19 6.23 92 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+560 14.74 38 2 1957.5 "Maxvorstadt" 1 0 0 0 1 0 1
+658.09 11.15 59 2 2010 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+543 10.25 53 2 1918 "Moosach" 0 0 0 1 1 0 1
+527.96 6.77 78 4 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+635 9.77 65 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+521 7.66 68 3 1957.5 "Thalkirchen..." 0 0 0 1 1 0 0
+430.38 5.52 78 4 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+800 8.42 95 3 1983 "Aubing..." 0 0 0 0 1 1 0
+1160 10.45 111 4 1957.5 "Obergiesing" 0 0 0 0 0 0 0
+630 10.5 60 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+570 8.64 66 2 1972 "Obergiesing" 0 0 0 0 1 0 1
+620 13.19 47 2 1972 "Obergiesing" 0 0 0 0 1 0 1
+930 11.07 84 3 1972 "Thalkirchen..." 0 0 0 0 1 0 1
+912 12.16 75 3 2006.5 "Thalkirchen..." 0 0 0 0 1 0 1
+495.12 12.7 39 1 1939 "Moosach" 0 0 0 0 1 0 0
+756 10.5 72 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+942.05 12.08 78 3 2006.5 "Allach-Untermenzing" 0 0 0 0 1 0 0
+735 11.31 65 3 1992.5 "Allach-Untermenzing" 0 0 0 0 1 0 1
+730 9.61 76 3 1972 "Allach-Untermenzing" 0 0 0 0 1 0 1
+920.13 8.22 112 5 2006.5 "Obergiesing" 0 0 0 0 1 1 0
+966.54 8.63 112 5 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+692.56 8.24 84 4 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+794.95 8.2 97 4 2000.5 "Obergiesing" 0 0 0 0 1 1 0
+1425 12.84 111 3 2006.5 "Untergiesing" 0 1 0 0 1 1 0
+900 12.68 71 3 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+1040 10.61 98 3 2000.5 "Laim" 1 0 0 0 1 1 1
+1050 11.05 95 3 2000.5 "Bogenhausen" 0 0 0 0 1 0 1
+607.82 10.85 56 2 1983 "Bogenhausen" 1 0 0 0 1 0 0
+1163 14.54 80 3 1983 "Sendling" 1 0 0 0 1 1 1
+823.76 8.08 102 5 1972 "Moosach" 0 0 0 0 1 0 0
+555 11.1 50 2 1992.5 "Au-Haidhausen" 0 0 0 0 1 0 0
+611 11.53 53 2 2006.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+363.47 9.57 38 2 1939 "Milbersthofen-Am Hart" 0 0 0 1 1 0 0
+682.64 10.67 64 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+710.85 11.28 63 2 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+670 9.18 73 3 1972 "Hadern" 0 0 0 0 1 0 0
+520 8.39 62 2 1957.5 "Fledmoching-Hasenbergel" 0 0 0 1 0 0 0
+550 10.19 54 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+469 10.91 43 1 2000.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+575.77 6.19 93 4 2000.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 0
+1290 12.29 105 3 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+404.94 5.06 80 3 1972 "Sendling-Westpark" 0 0 0 0 0 0 0
+845 10.43 81 2 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+1560 15 104 3 2010 "Sendling-Westpark" 1 0 0 0 1 0 0
+990.48 11.26 88 3 2000.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+780 11.14 70 3 1992.5 "Aubing..." 0 0 0 0 1 0 1
+745 12.42 60 2 1992.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+590 10.93 54 3 1972 "Schwabing West" 0 0 0 0 1 0 0
+845 9.09 93 3 1972 "Schwabing West" 1 0 0 0 1 0 0
+677 10.92 62 2 2000.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+1200 12.77 94 4 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+675.49 6.31 107 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+650 8.55 76 3 1972 "Berg am Laim" 0 0 0 0 0 0 0
+1279 11.52 111 4 2000.5 "Hadern" 1 0 0 0 1 0 0
+930 12.4 75 3 1924 "Ludwigvorstadt-Isarvorstadt" 1 0 1 0 1 0 0
+600 11.76 51 2 1957.5 "Laim" 0 0 0 0 1 0 0
+320 10 32 1 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+777.67 11.61 67 2 1957.5 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+870 12.25 71 2 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+6000 20 300 6 2010 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 1
+886 6.33 140 4 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1168.9 10.25 114 5 1924 "Neuhausen-Nymphenburg" 1 0 0 0 1 1 0
+528.1 13.2 40 2 1918 "Maxvorstadt" 1 0 0 0 1 0 1
+553.65 10.65 52 1 1983 "Bogenhausen" 0 1 0 0 1 0 0
+430 13.03 33 1 1972 "Bogenhausen" 0 0 0 0 1 0 1
+590 10.17 58 2 1972 "Schwabing-Freimann" 0 0 0 0 1 0 1
+570 11.18 51 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+563 11.49 49 2 1972 "Berg am Laim" 0 0 0 0 1 0 0
+1243 13.37 93 4 2010 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+671.7 12.21 55 2 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+791.46 7.54 105 5 1992.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+660 11 60 3 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+564 9.72 58 2 1939 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+562 10.04 56 2 1939 "Pasing-Obermenzing" 0 0 0 0 1 1 0
+690 9.72 71 2 1983 "Schwabing-Freimann" 1 0 0 0 1 0 0
+795 13.95 57 2 1983 "Schwabing-Freimann" 1 0 0 0 1 0 0
+825 10.19 81 3 1983 "Hadern" 0 0 0 0 1 0 0
+650 10.16 64 2 1983 "Hadern" 0 0 0 0 1 0 1
+808 8.78 92 4 1983 "Hadern" 1 0 0 0 1 1 0
+685 12.02 57 2 1983 "Hadern" 0 0 0 0 1 0 0
+600 8.82 68 2 1972 "Sendling-Westpark" 1 0 0 0 1 0 0
+660 13.75 48 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1050 11.67 90 4 1983 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+1045 12.9 81 3 1918 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+450.48 8.04 56 2 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+688 8.49 81 3 1957.5 "Hadern" 0 0 0 0 0 0 0
+549 15.25 36 1 1983 "Obergiesing" 0 0 0 0 1 1 1
+335 12.88 26 1 1972 "Obergiesing" 0 0 0 0 1 0 1
+728 11.93 61 2 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+632.69 8.67 73 3 1972 "Obergiesing" 0 0 0 0 0 0 0
+670 11.17 60 2 1972 "Obergiesing" 0 0 0 1 1 0 1
+854 13.77 62 2 2000.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+522 11.6 45 2 1983 "Obergiesing" 0 0 0 0 1 1 0
+669 14.23 47 2 1957.5 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+885 11.49 77 3 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+690 9.2 75 3 1957.5 "Ramersdorf-Perlach" 1 0 0 0 1 1 0
+620 10 62 2 1924 "Schwabing West" 0 0 0 0 1 0 0
+824.35 10.99 75 3 2006.5 "Schwabing West" 1 0 0 0 1 0 0
+807.18 9.73 83 3 1957.5 "Obergiesing" 0 0 0 0 1 1 0
+737.5 12.5 59 2 2012.5 "Sendling-Westpark" 0 0 0 0 1 1 1
+742 13.02 57 2 2012.5 "Sendling-Westpark" 1 0 0 0 1 0 0
+344.52 12.76 27 1 1957.5 "Thalkirchen..." 1 0 0 0 0 0 0
+746.91 9 83 3 1957.5 "Thalkirchen..." 0 0 0 1 0 0 0
+725 9.67 75 3 1957.5 "Thalkirchen..." 1 0 0 0 1 0 1
+545.67 9.92 55 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+630 9.69 65 3 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+790 13.39 59 2 2000.5 "Sendling" 0 0 0 1 1 0 1
+750 12.5 60 2 1972 "Schwanthalerhöhe" 1 0 0 0 1 0 1
+957 11.53 83 3 2010 "Laim" 0 0 0 0 1 0 0
+649.38 6.98 93 3 1972 "Laim" 1 0 0 0 1 0 0
+625 10.42 60 2 1983 "Laim" 0 0 0 0 1 0 0
+325.83 4.79 68 3 1939 "Laim" 0 0 0 0 1 0 0
+727.03 8.08 90 3 1924 "Altstadt-Lehel" 0 1 1 1 0 0 0
+659.72 10.15 65 3 2000.5 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+1332 13.45 99 4 2000.5 "Aubing..." 0 0 0 0 1 1 1
+1190 13.22 90 4 1992.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+576.09 8.73 66 4 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+989 15.22 65 3 2000.5 "Sendling" 0 0 0 0 1 0 1
+1000 9.8 102 4 1972 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+650 10.48 62 3 1972 "Aubing..." 0 0 0 0 1 0 0
+700 11.29 62 2 1924 "Sendling" 0 0 0 0 1 0 0
+600 9.68 62 3 1957.5 "Sendling" 0 0 0 0 1 0 0
+900 13.85 65 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 1
+735 12.89 57 2 1992.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 1
+575 9.58 60 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+1600 11.11 144 4 2000.5 "Allach-Untermenzing" 1 0 0 0 1 0 1
+637.97 7.69 83 3 1957.5 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 1
+1050 12.96 81 3 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+875 9.72 90 3 2000.5 "Trudering-Riem" 0 0 0 0 1 0 1
+800 12.9 62 2 1918 "Au-Haidhausen" 1 0 0 0 0 0 0
+408.87 12.78 32 1 1924 "Au-Haidhausen" 0 0 0 1 1 0 1
+462 6 77 3 1924 "Au-Haidhausen" 1 0 0 1 1 0 0
+650 11.4 57 2 1924 "Obergiesing" 0 0 0 0 0 0 1
+1200 15.19 79 3 1939 "Au-Haidhausen" 1 0 0 0 1 0 0
+850.84 7.95 107 4 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+476 11.9 40 1 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+400 12.12 33 1 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 1
+720 10.75 67 2 1972 "Untergiesing" 0 0 0 0 1 0 1
+1300 12.75 102 3 2000.5 "Untergiesing" 1 0 0 0 1 1 0
+533.18 13 41 1 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+1249.2 10.86 115 4 1972 "Thalkirchen..." 0 1 0 0 1 0 1
+632.93 5.75 110 3 1972 "Thalkirchen..." 1 0 0 0 1 1 0
+1387.39 11.66 119 4 2006.5 "Sendling-Westpark" 1 0 0 0 1 0 1
+732 13.07 56 2 2012.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+998 10.51 95 4 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+640 11.03 58 2 2000.5 "Pasing-Obermenzing" 0 0 0 0 1 1 1
+970 10.78 90 3 1918 "Thalkirchen..." 1 0 0 0 1 0 0
+530.45 9.31 57 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+822.5 9.91 83 3 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+540 10.8 50 2 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+919.95 12.1 76 3 2010 "Trudering-Riem" 0 0 0 0 1 0 1
+780 9.87 79 3 1983 "Bogenhausen" 1 0 0 0 1 0 0
+680 11.53 59 2 1992.5 "Bogenhausen" 1 0 0 0 1 0 0
+605.76 9.93 61 2 1992.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+819.36 11.54 71 3 2000.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+374.07 12.9 29 1 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+650 8.13 80 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+1060 15.14 70 3 2010 "Maxvorstadt" 1 0 0 0 1 1 1
+288.18 7.03 41 2 2000.5 "Trudering-Riem" 0 0 0 0 1 0 0
+574.34 7.56 76 3 1957.5 "Schwabing West" 1 0 0 0 0 0 0
+1120 13.66 82 3 2006.5 "Schwabing West" 1 0 0 0 1 1 0
+1132.1 13.98 81 4 1918 "Schwabing-Freimann" 1 0 0 0 1 0 0
+387.66 5.24 74 3 1983 "Sendling-Westpark" 0 0 0 0 1 0 0
+600 13.33 45 1 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+950 11.18 85 4 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+620 12.92 48 2 1983 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+680.07 10.15 67 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+1570.65 14.96 105 4 2010 "Bogenhausen" 1 0 0 0 1 0 0
+665 10.9 61 2 1972 "Bogenhausen" 0 0 0 0 1 0 0
+510.55 6.38 80 3 1983 "Bogenhausen" 0 0 0 0 1 0 1
+606 9.93 61 2 1983 "Au-Haidhausen" 1 0 0 0 1 0 1
+560 12.44 45 1 1983 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 0
+500 14.29 35 1 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+408 12.36 33 1 1983 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+811.83 9.23 88 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+458 6.36 72 3 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+714.01 8.3 86 3 1983 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+443 5.68 78 3 1972 "Aubing..." 0 0 0 0 0 0 0
+580.3 11.61 50 2 1972 "Obergiesing" 0 0 0 0 1 0 0
+550 9.48 58 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1000 12.5 80 3 1992.5 "Untergiesing" 0 0 0 0 1 0 1
+800 11.59 69 3 1983 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+663 12.51 53 2 2010 "Aubing..." 0 0 0 0 1 0 1
+697 10.72 65 2 1983 "Moosach" 0 0 0 0 1 0 0
+1240 13.05 95 3 2012.5 "Moosach" 0 0 0 0 1 1 0
+449 19.52 23 1 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+1050 13.13 80 3 1972 "Obergiesing" 0 0 0 0 0 0 0
+723 9.51 76 3 1992.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+480 7.5 64 2 1972 "Aubing..." 0 0 0 0 1 0 0
+620 9.54 65 2 1983 "Aubing..." 1 0 0 0 1 0 0
+792 11.65 68 2 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+843 9.58 88 3 2000.5 "Schwabing-Freimann" 0 0 0 0 1 0 1
+1003 11.8 85 3 2006.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+385 12.03 32 1 1972 "Schwabing-Freimann" 0 0 0 0 0 0 1
+940 11.75 80 3 1972 "Schwabing West" 0 0 0 0 1 0 0
+400 12.9 31 1 1957.5 "Pasing-Obermenzing" 0 0 0 0 0 0 0
+700 10.45 67 2 1972 "Schwabing West" 0 0 0 0 1 0 0
+1200 12 100 3 2006.5 "Ramersdorf-Perlach" 1 0 0 0 1 1 0
+467 7.3 64 3 1957.5 "Hadern" 0 0 0 0 1 0 0
+632.86 11.51 55 2 1972 "Hadern" 0 0 0 0 1 0 0
+1000 12.2 82 3 2006.5 "Hadern" 0 0 0 0 1 1 1
+953.46 9.83 97 3 1983 "Hadern" 0 0 0 0 1 0 0
+1463.15 14.63 100 4 1972 "Neuhausen-Nymphenburg" 0 1 0 0 1 1 1
+919.87 11.36 81 3 1983 "Schwabing-Freimann" 1 0 0 0 1 0 0
+439.18 8.78 50 2 1992.5 "Schwabing West" 0 0 0 0 0 0 1
+812 11.6 70 3 1992.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+1254.99 14.59 86 4 2012.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+623 11.13 56 2 1957.5 "Laim" 0 0 0 0 1 0 0
+910 11.67 78 3 2000.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+1339 11.16 120 3 2006.5 "Trudering-Riem" 1 0 0 0 1 0 1
+1900 15.45 123 4 2010 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+1020 13.42 76 2 2010 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+998 12.96 77 3 2010 "Aubing..." 0 0 0 0 1 0 0
+920 9.2 100 3 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+486.31 6.95 70 3 1972 "Aubing..." 0 0 0 0 1 0 0
+593 8.47 70 3 1972 "Aubing..." 0 0 0 0 1 0 0
+620 10.69 58 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+775 11.23 69 2 1957.5 "Trudering-Riem" 1 0 0 0 1 0 0
+651.75 10.03 65 3 1957.5 "Sendling" 0 0 0 0 1 0 0
+1080 13.85 78 3 1957.5 "Sendling" 1 0 0 0 1 0 0
+700 10.94 64 2 2006.5 "Sendling-Westpark" 0 0 0 0 1 1 1
+1120.33 12.31 91 4 2012.5 "Thalkirchen..." 0 0 0 0 1 0 0
+1020 12.14 84 3 1972 "Untergiesing" 0 1 0 0 1 0 0
+1120 13.33 84 3 2006.5 "Trudering-Riem" 1 0 0 0 1 1 1
+517.89 9.42 55 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+1105 12.14 91 4 1972 "Thalkirchen..." 1 0 0 0 1 0 0
+635 13.23 48 2 1957.5 "Thalkirchen..." 0 0 0 0 0 0 0
+1282.5 10.02 128 4 1972 "Thalkirchen..." 0 1 0 0 1 1 1
+825 11 75 3 1972 "Thalkirchen..." 0 0 0 0 1 0 1
+940.78 8.79 107 4 1983 "Schwabing-Freimann" 0 0 0 0 1 0 0
+380 13.57 28 1 1972 "Berg am Laim" 0 0 0 0 1 0 1
+640 10.85 59 2 1992.5 "Bogenhausen" 0 0 0 0 1 0 1
+436.24 5.45 80 3 1983 "Hadern" 0 0 0 0 1 0 0
+671 11.37 59 2 2000.5 "Bogenhausen" 0 0 0 0 1 0 1
+480 14.55 33 1 1972 "Bogenhausen" 1 0 0 0 1 0 0
+799.69 10 80 4 1957.5 "Pasing-Obermenzing" 1 0 0 0 0 0 0
+700 8.75 80 4 1983 "Thalkirchen..." 0 1 0 0 1 1 0
+860 11.47 75 3 2000.5 "Moosach" 0 0 0 0 1 0 0
+760 11.01 69 3 1992.5 "Moosach" 0 0 0 0 1 0 0
+530 10.6 50 2 1957.5 "Moosach" 0 0 0 0 0 0 0
+683.96 11.4 60 2 1992.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+410 10.51 39 1 1983 "Thalkirchen..." 0 0 0 0 0 0 1
+2430 19.13 127 3 2010 "Thalkirchen..." 0 1 0 0 1 0 1
+390 14.44 27 1 1972 "Schwabing West" 0 0 0 0 1 0 0
+350 8.75 40 1 1972 "Pasing-Obermenzing" 1 0 0 0 0 0 1
+1044.79 10.24 102 4 1972 "Neuhausen-Nymphenburg" 1 0 0 0 0 0 0
+611 10.18 60 2 1992.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+439.49 7.71 57 2 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+1042.75 12.41 84 4 1992.5 "Maxvorstadt" 1 0 0 0 1 0 0
+980 13.07 75 3 1918 "Schwabing-Freimann" 1 0 0 0 1 0 0
+552.86 16.26 34 1 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+1025 13.49 76 3 1992.5 "Schwabing-Freimann" 1 0 0 0 1 0 1
+520.89 6.43 81 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+472.81 7.75 61 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+695 13.63 51 2 2012.5 "Obergiesing" 0 0 0 0 1 0 0
+520 10.4 50 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+302.6 8.65 35 1 1972 "Aubing..." 0 0 0 0 0 0 0
+436.22 12.12 36 1 1972 "Au-Haidhausen" 1 0 0 0 1 0 0
+603 10.58 57 2 1972 "Untergiesing" 0 0 0 0 1 0 0
+515.39 6.87 75 3 1992.5 "Untergiesing" 0 0 0 0 1 0 0
+815 10.19 80 3 1992.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+510 15.45 33 1 2012.5 "Moosach" 0 0 0 0 1 0 1
+650.94 10.01 65 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+870 11.92 73 3 1983 "Obergiesing" 0 0 0 0 1 1 1
+475.16 7.54 63 2 1957.5 "Schwabing West" 0 0 0 0 1 0 0
+756.18 9 84 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+765 12.54 61 2 1983 "Maxvorstadt" 1 0 0 0 1 0 1
+806.78 9.72 83 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+750 8.82 85 3 1983 "Untergiesing" 0 0 0 0 1 0 1
+950 11.05 86 3 1983 "Untergiesing" 0 0 0 0 1 0 0
+1050 10.82 97 4 1972 "Obergiesing" 0 0 0 0 1 0 0
+456.24 14.26 32 1 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+860 10.75 80 4 1972 "Schwabing West" 0 0 0 0 1 0 1
+553 8.92 62 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+940 9.04 104 4 1972 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+570 10.18 56 2 1957.5 "Sendling-Westpark" 1 0 0 0 0 0 0
+780 6.5 120 3 2006.5 "Schwabing-Freimann" 0 0 0 0 1 1 0
+655 10.92 60 2 1992.5 "Bogenhausen" 1 0 0 0 1 0 1
+1000 10.42 96 4 1924 "Laim" 0 0 1 0 1 0 0
+628.4 10.65 59 2 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+432.18 12.71 34 1 2010 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+700 8.97 78 3 2012.5 "Obergiesing" 0 0 0 0 1 0 1
+346.52 6.93 50 2 1924 "Untergiesing" 0 0 0 1 1 0 0
+820 12.06 68 2 1972 "Thalkirchen..." 1 0 0 0 1 0 1
+495 12.38 40 1 1972 "Thalkirchen..." 0 1 0 0 1 0 1
+755 13.98 54 3 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 1
+717 8.44 85 4 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+800 11.43 70 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+560 10.57 53 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+768 11.64 66 2 1983 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1004.5 13.39 75 3 1924 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+640 10.85 59 2 1972 "Thalkirchen..." 0 0 0 0 1 0 1
+750 11.54 65 3 1983 "Hadern" 1 0 0 0 1 0 1
+414 13.8 30 1 1972 "Thalkirchen..." 0 0 0 0 0 0 1
+930 11.07 84 3 1983 "Sendling-Westpark" 0 0 0 0 1 0 1
+2189 18.24 120 4 2000.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+1270 14.94 85 3 2006.5 "Sendling" 0 0 0 0 1 1 1
+733.59 9.65 76 2 1972 "Sendling-Westpark" 1 0 0 0 1 0 0
+1150 10.65 108 5 1972 "Berg am Laim" 1 0 0 0 1 0 0
+680 11.15 61 2 1992.5 "Trudering-Riem" 1 0 0 0 1 0 1
+785 9.57 82 3 2000.5 "Trudering-Riem" 1 0 0 0 1 0 0
+695 9.27 75 3 1983 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+939 11.74 80 4 2010 "Pasing-Obermenzing" 0 0 0 0 1 1 0
+410 10.25 40 2 1957.5 "Maxvorstadt" 1 0 0 1 1 0 0
+1350 20.15 67 2 2012.5 "Untergiesing" 0 1 0 0 1 1 0
+315 15 21 1 1972 "Obergiesing" 0 0 0 0 1 0 1
+1167.26 10.52 111 4 2006.5 "Bogenhausen" 1 0 0 0 1 0 1
+1040 13 80 4 2010 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+1000 10 100 3 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+863 10.79 80 4 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+830 11.37 73 3 1983 "Thalkirchen..." 1 0 0 0 1 0 1
+770 13.75 56 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 1
+690 9.2 75 3 1972 "Sendling-Westpark" 1 0 0 0 1 0 0
+1186.49 14.65 81 4 2000.5 "Trudering-Riem" 1 0 0 0 1 1 0
+820 12.06 68 4 1918 "Au-Haidhausen" 1 0 0 0 0 0 0
+859 13.42 64 2 1992.5 "Au-Haidhausen" 0 0 0 0 0 0 1
+424.21 4.08 104 3 1918 "Obergiesing" 0 0 1 0 1 0 0
+550 9.65 57 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+330 12.69 26 1 1957.5 "Au-Haidhausen" 0 0 0 0 1 0 1
+1275 14.17 90 3 2000.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+495 13.75 36 1 1972 "Maxvorstadt" 1 0 0 1 0 0 0
+1080 17.42 62 2 2006.5 "Schwabing West" 1 0 0 0 1 0 1
+800 10 80 3 1918 "Schwabing-Freimann" 1 0 0 1 0 0 0
+1125 13.24 85 2 2006.5 "Maxvorstadt" 1 0 0 0 1 0 0
+440 10 44 2 1992.5 "Maxvorstadt" 1 0 0 0 1 0 0
+1148.57 13.36 86 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+844 11.11 76 3 2012.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+434.47 9.05 48 2 2006.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+630 11.89 53 2 1972 "Bogenhausen" 0 0 0 0 1 0 1
+1760 13.64 129 4 2000.5 "Hadern" 1 0 0 0 1 0 1
+1680 9.94 169 4 1957.5 "Altstadt-Lehel" 0 0 0 0 1 0 1
+588.57 7.55 78 3 1957.5 "Schwabing West" 0 0 0 0 1 0 0
+365 11.41 32 1 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+680 11.53 59 2 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 1
+728.4 9.84 74 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+730 10.9 67 3 1992.5 "Allach-Untermenzing" 0 0 0 0 1 1 1
+1040 12.09 86 4 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+395 13.17 30 1 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+335 11.17 30 1 1972 "Sendling" 0 0 0 0 1 0 0
+497 8.57 58 2 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+911 13.6 67 2 2006.5 "Sendling" 0 0 0 0 1 0 0
+575.24 7.88 73 3 1918 "Sendling" 0 0 0 0 1 0 0
+900 11.54 78 3 2012.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1144.3 10.22 112 4 2006.5 "Untergiesing" 0 0 0 0 1 0 0
+740 8.6 86 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+531 10.21 52 2 1972 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+570 9.83 58 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+321 9.17 35 1 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+300 10 30 1 1983 "Berg am Laim" 0 0 0 0 1 0 1
+793.75 11.34 70 4 1992.5 "Maxvorstadt" 1 0 0 0 1 0 0
+440.17 8 55 3 1957.5 "Hadern" 0 0 0 0 1 0 0
+885 11.8 75 3 1992.5 "Schwabing West" 1 0 0 0 1 0 0
+555.15 13.22 42 2 1972 "Moosach" 0 0 0 0 1 0 0
+480 9.6 50 2 2006.5 "Moosach" 0 0 0 0 1 1 1
+470 6.53 72 3 1957.5 "Moosach" 0 0 0 0 1 0 1
+700 7.95 88 4 1972 "Moosach" 0 0 0 0 0 0 0
+522 8.85 59 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+740 11.56 64 3 1924 "Untergiesing" 0 0 0 0 1 0 0
+1177.65 9.65 122 4 1972 "Thalkirchen..." 0 0 0 0 1 1 0
+400 11.11 36 1 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+500 11.36 44 1 1992.5 "Thalkirchen..." 0 0 0 0 1 0 1
+1180 14.57 81 3 2012.5 "Schwabing West" 0 0 0 0 1 0 1
+467.81 9.55 49 2 1957.5 "Laim" 1 0 0 0 1 0 0
+865 10.3 84 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+629 9.39 67 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+579.36 7.24 80 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+499 6.24 80 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+700 9.33 75 3 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 1 1
+677.64 8.26 82 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+618.97 10.67 58 2 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 0
+390.42 10.55 37 1 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 1 0 0 0
+389 12.97 30 1 1957.5 "Schwabing West" 1 0 0 0 1 0 1
+800 10 80 3 1972 "Berg am Laim" 0 0 0 0 1 0 1
+1137 13.07 87 3 2000.5 "Berg am Laim" 0 0 0 0 1 1 1
+202.49 9.64 21 1 2000.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+1138 13.39 85 3 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+950 11.88 80 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+531 8.17 65 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+619.5 10.68 58 2 1972 "Sendling-Westpark" 0 0 0 0 0 0 0
+412 9.58 43 2 1957.5 "Sendling" 0 0 0 0 0 0 0
+455.02 13.38 34 2 1972 "Sendling-Westpark" 1 0 0 0 1 0 1
+815 10.19 80 3 1957.5 "Moosach" 0 0 0 0 1 0 0
+570 12.39 46 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+580 10.74 54 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+1030 12.41 83 3 2000.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+1090.4 11.72 93 3 1972 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+790 11.29 70 3 1992.5 "Hadern" 0 0 0 0 1 0 0
+760 12.26 62 2 1957.5 "Au-Haidhausen" 0 0 0 0 1 0 1
+665.95 9.94 67 2 1957.5 "Altstadt-Lehel" 1 0 0 0 1 1 0
+930 11.92 78 3 2010 "Trudering-Riem" 0 0 0 0 1 0 1
+600 9.68 62 2 1992.5 "Bogenhausen" 0 0 0 0 1 0 1
+690 16.43 42 1 1983 "Bogenhausen" 0 0 0 0 1 0 1
+651.28 10.5 62 2 1983 "Berg am Laim" 0 0 0 0 1 0 0
+477.13 7.02 68 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+1445 11.75 123 4 1972 "Bogenhausen" 0 0 0 0 1 1 0
+759 12.44 61 2 1939 "Schwabing-Freimann" 1 0 0 1 1 0 1
+720 12.2 59 3 1972 "Bogenhausen" 1 0 0 0 1 0 0
+709 14.18 50 2 2000.5 "Bogenhausen" 1 0 0 0 1 0 1
+685 12.02 57 2 2000.5 "Bogenhausen" 0 0 0 0 1 0 0
+599.83 10.34 58 2 1983 "Bogenhausen" 0 0 0 0 1 0 0
+1030 13.38 77 3 2012.5 "Bogenhausen" 0 0 0 0 1 0 0
+435 10.36 42 1 1972 "Bogenhausen" 1 0 0 0 1 0 1
+330 9.71 34 1 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+980 12.25 80 3 1972 "Moosach" 0 0 0 0 1 0 1
+785 9.46 83 3 1992.5 "Moosach" 0 0 0 0 1 0 1
+1210 11.63 104 4 1992.5 "Bogenhausen" 0 0 0 0 1 0 1
+864.2 16.62 52 2 2006.5 "Maxvorstadt" 1 0 0 0 1 0 1
+654 12.58 52 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+1390 15.44 90 4 2006.5 "Schwabing-Freimann" 1 0 0 0 1 0 1
+500.25 9.1 55 2 1957.5 "Schwabing West" 0 0 0 0 1 0 1
+765 14.17 54 2 1972 "Neuhausen-Nymphenburg" 0 1 0 0 0 0 1
+677.6 13.29 51 2 2010 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1075 13.11 82 3 2006.5 "Laim" 0 0 0 0 1 0 1
+420 12.35 34 1 1972 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+647.74 7.71 84 3 1983 "Obergiesing" 0 0 0 0 1 1 0
+800 11.11 72 2 1972 "Laim" 0 0 0 0 1 0 0
+470 15.16 31 1 1972 "Laim" 1 0 0 0 1 0 1
+510 8.79 58 2 2006.5 "Obergiesing" 0 0 0 0 1 1 0
+604.63 6.72 90 3 1992.5 "Untergiesing" 0 0 0 0 1 0 0
+575 10.45 55 1 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+947 17.22 55 2 1983 "Pasing-Obermenzing" 0 0 0 0 1 1 1
+900 12 75 3 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+978.18 10.19 96 4 1992.5 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+850 12.88 66 3 1957.5 "Trudering-Riem" 0 0 0 0 1 0 0
+911 10.24 89 3 1992.5 "Bogenhausen" 0 0 0 0 1 0 0
+576.64 10.12 57 2 1972 "Hadern" 0 0 0 0 1 0 1
+951 8.97 106 4 1983 "Hadern" 0 0 0 0 0 0 0
+1036 12.33 84 2 1983 "Neuhausen-Nymphenburg" 0 1 0 0 1 1 0
+575 10.27 56 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+690 10.78 64 2 1957.5 "Sendling" 0 0 0 0 1 0 1
+1999 15.99 125 4 2010 "Sendling" 0 0 0 0 1 0 1
+825 12.89 64 3 1918 "Obergiesing" 0 0 0 0 1 0 0
+475 14.84 32 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+770 9.63 80 3 1972 "Untergiesing" 0 0 0 0 0 0 0
+320 13.33 24 1 1924 "Schwabing-Freimann" 1 0 0 0 1 0 0
+520 12.68 41 1 1957.5 "Untergiesing" 0 0 0 0 1 1 0
+850 11.04 77 3 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+964.27 11.76 82 3 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+640 10 64 3 1972 "Au-Haidhausen" 0 0 0 0 1 0 1
+1000 15.38 65 3 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 1
+670 10.63 63 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+520 7.43 70 3 1992.5 "Pasing-Obermenzing" 1 0 0 0 0 0 0
+625.91 9.94 63 2 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+850 9.44 90 3 2000.5 "Thalkirchen..." 0 0 0 0 1 1 1
+540 9.47 57 2 1983 "Thalkirchen..." 0 0 0 0 1 0 0
+355.56 5.01 71 3 1957.5 "Sendling" 0 0 0 0 0 0 0
+717.68 9.57 75 3 1972 "Hadern" 0 0 0 0 1 0 0
+656.26 7.54 87 3 1957.5 "Hadern" 0 0 0 1 1 0 0
+525 8.33 63 1 1983 "Moosach" 0 0 0 0 1 0 1
+1095 10.95 100 4 1983 "Moosach" 0 0 0 0 1 0 1
+1600 16.16 99 4 2000.5 "Allach-Untermenzing" 0 0 0 0 1 0 1
+831.65 11.24 74 3 1972 "Pasing-Obermenzing" 1 0 0 0 0 0 0
+430 7.41 58 2 1924 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+520 10 52 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+1130 11.3 100 4 2006.5 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+740 12.13 61 2 2000.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+1040 10.83 96 3 2000.5 "Trudering-Riem" 0 0 0 0 1 1 1
+1155 11 105 3 1972 "Bogenhausen" 1 0 0 0 1 0 1
+580 13.81 42 1 1972 "Bogenhausen" 1 0 0 0 1 0 0
+740 10.42 71 2 2000.5 "Bogenhausen" 0 0 0 0 1 0 1
+1140 12.39 92 3 1992.5 "Berg am Laim" 1 0 0 0 1 0 1
+560 9.66 58 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+690 11.5 60 2 1957.5 "Berg am Laim" 1 0 0 0 1 0 0
+690 12.11 57 2 2010 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+745 14.06 53 2 1983 "Pasing-Obermenzing" 0 1 0 0 1 0 0
+730.3 9.13 80 3 1957.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+795 10.74 74 3 2010 "Pasing-Obermenzing" 1 0 0 0 1 1 0
+1061.13 11.29 94 3 2010 "Pasing-Obermenzing" 0 0 0 0 1 1 0
+600 12 50 2 1983 "Untergiesing" 1 0 0 0 1 0 0
+1276.49 15.57 82 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+530 9.64 55 2 2000.5 "Pasing-Obermenzing" 0 0 0 0 1 1 0
+450 14.06 32 1 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+840 10.77 78 3 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+670 11.17 60 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+868 12.06 72 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+1057.19 9.52 111 2 1983 "Maxvorstadt" 1 0 0 0 1 0 0
+450 7.89 57 2 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+761 11.03 69 2 1983 "Untergiesing" 0 0 0 0 1 1 1
+660.06 17.37 38 1 1983 "Schwabing West" 1 0 0 0 0 0 1
+1035 12.94 80 3 2006.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+1214 12.65 96 4 2010 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+975.2 12.5 78 3 1957.5 "Altstadt-Lehel" 0 1 0 0 1 0 0
+820 11.23 73 3 1939 "Maxvorstadt" 1 0 0 1 1 0 0
+1460 10.43 140 5 2000.5 "Aubing..." 0 0 0 0 1 0 0
+600 10.71 56 2 1972 "Aubing..." 0 0 0 0 1 0 0
+322.51 9.77 33 1 1972 "Pasing-Obermenzing" 0 0 0 0 0 0 0
+554 7.29 76 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+633.22 7.54 84 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+590 10.17 58 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+687 12.05 57 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+800 10.26 78 3 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+658.3 8.23 80 3 1918 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 0 0 0
+490 13.61 36 1 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+900 11.39 79 3 1992.5 "Bogenhausen" 0 0 0 0 1 0 1
+800 10 80 3 1983 "Bogenhausen" 0 0 0 0 1 0 0
+848 9.53 89 4 1983 "Bogenhausen" 0 0 0 0 1 0 0
+560 8.36 67 3 1957.5 "Bogenhausen" 1 0 0 0 0 0 1
+1100 10 110 5 1972 "Berg am Laim" 0 0 0 0 1 0 0
+580 10.36 56 2 1983 "Bogenhausen" 0 0 0 0 1 0 1
+635.27 8.36 76 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+650 10.16 64 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+343.13 12.71 27 1 1983 "Schwabing-Freimann" 0 0 0 0 1 0 1
+450 12.86 35 1 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+480 9.8 49 2 1918 "Schwabing West" 1 0 0 0 1 0 0
+500 16.67 30 1 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+414 12.18 34 1 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+550 10.78 51 2 1972 "Hadern" 0 0 0 0 1 0 0
+742.49 10.61 70 3 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+399.02 11.4 35 1 1957.5 "Au-Haidhausen" 0 0 0 0 1 0 1
+740 9.74 76 3 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+1320 11.48 115 3 1992.5 "Moosach" 0 0 0 0 1 1 1
+704 10.67 66 2 1983 "Sendling" 0 0 0 0 1 0 1
+673.95 8.87 76 3 1972 "Aubing..." 0 0 0 0 1 1 0
+1200 13.33 90 3 2012.5 "Hadern" 1 0 0 0 1 1 0
+480 7.06 68 3 1957.5 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+764.69 9.21 83 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+561 11.69 48 2 1957.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+828 11.83 70 3 1972 "Untergiesing" 0 0 0 0 1 1 1
+650 11.61 56 2 1972 "Obergiesing" 0 0 0 0 1 0 0
+432.86 9.41 46 2 1972 "Thalkirchen..." 0 0 0 0 0 0 0
+950 10.92 87 3 1972 "Thalkirchen..." 1 0 0 0 1 0 0
+981.54 10.22 96 3 1972 "Thalkirchen..." 1 0 0 0 1 0 1
+610.4 10.35 59 2 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+1250 12.38 101 4 2006.5 "Thalkirchen..." 0 1 0 0 1 0 0
+585 12.72 46 1 2000.5 "Thalkirchen..." 0 0 0 0 1 0 0
+479.92 14.12 34 1 1972 "Schwanthalerhöhe" 0 0 0 0 1 0 1
+480.57 6.87 70 3 1972 "Hadern" 0 0 0 0 1 0 0
+853.4 12.19 70 3 1939 "Schwanthalerhöhe" 0 0 0 1 1 0 0
+950 12.18 78 3 1972 "Hadern" 1 0 0 0 1 0 0
+650 11.21 58 2 2000.5 "Sendling" 0 0 0 0 1 0 1
+500 13.89 36 1 1972 "Sendling" 0 0 0 0 1 0 1
+1180 9.52 124 3 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+560 13.02 43 2 2000.5 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+682 8.86 77 3 1972 "Aubing..." 0 0 0 0 1 0 0
+410 8.04 51 2 1957.5 "Aubing..." 0 0 0 0 0 0 0
+680 9.58 71 3 2000.5 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+1045 8.1 129 3 2006.5 "Aubing..." 0 0 0 0 1 0 0
+666.44 9.52 70 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+655 10.92 60 2 1972 "Ramersdorf-Perlach" 1 0 0 0 1 0 1
+659 11.98 55 2 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+500 10 50 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+644.04 8.47 76 3 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+510 8.1 63 2 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+1495 13.47 111 4 1924 "Neuhausen-Nymphenburg" 0 0 0 0 1 1 0
+910 15.17 60 2 2010 "Laim" 0 0 0 0 1 0 0
+400 6.35 63 3 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+1200 15.19 79 3 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+800 9.41 85 3 1992.5 "Bogenhausen" 0 0 0 0 1 0 1
+780 11.82 66 3 1992.5 "Bogenhausen" 1 0 0 0 1 0 1
+990 10.88 91 3 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+530 11.04 48 1 1972 "Pasing-Obermenzing" 0 1 0 0 1 0 1
+810 11.1 73 3 1972 "Moosach" 0 0 0 0 1 0 0
+302.95 6.18 49 2 1957.5 "Moosach" 0 0 1 1 1 0 0
+1500 17.24 87 3 2010 "Pasing-Obermenzing" 0 0 0 0 1 1 0
+750 12.5 60 2 2010 "Bogenhausen" 0 0 0 0 1 0 1
+713 13.45 53 2 2012.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+450 9 50 2 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+570 13.9 41 2 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+860 10.49 82 3 2006.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+510 9.62 53 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+985 13.13 75 3 1972 "Schwabing-Freimann" 1 0 0 0 1 1 1
+644.83 8.48 76 3 1992.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+490 11.14 44 1 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+631.91 9.87 64 2 1972 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 0
+1160 14.15 82 3 2010 "Neuhausen-Nymphenburg" 1 0 0 0 1 1 1
+389 13.89 28 1 1972 "Laim" 0 0 0 0 0 0 0
+1140 11.4 100 4 2006.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+544 12.95 42 1 1972 "Bogenhausen" 1 0 0 0 1 0 0
+485 10.78 45 2 1983 "Laim" 0 0 0 0 1 0 0
+362 10.06 36 1 1972 "Pasing-Obermenzing" 0 0 0 1 1 0 0
+597.11 8.18 73 3 1972 "Hadern" 0 0 0 0 1 0 0
+1100 12.64 87 3 1924 "Au-Haidhausen" 1 0 0 0 1 0 0
+760 10.41 73 3 2000.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+690 11.13 62 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+430.8 6.15 70 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+600 10 60 2 1957.5 "Sendling-Westpark" 0 0 0 0 0 0 0
+430 12.29 35 2 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+1050 14 75 2 1972 "Schwabing West" 1 0 0 0 1 0 0
+488.55 6.03 81 2 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+710 12.91 55 2 1972 "Schwabing-Freimann" 1 0 0 0 1 0 0
+690 12.55 55 2 1983 "Schwabing-Freimann" 1 0 0 0 1 0 1
+935 11.54 81 3 1972 "Hadern" 0 0 0 0 1 0 0
+635.4 9.21 69 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+941.33 10.95 86 3 2010 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 0
+789 11.11 71 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+448.5 7.6 59 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+900 10.11 89 4 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+705 12.16 58 2 1957.5 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+552 13.14 42 2 1924 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+1040 12.09 86 4 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 1 0
+340 13.08 26 1 1957.5 "Maxvorstadt" 1 0 0 0 1 1 0
+769.2 11.31 68 2 1939 "Maxvorstadt" 1 0 0 1 1 0 1
+420 12.73 33 1 1939 "Schwabing West" 1 0 0 0 0 0 1
+650 10.83 60 2 1983 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+800 11.59 69 2 2012.5 "Aubing..." 0 0 0 0 1 1 0
+595 11.9 50 2 2012.5 "Aubing..." 0 0 0 0 1 0 1
+840 7.43 113 4 2012.5 "Obergiesing" 0 0 0 0 1 0 1
+770 9.63 80 3 1992.5 "Trudering-Riem" 1 0 0 0 0 0 0
+630 15 42 2 1939 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 1 0
+600 14.63 41 2 1957.5 "Sendling" 1 0 0 0 1 0 1
+444 8.07 55 2 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+990 11.12 89 4 1972 "Thalkirchen..." 1 0 0 0 1 0 1
+542 8.47 64 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+707 10.25 69 3 1957.5 "Schwabing West" 0 0 0 0 1 0 0
+1810 15.74 115 5 1983 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 0
+523 11.89 44 3 1918 "Au-Haidhausen" 1 0 1 1 1 0 0
+960 10 96 4 1972 "Berg am Laim" 0 0 0 0 1 0 0
+470 13.06 36 1 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1200 13.95 86 3 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 1 0
+700 10.77 65 2 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+713 11.88 60 2 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 0 0 1
+366.2 5.23 70 3 1957.5 "Hadern" 0 0 0 0 1 0 0
+920 14.15 65 3 1957.5 "Maxvorstadt" 0 0 0 0 1 0 0
+850 10.24 83 3 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+679.37 10.96 62 2 2000.5 "Berg am Laim" 0 0 0 0 1 0 0
+841 9.56 88 3 1983 "Berg am Laim" 0 0 0 0 1 0 0
+1840 12.78 144 3 1957.5 "Schwabing-Freimann" 1 0 0 0 1 0 1
+1213.95 18.68 65 3 1972 "Schwabing-Freimann" 1 0 0 0 1 1 1
+964.36 12.52 77 3 2000.5 "Bogenhausen" 1 0 0 0 1 0 1
+670 11.55 58 2 1957.5 "Bogenhausen" 0 0 0 0 1 0 1
+730 11.41 64 2 1992.5 "Bogenhausen" 0 0 0 0 1 0 1
+810 10.8 75 3 2000.5 "Bogenhausen" 0 0 0 0 1 0 1
+455 6.5 70 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+850 8.5 100 4 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+1063.35 11.19 95 3 1972 "Untergiesing" 0 0 0 0 1 0 0
+915 14.3 64 2 1924 "Maxvorstadt" 1 0 0 0 1 0 0
+654 11.89 55 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+572.24 11 52 2 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 0 0 0
+1610 14.64 110 5 1992.5 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 1
+960 14.77 65 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1107 13.67 81 3 2012.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+1150 13.69 84 3 1918 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1370 14.73 93 3 2010 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+788 12.51 63 2 1992.5 "Aubing..." 0 0 0 0 1 0 1
+589.89 7.11 83 4 1957.5 "Aubing..." 0 0 0 0 0 0 0
+1400 14 100 4 1918 "Maxvorstadt" 0 0 0 0 1 0 0
+1390 13.5 103 4 2012.5 "Au-Haidhausen" 0 0 0 0 1 0 1
+401.69 10.04 40 1 1972 "Bogenhausen" 1 0 0 0 1 0 0
+805 12.58 64 2 1972 "Bogenhausen" 0 0 0 0 1 0 0
+700 11.29 62 2 2000.5 "Trudering-Riem" 1 0 0 0 1 1 0
+570 8.38 68 3 1957.5 "Thalkirchen..." 0 0 0 0 0 0 1
+1700 10.63 160 5 1972 "Thalkirchen..." 1 0 0 0 1 1 0
+470 13.82 34 1 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+1560 19.5 80 3 2000.5 "Untergiesing" 1 0 0 0 1 1 1
+1032.78 12.75 81 3 2012.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+868 12.76 68 2 2012.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+600 8.57 70 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+782.44 8.07 97 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+396 13.2 30 1 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+910 11.97 76 3 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+710 10.6 67 2 1983 "Sendling" 0 0 0 0 1 0 0
+510 12.75 40 2 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+796.38 10.62 75 3 1983 "Untergiesing" 0 0 0 0 1 0 1
+670 10.15 66 2 1957.5 "Untergiesing" 0 0 0 0 1 0 1
+553.79 13.19 42 2 1957.5 "Untergiesing" 0 0 0 0 1 1 1
+1220 9.76 125 5 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+910 9.89 92 3 2006.5 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+1190 10.82 110 4 1972 "Thalkirchen..." 1 0 0 0 1 0 1
+459 9.37 49 2 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+655 11.49 57 1 1983 "Thalkirchen..." 0 0 0 0 1 0 1
+427.95 5.09 84 4 1957.5 "Hadern" 0 0 0 0 1 0 0
+576 13.09 44 1 1992.5 "Laim" 0 0 0 1 1 0 1
+665 15.83 42 2 1924 "Untergiesing" 0 0 0 0 1 0 0
+900 10.98 82 3 2000.5 "Untergiesing" 0 0 0 0 1 0 0
+970 9.51 102 4 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 0
+740 9.37 79 3 1957.5 "Sendling-Westpark" 1 0 0 0 1 0 0
+774 10.18 76 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+679 11.32 60 2 1957.5 "Maxvorstadt" 1 0 0 0 0 0 0
+299 13.59 22 1 1972 "Schwabing-Freimann" 1 0 0 0 1 0 0
+336 12 28 1 1983 "Maxvorstadt" 1 0 0 1 1 0 1
+740 10.42 71 2 2010 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+390 11.47 34 1 1983 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+1140 10.86 105 4 1983 "Moosach" 0 0 0 0 1 0 0
+580 12.89 45 1 1972 "Moosach" 0 0 0 0 1 0 0
+580 8.53 68 2 1972 "Moosach" 0 0 0 0 1 0 0
+508.77 9.78 52 2 1992.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+820 11.71 70 2 1972 "Schwabing-Freimann" 1 0 0 0 1 0 0
+630 12.12 52 2 1983 "Untergiesing" 0 0 0 0 1 0 0
+421.5 15.61 27 1 1957.5 "Thalkirchen..." 0 0 0 0 1 0 1
+770 10.27 75 3 1992.5 "Untergiesing" 0 0 0 0 1 0 1
+740 8.31 89 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+600 10.71 56 2 1992.5 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+670 11.17 60 2 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 1 0
+418.44 5.43 77 3 1957.5 "Laim" 0 0 0 0 0 0 0
+576 7.2 80 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1022.93 9.84 104 3 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+741 11.4 65 2 1983 "Trudering-Riem" 1 0 0 0 1 0 0
+1140 12 95 3 1972 "Neuhausen-Nymphenburg" 0 1 0 0 0 0 0
+329 8.44 39 1 1957.5 "Sendling" 0 0 0 0 1 0 0
+465 13.68 34 1 1983 "Thalkirchen..." 1 0 0 0 1 0 0
+930 13.1 71 3 2006.5 "Thalkirchen..." 0 0 0 0 1 0 0
+325.6 7.24 45 2 1992.5 "Bogenhausen" 0 0 0 0 1 0 0
+951 11.89 80 3 1992.5 "Bogenhausen" 0 0 0 0 1 0 0
+650 11.82 55 2 1972 "Bogenhausen" 1 0 0 0 1 0 1
+830 12.77 65 2 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+758 8.42 90 3 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+495.17 7.18 69 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+725.21 10.07 72 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+362 6.24 58 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+658 10.61 62 2 2006.5 "Trudering-Riem" 1 0 0 0 1 0 1
+520 12.38 42 2 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+1150 11.73 98 3 2000.5 "Trudering-Riem" 1 0 0 0 1 0 1
+744 10.94 68 3 2006.5 "Berg am Laim" 0 0 0 0 1 0 0
+567.15 14.18 40 2 1983 "Untergiesing" 1 0 0 0 1 0 0
+472.01 9.26 51 2 1983 "Au-Haidhausen" 0 0 0 0 1 0 0
+2800 14 200 5 2010 "Au-Haidhausen" 1 0 0 0 1 0 0
+1350 14.36 94 4 2010 "Au-Haidhausen" 0 0 0 0 1 1 0
+1400 11.67 120 4 1972 "Bogenhausen" 0 1 0 0 1 0 0
+703 11.34 62 2 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+790 9.75 81 3 1972 "Berg am Laim" 0 0 0 0 1 0 0
+680 9.71 70 3 1983 "Aubing..." 0 0 0 0 1 0 1
+590 9.52 62 3 1972 "Aubing..." 0 0 0 0 1 1 0
+720 9 80 3 1972 "Bogenhausen" 1 0 0 0 0 0 0
+341.12 7.58 45 1 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+675 11.25 60 2 2000.5 "Trudering-Riem" 1 0 0 0 1 0 1
+820 9.01 91 4 1957.5 "Pasing-Obermenzing" 1 0 0 0 1 1 0
+475 13.57 35 1 1972 "Laim" 0 0 0 0 1 0 1
+690 9.86 70 3 1972 "Sendling-Westpark" 0 0 0 0 1 0 1
+365.77 5.3 69 3 1972 "Sendling" 0 0 0 0 1 0 0
+530 7.07 75 3 2010 "Thalkirchen..." 0 1 0 0 1 0 1
+1200 14.12 85 3 2012.5 "Moosach" 0 0 0 0 1 1 0
+712.54 8.91 80 4 1972 "Untergiesing" 1 0 0 0 0 0 0
+690 9.45 73 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+1160 11.96 97 3 1983 "Untergiesing" 0 1 0 0 1 1 0
+1135 13.67 83 3 2000.5 "Schwabing West" 1 0 0 0 1 0 0
+757.22 8.91 85 4 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+850 10.49 81 4 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+1050 10.19 103 4 1983 "Schwabing-Freimann" 0 0 0 0 1 0 0
+850 10.9 78 3 1992.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+428.85 8.41 51 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+281.96 7.62 37 1 1972 "Milbersthofen-Am Hart" 0 0 0 0 0 0 1
+430 14.33 30 1 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+680 11.93 57 2 2000.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+1010 11.61 87 3 2000.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+448.31 5.27 85 3 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+816.75 10.34 79 3 1972 "Obergiesing" 0 0 0 0 0 0 0
+440 10.23 43 2 1972 "Obergiesing" 0 0 0 0 0 0 0
+1152 13.88 83 3 2012.5 "Au-Haidhausen" 0 0 0 0 1 1 1
+415 16.6 25 1 1983 "Au-Haidhausen" 0 0 0 0 1 0 1
+1460 14.04 104 4 2012.5 "Obergiesing" 0 0 0 0 1 0 0
+888 13.25 67 2 2000.5 "Untergiesing" 1 0 0 0 1 0 0
+745 13.3 56 2 1972 "Untergiesing" 1 0 0 0 1 0 0
+405 13.97 29 1 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+1165 14.56 80 3 2010 "Allach-Untermenzing" 1 0 0 0 1 0 0
+600 11.54 52 1 1992.5 "Bogenhausen" 0 0 0 0 1 0 1
+396.83 11.67 34 1 1957.5 "Bogenhausen" 0 0 0 0 0 0 0
+608.65 6.41 95 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1100 11 100 4 2000.5 "Trudering-Riem" 0 0 0 0 1 0 0
+543.36 10.06 54 2 1972 "Berg am Laim" 0 0 0 0 1 0 1
+715 11 65 3 1972 "Bogenhausen" 0 0 0 0 1 0 0
+840 12 70 3 1992.5 "Bogenhausen" 1 0 0 0 1 0 1
+830 12.58 66 2 2000.5 "Bogenhausen" 0 0 0 0 1 0 0
+1570 13.08 120 3 1972 "Bogenhausen" 0 0 0 0 1 0 1
+940 11.33 83 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+419 8.22 51 2 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+560 10.57 53 2 1992.5 "Berg am Laim" 1 0 0 0 1 0 1
+837 13.29 63 2 2010 "Hadern" 1 0 0 0 1 1 0
+280 4.24 66 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+713.02 8.59 83 4 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+970 13.11 74 2 2006.5 "Obergiesing" 0 0 0 1 1 1 1
+1150 11.98 96 4 2000.5 "Sendling" 0 0 0 0 1 0 1
+520 12.09 43 1 1983 "Schwabing West" 1 0 0 0 1 0 0
+390.6 10.85 36 1 1983 "Schwabing West" 0 0 0 0 1 0 0
+660 16.92 39 1 1972 "Schwabing West" 1 0 0 0 1 0 0
+386.88 5.53 70 3 1957.5 "Thalkirchen..." 0 0 0 0 0 0 0
+743.43 10.33 72 3 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+389.87 5.41 72 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+675 11.64 58 2 1972 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 1
+590 11.8 50 2 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+1350 17.76 76 2 2010 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+1050 11.67 90 4 1957.5 "Untergiesing" 1 0 0 0 1 0 0
+860 11.47 75 3 1957.5 "Altstadt-Lehel" 1 0 0 0 1 0 0
+639.82 8.65 74 3 1983 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+1430 15.71 91 3 1983 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+607 11.67 52 2 1983 "Altstadt-Lehel" 0 1 0 0 1 0 1
+969.96 12.6 77 3 2000.5 "Schwabing West" 1 0 0 0 1 0 0
+945 12.6 75 3 1983 "Untergiesing" 0 0 0 0 1 0 0
+627.38 10.46 60 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+1660 13.72 121 4 1983 "Untergiesing" 0 1 0 0 1 0 0
+528.34 10.36 51 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+790 10.97 72 3 2000.5 "Aubing..." 0 0 0 0 1 0 0
+370 13.7 27 1 1983 "Hadern" 0 0 0 0 1 0 1
+808 14.69 55 2 2012.5 "Schwabing West" 0 0 0 0 1 0 0
+533.65 12.13 44 2 1972 "Hadern" 0 0 0 0 1 0 1
+800 10.26 78 3 1957.5 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+630 7.88 80 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+990 16.5 60 2 2000.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+191 5.97 32 1 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+834 12.83 65 3 1918 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+750 11.03 68 2 2010 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+589 12.02 49 2 2010 "Au-Haidhausen" 1 0 0 0 1 0 0
+412.34 8.42 49 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+650 9.15 71 3 1983 "Thalkirchen..." 0 0 0 1 1 0 1
+586 9.3 63 2 1972 "Laim" 1 0 0 0 1 0 0
+963 10.82 89 3 1983 "Sendling-Westpark" 0 0 0 0 1 0 0
+663.57 12.76 52 2 1983 "Maxvorstadt" 1 0 0 0 1 0 0
+1285 10.89 118 4 2000.5 "Laim" 0 0 0 0 1 0 0
+1115 15.49 72 1 1983 "Maxvorstadt" 1 0 0 0 1 0 1
+560 9.33 60 2 1972 "Moosach" 0 0 0 0 1 0 0
+280 18.67 15 1 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+580 8.41 69 2 1983 "Obergiesing" 0 0 0 0 1 0 0
+775 9.57 81 3 1983 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+534.45 10.69 50 2 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+590 10.17 58 2 1992.5 "Moosach" 0 0 0 1 1 0 0
+800 8.6 93 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+420 7.37 57 2 2006.5 "Bogenhausen" 0 0 0 0 1 0 0
+1118.34 12.57 89 3 2000.5 "Bogenhausen" 1 0 0 0 1 0 1
+750 12.71 59 2 1957.5 "Schwabing West" 0 0 0 0 1 0 1
+800 11.94 67 2 1972 "Maxvorstadt" 0 0 0 0 1 0 1
+774 12.69 61 3 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+725 14.8 49 2 2000.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+745 9.31 80 3 1983 "Hadern" 0 0 0 0 0 0 0
+590 10.93 54 2 1972 "Hadern" 0 0 0 1 1 0 0
+502 7.07 71 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 0 0 0
+700 16.28 43 1 2012.5 "Maxvorstadt" 1 0 0 0 1 0 1
+660 8.25 80 3 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+655 10.4 63 2 1972 "Laim" 0 0 0 0 0 0 0
+700 10 70 3 1972 "Hadern" 0 0 0 0 1 0 1
+462.25 11.01 42 2 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+510 12.75 40 1 1972 "Schwabing West" 1 0 0 0 1 0 1
+1401.45 17.97 78 3 2010 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+350 14 25 1 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+520 12.09 43 2 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+1355 12.55 108 4 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+950 12.67 75 3 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+710 7.47 95 3 1983 "Au-Haidhausen" 0 0 0 0 1 0 0
+680 8.95 76 3 1957.5 "Sendling" 0 0 0 0 0 0 0
+750 9.62 78 3 2000.5 "Laim" 0 0 0 0 1 0 0
+593.39 8.48 70 3 1957.5 "Aubing..." 0 0 0 0 1 0 0
+454.52 6.14 74 3 1992.5 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+648.19 9.39 69 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+355.3 4.67 76 3 1972 "Hadern" 0 0 0 0 1 0 0
+360 13.33 27 1 1972 "Laim" 0 0 0 0 1 0 1
+570 10.56 54 2 1972 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+695.66 8.81 79 3 1939 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+493 7.47 66 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+410 12.42 33 1 1972 "Sendling-Westpark" 0 0 0 0 1 0 1
+890 10.47 85 3 1972 "Sendling-Westpark" 0 0 0 0 1 1 0
+1060 10.39 102 4 1972 "Schwabing-Freimann" 0 0 0 0 1 0 0
+610 10.89 56 2 2000.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+658.25 9.4 70 2 1957.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+850 14.41 59 2 2012.5 "Trudering-Riem" 1 0 0 0 1 1 1
+682 13.92 49 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+1064 13.64 78 3 2012.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+515 11.44 45 1 1983 "Sendling-Westpark" 1 0 0 0 0 0 0
+1340 13.14 102 3 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+1540 14.67 105 3 2012.5 "Untergiesing" 0 0 0 0 1 0 1
+412.5 8.78 47 2 1957.5 "Aubing..." 0 0 0 0 1 0 0
+965 10.84 89 3 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+660 12.45 53 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 1
+775.66 10.77 72 3 1983 "Berg am Laim" 0 0 0 0 1 0 0
+477.06 12.55 38 1 1972 "Au-Haidhausen" 0 0 0 0 1 0 1
+478.89 8.26 58 2 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+690 10.78 64 2 2000.5 "Bogenhausen" 0 0 0 0 1 0 1
+1631 12.55 130 4 1983 "Bogenhausen" 1 0 0 0 1 0 0
+1073 12.62 85 3 2010 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+329.74 9.99 33 1 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+600 10.34 58 2 1972 "Thalkirchen..." 0 0 0 0 1 0 1
+1070 15.29 70 2 1957.5 "Sendling-Westpark" 1 0 0 0 1 0 1
+1200 12.5 96 4 1992.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+607.36 9.49 64 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+947 10.52 90 4 2006.5 "Thalkirchen..." 0 0 0 0 1 0 0
+1274 12.87 99 4 2006.5 "Bogenhausen" 1 0 0 0 1 1 0
+800 12.9 62 3 2010 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+675.64 12.06 56 2 2006.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+774.9 12.7 61 2 2010 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+719.54 9.34 77 3 2000.5 "Thalkirchen..." 0 0 0 0 1 0 0
+1570 12.87 122 4 2006.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1921.84 13.93 138 4 2012.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+1200.86 13.96 86 3 2012.5 "Schwanthalerhöhe" 0 0 0 0 1 0 0
+2070 14.08 147 5 2012.5 "Au-Haidhausen" 0 0 0 0 1 0 1
+474.39 6.78 70 3 2010 "Schwabing West" 1 0 0 0 1 1 0
+1322 13.77 96 4 2012.5 "Bogenhausen" 0 1 0 0 1 0 0
+1335 12.14 110 3 2010 "Laim" 0 0 0 0 1 0 0
+627 11.2 56 2 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1610 15.63 103 3 2010 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+689 10.28 67 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+950 13.57 70 2 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 1
+620 12.4 50 2 2000.5 "Sendling" 0 0 0 0 1 0 1
+694.84 9.14 76 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+575 13.07 44 1 2006.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+865 13.11 66 2 2006.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+650 8.55 76 3 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+581.27 7.65 76 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+600 12 50 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1865 13.32 140 4 2010 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+596 10.64 56 2 1957.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+530 8.69 61 2 1983 "Sendling" 0 0 0 0 1 0 0
+1590 12.72 125 5 1918 "Au-Haidhausen" 1 0 0 1 1 1 0
+1600 11.03 145 5 2006.5 "Ramersdorf-Perlach" 1 0 0 0 1 1 0
+600 11.54 52 2 1939 "Schwabing West" 1 0 0 0 1 0 0
+424.54 8.49 50 2 1939 "Schwabing West" 1 0 0 0 1 0 0
+537 14.92 36 2 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+1050 11.67 90 4 1957.5 "Allach-Untermenzing" 0 0 0 0 1 0 0
+980 9.8 100 3 1983 "Hadern" 0 0 0 0 1 0 0
+718.68 7.81 92 4 1972 "Hadern" 0 0 0 0 1 0 0
+730 9.24 79 3 1972 "Berg am Laim" 0 0 0 0 1 0 0
+531.9 7.49 71 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+667.62 8.14 82 4 1957.5 "Schwabing West" 0 0 0 0 1 0 1
+549.91 6.32 87 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+1156.41 13.77 84 3 2006.5 "Sendling" 0 0 0 0 1 0 0
+454 5.28 86 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+995 11.71 85 3 1972 "Laim" 0 0 0 0 1 1 1
+362 7.24 50 2 1957.5 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 0
+985 11.45 86 4 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+1290 11.62 111 4 1983 "Thalkirchen..." 1 0 0 0 1 0 1
+863.5 9.59 90 3 1992.5 "Bogenhausen" 0 0 0 0 1 0 0
+726 8.64 84 4 1972 "Aubing..." 0 0 0 0 0 0 0
+420 10 42 2 1957.5 "Untergiesing" 0 0 0 0 0 0 0
+505.13 7.02 72 3 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+187.63 7.51 25 1 1972 "Hadern" 1 0 0 0 1 0 1
+920 10.7 86 4 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+810 10.8 75 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+645 8.49 76 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+641.72 8.67 74 4 1957.5 "Thalkirchen..." 0 0 0 0 1 0 1
+820 10.79 76 3 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+670 9.57 70 3 1992.5 "Trudering-Riem" 1 0 0 0 1 0 0
+750 12.3 61 2 1992.5 "Trudering-Riem" 1 0 0 0 1 0 0
+612.77 9.73 63 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+510 7.97 64 2 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+510.71 9.82 52 2 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+402 4.96 81 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+790 9.88 80 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+710.6 12.04 59 2 1992.5 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 1
+1370 12.12 113 3 1983 "Untergiesing" 0 0 0 0 1 0 0
+835 8.98 93 4 1972 "Hadern" 0 0 0 0 1 0 0
+1005 12.26 82 3 1972 "Schwabing West" 0 0 0 0 1 0 0
+1053 11.08 95 4 1972 "Hadern" 0 0 0 0 1 0 0
+389 11.79 33 1 1972 "Hadern" 0 0 0 0 1 0 0
+886.32 9.43 94 4 1972 "Hadern" 0 0 0 0 1 0 0
+699.95 10.29 68 2 1972 "Altstadt-Lehel" 0 0 0 0 1 0 0
+695 12.64 55 2 1983 "Schwabing-Freimann" 1 0 0 0 1 0 1
+2490 13.68 182 4 2000.5 "Trudering-Riem" 0 0 0 0 1 0 0
+773.08 10.04 77 3 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+437 12.49 35 1 1957.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+629 10.84 58 2 1957.5 "Trudering-Riem" 1 0 0 0 1 0 0
+362 12.48 29 1 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+634 9.75 65 2 1972 "Aubing..." 0 0 0 0 0 0 0
+660 9.17 72 3 1972 "Aubing..." 0 0 0 0 1 0 0
+431 12.31 35 1 1972 "Thalkirchen..." 1 0 0 0 1 0 0
+890 10.23 87 3 1972 "Thalkirchen..." 0 1 0 0 1 0 0
+582.3 8.82 66 3 1972 "Hadern" 0 0 0 0 1 0 0
+1229.85 13.66 90 3 2000.5 "Thalkirchen..." 1 0 0 0 1 0 1
+850 12.5 68 3 2000.5 "Sendling-Westpark" 0 0 0 0 1 0 1
+783 13.27 59 2 2010 "Berg am Laim" 0 0 0 0 1 0 1
+765 9 85 4 2006.5 "Trudering-Riem" 0 0 0 0 1 0 0
+1090 13.8 79 3 2000.5 "Schwabing-Freimann" 1 0 0 0 1 0 0
+646 11.14 58 2 1957.5 "Bogenhausen" 1 0 0 0 1 0 0
+620 11.48 54 2 2000.5 "Berg am Laim" 0 0 0 0 1 0 0
+580 9.83 59 2 1957.5 "Laim" 1 0 1 0 1 0 0
+927.93 8.29 112 4 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+864.13 8.08 107 4 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+669.83 6.77 99 4 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+995 9.3 107 4 1957.5 "Thalkirchen..." 0 0 0 0 1 0 0
+645 11.73 55 2 2000.5 "Ludwigvorstadt-Isarvorstadt" 0 0 0 0 1 0 1
+800 12.5 64 2 1992.5 "Hadern" 0 0 0 0 1 0 1
+854.88 9.71 88 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+692.27 9.61 72 3 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+919 12.59 73 3 2010 "Sendling-Westpark" 0 0 0 0 1 1 1
+910 6.19 147 5 1983 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 0
+732 10.46 70 3 2000.5 "Trudering-Riem" 0 0 0 0 1 0 0
+1122 12.61 89 3 2006.5 "Sendling-Westpark" 0 0 0 0 1 1 0
+743.56 13.28 56 2 2006.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+928 12.37 75 3 2000.5 "Moosach" 0 0 0 0 1 0 0
+720 10.43 69 2 1939 "Au-Haidhausen" 0 0 0 1 1 0 0
+1120 12.44 90 3 2000.5 "Aubing..." 0 0 0 0 1 0 1
+605 11.2 54 2 1972 "Bogenhausen" 0 0 0 0 1 0 0
+547 7.39 74 3 1972 "Sendling" 0 0 0 0 0 0 0
+747 7.62 98 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+640 8.42 76 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+831 10.26 81 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+567 7 81 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+690 12.11 57 2 1992.5 "Bogenhausen" 1 0 0 0 0 0 1
+973.83 22.13 44 2 1918 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+621.12 11.5 54 2 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+578.13 10.51 55 3 1939 "Laim" 0 0 0 0 1 0 0
+907.77 8.33 109 3 1924 "Moosach" 0 0 0 0 1 0 0
+699.13 9.08 77 3 1992.5 "Bogenhausen" 0 0 0 0 1 0 0
+333 6.66 50 2 1957.5 "Sendling-Westpark" 1 0 0 0 1 0 0
+1200 10.81 111 4 1939 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+454 6.98 65 3 2000.5 "Trudering-Riem" 0 0 0 0 1 0 0
+1000 11.9 84 4 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+550 8.73 63 2 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+515.41 6.96 74 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+415.67 12.99 32 1 1957.5 "Au-Haidhausen" 0 0 0 0 1 0 0
+735 15 49 3 1957.5 "Schwabing West" 1 0 0 0 1 0 0
+970 11.28 86 3 2000.5 "Aubing..." 1 0 0 0 1 0 1
+1078.63 10.9 99 3 1992.5 "Sendling-Westpark" 0 0 0 0 1 0 0
+550 9.65 57 3 1957.5 "Obergiesing" 0 0 0 0 1 0 0
+1075 17.62 61 3 2000.5 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+560 9.82 57 2 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+730 8.69 84 3 1992.5 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+380 10.56 36 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+466.23 7.64 61 3 1957.5 "Aubing..." 0 0 0 0 1 0 0
+797 13.28 60 2 2000.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+341.41 6.57 52 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+712 9.49 75 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+540 7.71 70 3 1957.5 "Trudering-Riem" 1 0 0 0 0 0 0
+577.76 7.7 75 3 1972 "Laim" 0 0 0 0 1 0 0
+530.01 7.36 72 3 1972 "Bogenhausen" 0 0 0 0 1 0 0
+666 8.22 81 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+390 14.44 27 1 1972 "Obergiesing" 0 0 0 0 1 0 1
+497.75 9.05 55 2 1983 "Bogenhausen" 0 0 0 0 1 0 0
+905 9.95 91 3 2000.5 "Pasing-Obermenzing" 0 0 0 0 1 0 0
+247 5.88 42 1 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+750 10.56 71 3 1972 "Obergiesing" 0 0 0 0 1 1 1
+430 11.94 36 1 1972 "Obergiesing" 0 0 0 0 1 0 1
+520 8 65 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+345 11.5 30 1 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+861.65 9.27 93 4 1972 "Berg am Laim" 0 0 0 0 1 0 0
+854.26 10.42 82 3 1983 "Thalkirchen..." 0 0 0 0 1 0 0
+546 14.37 38 1 1939 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+560 9.33 60 2 1983 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+550 11.46 48 2 2000.5 "Berg am Laim" 0 0 0 0 1 0 0
+800 10.26 78 3 2000.5 "Aubing..." 0 0 0 0 1 0 0
+508.37 6.69 76 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+290.41 7.08 41 1 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+980 12.41 79 3 2000.5 "Trudering-Riem" 1 0 0 0 1 0 1
+552.42 6.99 79 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 1 0
+780.79 9.52 82 4 1972 "Au-Haidhausen" 1 0 0 0 1 0 0
+1350 11.64 116 4 2006.5 "Thalkirchen..." 0 1 0 0 1 1 0
+730 8.3 88 4 1972 "Laim" 0 0 0 0 1 1 0
+586 9.16 64 2 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+625.3 7.27 86 3 1972 "Laim" 0 0 0 0 1 0 0
+679.02 8.71 78 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+820.7 10.13 81 3 1972 "Laim" 0 0 0 0 1 0 0
+1280 12.8 100 3 2000.5 "Neuhausen-Nymphenburg" 0 1 0 0 1 0 1
+960 10.67 90 4 1983 "Hadern" 0 0 0 0 1 0 0
+683 10.35 66 2 1983 "Ramersdorf-Perlach" 1 0 0 0 1 0 0
+592.06 7.4 80 4 1972 "Aubing..." 0 0 0 0 1 0 0
+406.25 6.45 63 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+785 12.08 65 2 1957.5 "Schwabing-Freimann" 0 0 0 0 1 0 0
+960 10.32 93 4 1972 "Obergiesing" 1 0 0 0 1 0 0
+651 8.24 79 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+1200 12.63 95 4 1972 "Laim" 1 0 0 0 1 0 0
+695 10.69 65 3 1918 "Schwanthalerhöhe" 0 0 0 1 1 0 0
+642 12.35 52 3 1957.5 "Maxvorstadt" 1 0 0 0 1 0 0
+751 8.84 85 4 1972 "Aubing..." 0 0 0 0 1 0 0
+700 11.29 62 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+550 8.46 65 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+590 9.08 65 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+559 9.32 60 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 0 0 0
+690 7.84 88 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+780 8.48 92 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+411.99 8.58 48 1 1972 "Obergiesing" 0 0 0 0 1 0 0
+342.2 7.96 43 1 1957.5 "Sendling" 0 0 0 0 1 0 0
+520 11.82 44 1 1957.5 "Sendling" 0 0 0 0 1 0 0
+483.26 11.24 43 1 1983 "Maxvorstadt" 1 0 0 0 1 0 0
+1023.67 10.34 99 3 1992.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+1500 20 75 3 2000.5 "Schwabing-Freimann" 1 0 0 0 1 0 1
+760 10 76 3 1992.5 "Aubing..." 0 0 0 0 1 0 0
+714 8.93 80 4 1957.5 "Berg am Laim" 0 0 0 0 1 0 0
+431 5.46 79 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+591 7.58 78 3 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+610.74 10.71 57 3 1957.5 "Sendling" 0 0 0 0 1 0 0
+1088.5 12.37 88 3 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+666 10.25 65 3 1992.5 "Pasing-Obermenzing" 0 0 0 0 1 0 1
+636 7.95 80 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+593 7.06 84 3 1972 "Untergiesing" 0 0 0 0 1 0 0
+320 9.41 34 1 1957.5 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 0
+850 14.17 60 2 1972 "Sendling" 0 0 0 0 1 0 1
+539.12 6.74 80 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+665.39 8.32 80 3 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+498 14.23 35 1 1957.5 "Au-Haidhausen" 0 0 0 0 1 0 0
+1099 13.57 81 3 2000.5 "Untergiesing" 0 0 0 0 1 1 0
+1081 14.41 75 3 1957.5 "Untergiesing" 0 0 0 0 1 0 0
+719.5 8.46 85 3 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 1
+540 12 45 2 1957.5 "Obergiesing" 0 0 0 0 1 1 1
+1450 11.98 121 4 1983 "Untergiesing" 1 0 0 0 1 1 0
+848.56 11.02 77 3 1983 "Thalkirchen..." 0 0 0 0 1 0 0
+1063.96 9.67 110 4 1972 "Untergiesing" 0 1 0 0 1 1 0
+650.88 7.57 86 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+770 10.69 72 3 1957.5 "Berg am Laim" 0 0 0 0 1 0 1
+710 10 71 2 1972 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+745 12.84 58 2 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+766 10.21 75 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+595 11.44 52 2 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+745 11.12 67 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 1
+665 7.82 85 4 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+622 9.15 68 3 1983 "Untergiesing" 0 0 0 0 1 1 0
+692 9.61 72 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+880 12.57 70 3 1992.5 "Trudering-Riem" 0 0 0 0 0 0 1
+750 11.54 65 2 1972 "Pasing-Obermenzing" 1 0 0 0 1 0 0
+480 9.06 53 3 1957.5 "Laim" 0 0 0 0 1 0 0
+668 11.93 56 2 1972 "Hadern" 0 0 0 0 1 0 0
+642.6 10.89 59 2 2000.5 "Trudering-Riem" 1 0 0 0 1 0 0
+680 11.15 61 2 1972 "Hadern" 0 0 0 0 1 0 0
+550 8.87 62 3 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+452 4.11 110 5 1957.5 "Berg am Laim" 0 0 0 0 1 1 0
+766 9.01 85 3 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+681.69 9.34 73 3 1992.5 "Trudering-Riem" 1 0 0 0 1 0 0
+417.94 6.15 68 3 1972 "Ramersdorf-Perlach" 0 0 0 0 1 0 0
+790 12.74 62 2 1972 "Pasing-Obermenzing" 1 0 0 0 0 0 1
+685.77 9.52 72 3 1992.5 "Allach-Untermenzing" 0 0 0 0 1 0 0
+1302.1 12.06 108 4 1972 "Bogenhausen" 0 1 0 0 1 1 0
+490 10.89 45 2 1972 "Obergiesing" 0 0 0 0 1 0 1
+1184.24 9.87 120 4 2000.5 "Pasing-Obermenzing" 1 0 0 0 1 0 1
+895 11.47 78 3 1983 "Bogenhausen" 1 0 0 0 1 0 1
+422.99 12.44 34 1 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+827.58 10.75 77 3 1983 "Bogenhausen" 1 0 0 0 1 0 1
+1124.74 11.03 102 4 1957.5 "Laim" 0 0 0 0 1 0 0
+500 8.62 58 2 1983 "Thalkirchen..." 0 0 0 0 1 0 0
+850 11.33 75 3 1992.5 "Trudering-Riem" 0 0 0 0 1 1 0
+400 10.26 39 1 1972 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+610 9.1 67 2 1972 "Ramersdorf-Perlach" 0 0 0 0 0 0 0
+660 12.45 53 2 2000.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 1
+786 8.83 89 4 2010 "Sendling" 0 0 0 0 1 0 0
+610 7.35 83 3 1939 "Moosach" 0 0 0 0 1 0 1
+1483.07 9.57 155 4 1983 "Bogenhausen" 1 0 0 0 1 1 0
+879.6 11.57 76 2 1983 "Bogenhausen" 1 0 0 0 1 0 0
+432 5.54 78 3 1992.5 "Berg am Laim" 0 0 0 0 1 0 0
+525 10.71 49 2 1972 "Sendling-Westpark" 1 0 0 0 1 0 1
+620 14.42 43 1 1983 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 1 1
+1405 16.53 85 3 1983 "Ludwigvorstadt-Isarvorstadt" 1 0 0 0 1 0 1
+462 11 42 1 2000.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 1
+376.47 9.18 41 2 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+400 11.76 34 1 1957.5 "Laim" 0 0 0 0 1 0 0
+533 7.96 67 2 1992.5 "Au-Haidhausen" 0 0 0 0 1 0 1
+430 6.32 68 3 1972 "Thalkirchen..." 0 0 0 0 1 0 0
+490.44 6.05 81 3 1983 "Au-Haidhausen" 1 0 0 0 1 0 0
+607.02 6.67 91 3 1957.5 "Schwabing West" 0 0 0 0 0 0 0
+600 12 50 2 1972 "Schwabing West" 1 0 0 0 1 0 1
+600 10.34 58 3 1957.5 "Pasing-Obermenzing" 1 0 0 0 0 0 0
+639.08 8.88 72 3 1957.5 "Bogenhausen" 0 0 0 0 1 0 0
+840 11.35 74 2 1983 "Thalkirchen..." 0 1 0 0 1 0 1
+720 11.25 64 3 1957.5 "Milbersthofen-Am Hart" 0 0 0 0 1 0 0
+660 12.22 54 3 2000.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+1235 12.35 100 3 1983 "Au-Haidhausen" 1 0 0 0 1 1 1
+640 7.36 87 3 1972 "Neuhausen-Nymphenburg" 0 1 0 0 1 1 0
+600 9.52 63 2 1983 "Au-Haidhausen" 0 0 0 0 1 0 1
+605 8.52 71 3 1972 "Hadern" 0 0 0 0 0 0 0
+540 10.19 53 2 1972 "Hadern" 0 0 0 0 1 0 0
+580 11.84 49 2 2000.5 "Trudering-Riem" 1 0 0 0 1 0 1
+354 10.11 35 1 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+587.15 7.63 77 3 1972 "Neuhausen-Nymphenburg" 0 0 0 0 1 0 0
+634 12.19 52 2 1972 "Laim" 0 0 0 0 1 0 0
+550 11.96 46 1 1972 "Thalkirchen..." 0 1 0 0 1 0 1
+834.68 6.14 136 5 1957.5 "Neuhausen-Nymphenburg" 1 0 0 0 1 0 0
+390 13 30 1 1972 "Thalkirchen..." 0 1 0 0 1 0 1
+651.26 13.86 47 2 1957.5 "Au-Haidhausen" 1 0 0 0 1 0 0
+860 10.12 85 4 1983 "Hadern" 1 0 0 0 1 0 0
+704.28 9.78 72 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 1 1
+652.24 9.59 68 3 1957.5 "Au-Haidhausen" 1 0 0 0 0 0 0
+339.51 11.71 29 1 1957.5 "Moosach" 0 0 0 0 1 0 0
+869.4 10.11 86 3 1972 "Sendling-Westpark" 0 0 0 0 1 0 0
+549 8.19 67 3 1957.5 "Fledmoching-Hasenbergel" 0 0 0 0 1 0 0
+873.5 11.8 74 3 1972 "Bogenhausen" 0 1 0 0 1 1 0
+1130 13.95 81 3 1972 "Bogenhausen" 0 1 0 0 1 1 0
+440 16.3 27 1 1972 "Schwabing West" 1 0 0 0 1 0 1
+625.43 7.36 85 4 1957.5 "Schwabing West" 1 0 0 0 1 0 0
