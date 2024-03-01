@@ -1,4 +1,4 @@
-# Statistik9
+# Statistik - Der Weg zur Datenanalyse, 9. Auflage
 
 <img src="https://github.com/SFRI-SDS-lmu/Statistik9/blob/main/media_111032183.jpeg" width="250">
 
