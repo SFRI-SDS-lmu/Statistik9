@@ -1,6 +1,6 @@
 # Statistik9
 
-![alt text](https://github.com/SFRI-SDS-lmu/Statistik9/blob/main/media_111032183.jpeg?raw=true)
+<img src="https://github.com/SFRI-SDS-lmu/Statistik9/blob/main/media_111032183.jpeg" width="250">
 
 Hinweise zur Benutzung des R Pakets
 
